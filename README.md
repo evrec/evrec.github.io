@@ -12,6 +12,8 @@ python -m http.server 8765 --directory docs
 
 Then open `http://localhost:8765`. The site is static, with no build step.
 
+## Available At: https://evrec.github.io/
+
 ## Layout
 
 - `docs/`: the site served by GitHub Pages, i.e. the viewer (`index.html`, `app.js`, three.js from a CDN).
