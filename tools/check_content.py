@@ -1,8 +1,8 @@
-"""Controlla che le schede in web/content puntino a strutture e rilievi esistenti. Uso: python tools/check_content.py"""
+"""Controlla che le schede in docs/content puntino a strutture e rilievi esistenti. Uso: python tools/check_content.py"""
 import json
 from pathlib import Path
 
-WEB = Path(__file__).resolve().parent.parent / "web"
+WEB = Path(__file__).resolve().parent.parent / "docs"
 for region in json.loads((WEB / "data" / "index.json").read_text(encoding="utf-8")):
     rid = region["id"]
     data = json.loads((WEB / "data" / f"{rid}.json").read_text(encoding="utf-8"))

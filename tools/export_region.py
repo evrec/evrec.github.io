@@ -3,7 +3,7 @@
 Uso (dalla radice del progetto):
   blender -b --disable-autoexec vendor/z-anatomy/Z-Anatomy/Startup.blend --python tools/export_region.py
 
-Per ogni regione scrive web/data/<id>.glb e web/data/<id>.json, più web/data/index.json.
+Per ogni regione scrive docs/data/<id>.glb e docs/data/<id>.json, più docs/data/index.json.
 
   nodes      {id: {en, it, la, tipo, parent}}  foglie (con mesh) e gruppi (tipo "gruppo"), ad albero
   landmarks  [{id, di, en, it, la, pos}]       rilievi ossei, pos in coordinate glTF
@@ -17,7 +17,7 @@ from pathlib import Path
 import bpy
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "web" / "data"
+OUT = ROOT / "docs" / "data"
 OUT.mkdir(parents=True, exist_ok=True)
 
 # (id, nome, collezioni Z-Anatomy, esporta anche il lato sinistro)

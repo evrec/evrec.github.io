@@ -2,8 +2,8 @@ MIT License
 
 Copyright (c) 2026 Atlante di anatomia 3D contributors
 
-This license covers the source code (web/index.html, web/app.js, tools/).
-Models, derived data and cards in web/data and web/content are licensed
+This license covers the source code (docs/index.html, docs/app.js, tools/).
+Models, derived data and cards in docs/data and docs/content are licensed
 under CC BY-SA 4.0; see README.md for attributions.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
