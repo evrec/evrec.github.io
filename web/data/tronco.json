@@ -1,0 +1,1970 @@
+{
+ "nodes": {
+  "(Abdominal part of pectoralis major muscle)": {
+   "en": "(Abdominal part of pectoralis major muscle)",
+   "it": "Parte addominale del muscolo grande pettorale",
+   "la": "(Pars abdominalis musculi pectoralis majoris)",
+   "tipo": "muscolo",
+   "parent": "Pectoralis major muscle"
+  },
+  "Ascending part of trapezius muscle": {
+   "en": "Ascending part of trapezius muscle",
+   "it": "Parte ascendente del muscolo trapezio",
+   "la": "Pars ascendens musculi trapezii",
+   "tipo": "muscolo",
+   "parent": "Trapezius muscle"
+  },
+  "Atlas (C1)": {
+   "en": "Atlas (C1)",
+   "it": "Atlante (C1)",
+   "la": "Atlas (C1)",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Axis (C2)": {
+   "en": "Axis (C2)",
+   "it": "Epistrofeo (C2)",
+   "la": "Axis (C2)",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Body of sternum": {
+   "en": "Body of sternum",
+   "it": "Corpo dello sterno",
+   "la": "Corpus sterni",
+   "tipo": "osso",
+   "parent": "Sternum"
+  },
+  "Bones of thorax": {
+   "en": "Bones of thorax",
+   "it": "Ossa del torace",
+   "la": "Ossa thoracis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Cervical vertebrae": {
+   "en": "Cervical vertebrae",
+   "it": "Vertebre cervicali",
+   "la": "Vertebrae cervicales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Clavicular head of pectoralis major muscle": {
+   "en": "Clavicular head of pectoralis major muscle",
+   "it": "Parte clavicolare del muscolo grande pettorale",
+   "la": "Pars clavicularis musculi pectoralis majoris",
+   "tipo": "muscolo",
+   "parent": "Pectoralis major muscle"
+  },
+  "Coccygeus muscle": {
+   "en": "Coccygeus muscle",
+   "it": "Muscolo coccigeo",
+   "la": "Musculus coccygeus",
+   "tipo": "muscolo",
+   "parent": "Pelvic diaphragm"
+  },
+  "Coccyx": {
+   "en": "Coccyx",
+   "it": "Coccige",
+   "la": "Os coccygis",
+   "tipo": "osso",
+   "parent": null
+  },
+  "Costal cartilage of eighth rib": {
+   "en": "Costal cartilage of eighth rib",
+   "it": "Cartilagine costale dell'ottava costa",
+   "la": "Cartilago costae octavae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of fifth rib": {
+   "en": "Costal cartilage of fifth rib",
+   "it": "Cartilagine costale della quinta costa",
+   "la": "Cartilago costae quinti costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of first rib": {
+   "en": "Costal cartilage of first rib",
+   "it": "Cartilagine costale della prima costa",
+   "la": "Cartilago costae primae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of fourth rib": {
+   "en": "Costal cartilage of fourth rib",
+   "it": "Cartilagine costale della quarta costa",
+   "la": "Cartilago costae quarti costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of ninth rib": {
+   "en": "Costal cartilage of ninth rib",
+   "it": "Cartilagine costale della nona costa",
+   "la": "Costa cartilago nonae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of second rib": {
+   "en": "Costal cartilage of second rib",
+   "it": "Cartilagine costale della seconda costa",
+   "la": "Cartilago costae secundae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of seventh rib": {
+   "en": "Costal cartilage of seventh rib",
+   "it": "Cartilagine costale della settima costa",
+   "la": "Cartilago costae septimi costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of sixth rib": {
+   "en": "Costal cartilage of sixth rib",
+   "it": "Cartilagine costale della sesta costa",
+   "la": "Cartilago costae sextae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of tenth rib": {
+   "en": "Costal cartilage of tenth rib",
+   "it": "Cartilagine costale della decima costa",
+   "la": "Cartilago costae decimae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilage of third rib": {
+   "en": "Costal cartilage of third rib",
+   "it": "Cartilagine costale della terza costa",
+   "la": "Cartilago costae tertiae costae",
+   "tipo": "altro",
+   "parent": "Costal cartilages"
+  },
+  "Costal cartilages": {
+   "en": "Costal cartilages",
+   "it": "Cartilagini costali",
+   "la": "Cartilagines costales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Descending part of trapezius muscle": {
+   "en": "Descending part of trapezius muscle",
+   "it": "Parte discendente del muscolo trapezio",
+   "la": "Pars descendens musculi trapezii",
+   "tipo": "muscolo",
+   "parent": "Trapezius muscle"
+  },
+  "Diaphragm": {
+   "en": "Diaphragm",
+   "it": "Diaframma",
+   "la": "Diaphragma",
+   "tipo": "muscolo",
+   "parent": null
+  },
+  "Dorsal parts of lateral intertransversarii lumborum muscles": {
+   "en": "Dorsal parts of lateral intertransversarii lumborum muscles",
+   "it": "Parti dorsali dei muscoli intertrasversari laterali lombari",
+   "la": "Partes dors. musculorum intertransversariorum lat. lumborum",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Eighth rib": {
+   "en": "Eighth rib",
+   "it": "Ottava costa",
+   "la": "Octava costa",
+   "tipo": "osso",
+   "parent": "False ribs"
+  },
+  "Eleventh rib": {
+   "en": "Eleventh rib",
+   "it": "Undicesima costa",
+   "la": "Undecima costa",
+   "tipo": "osso",
+   "parent": "Floating ribs"
+  },
+  "Epaxial muscles": {
+   "en": "Epaxial muscles",
+   "it": "Muscoli epiassiali",
+   "la": "Musculi epaxiales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Erector spinae": {
+   "en": "Erector spinae",
+   "it": "Muscolo estensore della colonna vertebrale",
+   "la": "Erector spinae",
+   "tipo": "gruppo",
+   "parent": "Epaxial muscles"
+  },
+  "External abdominal oblique muscle": {
+   "en": "External abdominal oblique muscle",
+   "it": "Muscolo obliquo addominale esterno",
+   "la": "Musculus obliquus externus abdominis",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "External anal sphincter": {
+   "en": "External anal sphincter",
+   "it": "Sfintere anale esterno",
+   "la": "Sphincter externus ani",
+   "tipo": "muscolo",
+   "parent": "Perineal muscles"
+  },
+  "External intercostal muscles": {
+   "en": "External intercostal muscles",
+   "it": "Muscoli intercostali esterni",
+   "la": "Musculi intercostales externi",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "False ribs": {
+   "en": "False ribs",
+   "it": "Coste false",
+   "la": "Costae spuriae",
+   "tipo": "gruppo",
+   "parent": "Ribs"
+  },
+  "Fifth rib": {
+   "en": "Fifth rib",
+   "it": "Quinta costa",
+   "la": "Quinta costa",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "First rib": {
+   "en": "First rib",
+   "it": "Prima costa",
+   "la": "Costa prima",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Floating ribs": {
+   "en": "Floating ribs",
+   "it": "Coste fluttuanti",
+   "la": "Costae fluctuantes",
+   "tipo": "gruppo",
+   "parent": "False ribs"
+  },
+  "Fourth rib": {
+   "en": "Fourth rib",
+   "it": "Quarta costa",
+   "la": "Quarta costa",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Hypaxial muscles of back": {
+   "en": "Hypaxial muscles of back",
+   "it": "Muscoli ipoassiali della schiena",
+   "la": "Musculi hypaxiales dorsi",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Iliococcygeus muscle": {
+   "en": "Iliococcygeus muscle",
+   "it": "Muscolo iliococcigeo",
+   "la": "Musculus iliococcygeus",
+   "tipo": "muscolo",
+   "parent": "Levator ani"
+  },
+  "Iliocostalis colli muscle": {
+   "en": "Iliocostalis colli muscle",
+   "it": "Muscolo ileocostale del collo",
+   "la": "Musculus iliocostalis colli",
+   "tipo": "muscolo",
+   "parent": "Iliocostalis muscles"
+  },
+  "Iliocostalis lumborum muscle": {
+   "en": "Iliocostalis lumborum muscle",
+   "it": "Muscolo ileocostale dei lombi",
+   "la": "Musculus iliocostalis lumborum",
+   "tipo": "muscolo",
+   "parent": "Iliocostalis muscles"
+  },
+  "Iliocostalis muscles": {
+   "en": "Iliocostalis muscles",
+   "it": "Muscoli ileocostali",
+   "la": "Musculi iliocostales",
+   "tipo": "gruppo",
+   "parent": "Erector spinae"
+  },
+  "Iliocostalis thoracis muscle": {
+   "en": "Iliocostalis thoracis muscle",
+   "it": "Parte toracica del muscolo ileocostale del torace",
+   "la": "Musculus iliocostalis thoracis",
+   "tipo": "muscolo",
+   "parent": "Iliocostalis muscles"
+  },
+  "Inguinal ligament": {
+   "en": "Inguinal ligament",
+   "it": "Legamento inguinale",
+   "la": "Ligamentum inguinale",
+   "tipo": "altro",
+   "parent": null
+  },
+  "Innermost intercostal muscles": {
+   "en": "Innermost intercostal muscles",
+   "it": "Muscoli intercostali intimi",
+   "la": "Musculi intercostales intimi",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Internal abdominal oblique muscle": {
+   "en": "Internal abdominal oblique muscle",
+   "it": "Muscolo obliquo addominale interno",
+   "la": "Musculus obliquus internus abdominis",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Internal intercostal muscles": {
+   "en": "Internal intercostal muscles",
+   "it": "Muscoli intercostali interni",
+   "la": "Musculi intercostales interni",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Interspinales colli muscles": {
+   "en": "Interspinales colli muscles",
+   "it": "Muscoli interspinosi colli",
+   "la": "Musculi interspinales colli",
+   "tipo": "muscolo",
+   "parent": "Interspinales muscles"
+  },
+  "Interspinales lumborum muscles": {
+   "en": "Interspinales lumborum muscles",
+   "it": "Muscoli interspinosi lombari",
+   "la": "Musculi interspinales lumborum",
+   "tipo": "muscolo",
+   "parent": "Interspinales muscles"
+  },
+  "Interspinales muscles": {
+   "en": "Interspinales muscles",
+   "it": "Muscoli interspinosi",
+   "la": "Musculi interspinales",
+   "tipo": "gruppo",
+   "parent": "Epaxial muscles"
+  },
+  "Interspinales thoracis muscles": {
+   "en": "Interspinales thoracis muscles",
+   "it": "Muscoli interspinosi del torace",
+   "la": "Musculi interspinales thoracis",
+   "tipo": "muscolo",
+   "parent": "Interspinales muscles"
+  },
+  "Latissimus dorsi muscle": {
+   "en": "Latissimus dorsi muscle",
+   "it": "Muscolo grande dorsale",
+   "la": "Musculus latissimus dorsi",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Levator ani": {
+   "en": "Levator ani",
+   "it": "muscolo elevatore dell'ano",
+   "la": "Musculus levator ani",
+   "tipo": "gruppo",
+   "parent": "Pelvic diaphragm"
+  },
+  "Levator scapulae": {
+   "en": "Levator scapulae",
+   "it": "Muscolo elevatore delle scapole",
+   "la": "Levator scapulae",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Levatores breves costarum": {
+   "en": "Levatores breves costarum",
+   "it": "Muscoli elevatori breves delle coste",
+   "la": "Levatores breves costarum",
+   "tipo": "muscolo",
+   "parent": "Levatores costarum"
+  },
+  "Levatores costarum": {
+   "en": "Levatores costarum",
+   "it": "Muscoli elevatori delle coste",
+   "la": "Levatores costarum",
+   "tipo": "gruppo",
+   "parent": "Muscles of thorax"
+  },
+  "Levatores longi costarum": {
+   "en": "Levatores longi costarum",
+   "it": "Muscololi elevatore lunghi delle coste",
+   "la": "Levatores longi costarum",
+   "tipo": "muscolo",
+   "parent": "Levatores costarum"
+  },
+  "Linea alba": {
+   "en": "Linea alba",
+   "it": "Linea alba",
+   "la": "Linea alba",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Longissimus capitis muscle": {
+   "en": "Longissimus capitis muscle",
+   "it": "Muscolo lunghissimo della testa",
+   "la": "Musculus longissimus capitis",
+   "tipo": "muscolo",
+   "parent": "Longissimus muscles"
+  },
+  "Longissimus colli muscle": {
+   "en": "Longissimus colli muscle",
+   "it": "Muscolo lunghissimo del collo",
+   "la": "Musculus longissimus colli",
+   "tipo": "muscolo",
+   "parent": "Longissimus muscles"
+  },
+  "Longissimus muscles": {
+   "en": "Longissimus muscles",
+   "it": "Muscoli lunghissimo",
+   "la": "Musculi longissimi",
+   "tipo": "gruppo",
+   "parent": "Erector spinae"
+  },
+  "Longissimus thoracis muscle": {
+   "en": "Longissimus thoracis muscle",
+   "it": "Muscolo lunghissimo del dorso",
+   "la": "Musculus longissimus thoracis",
+   "tipo": "muscolo",
+   "parent": "Longissimus muscles"
+  },
+  "Lumbar vertebrae": {
+   "en": "Lumbar vertebrae",
+   "it": "Vertebre lombari",
+   "la": "Vertebrae lumbales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Manubrium of sternum": {
+   "en": "Manubrium of sternum",
+   "it": "Manubrio sternale",
+   "la": "Manubrium sterni",
+   "tipo": "osso",
+   "parent": "Sternum"
+  },
+  "Multifidus colli muscle": {
+   "en": "Multifidus colli muscle",
+   "it": "Muscolo multifido cervicale",
+   "la": "Musculus multifidus colli",
+   "tipo": "muscolo",
+   "parent": "Multifidus muscles"
+  },
+  "Multifidus lumborum muscle": {
+   "en": "Multifidus lumborum muscle",
+   "it": "Muscolo multifido lombare",
+   "la": "Musculus multifidus lumborum",
+   "tipo": "muscolo",
+   "parent": "Multifidus muscles"
+  },
+  "Multifidus muscles": {
+   "en": "Multifidus muscles",
+   "it": "Muscoli multifidi",
+   "la": "Musculi multifidi",
+   "tipo": "gruppo",
+   "parent": "Transversospinal muscles"
+  },
+  "Multifidus thoracis muscle": {
+   "en": "Multifidus thoracis muscle",
+   "it": "Muscolo multifido toracico",
+   "la": "Musculus multifidus thoracis",
+   "tipo": "muscolo",
+   "parent": "Multifidus muscles"
+  },
+  "Muscles of abdomen": {
+   "en": "Muscles of abdomen",
+   "it": "Muscoli dell'addome",
+   "la": "Musculi abdominis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Muscles of pelvis": {
+   "en": "Muscles of pelvis",
+   "it": "Muscoli del bacino",
+   "la": "Musculi pelvis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Muscles of thorax": {
+   "en": "Muscles of thorax",
+   "it": "Muscoli del torace",
+   "la": "Musculi thoracis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Ninth rib": {
+   "en": "Ninth rib",
+   "it": "Nona costa",
+   "la": "Nona costa",
+   "tipo": "osso",
+   "parent": "False ribs"
+  },
+  "Pectoralis major muscle": {
+   "en": "Pectoralis major muscle",
+   "it": "Muscolo grande pettorale",
+   "la": "Musculus pectoralis major",
+   "tipo": "gruppo",
+   "parent": "Muscles of thorax"
+  },
+  "Pectoralis minor muscle": {
+   "en": "Pectoralis minor muscle",
+   "it": "Muscolo piccolo pettorale",
+   "la": "Musculus pectoralis minor",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Pelvic diaphragm": {
+   "en": "Pelvic diaphragm",
+   "it": "Diaframma pelvico",
+   "la": "Diaphragma pelvis",
+   "tipo": "gruppo",
+   "parent": "Muscles of pelvis"
+  },
+  "Perineal muscles": {
+   "en": "Perineal muscles",
+   "it": "Muscoli perineali",
+   "la": "Musculi perinei",
+   "tipo": "gruppo",
+   "parent": "Muscles of pelvis"
+  },
+  "Pubo-analis muscle": {
+   "en": "Pubo-analis muscle",
+   "it": "Muscolo pubo-anale",
+   "la": "Musculus puboanalis",
+   "tipo": "muscolo",
+   "parent": "Levator ani"
+  },
+  "Pubococcygeus muscle": {
+   "en": "Pubococcygeus muscle",
+   "it": "Muscolo pubococcigeo",
+   "la": "Musculus pubococcygeus",
+   "tipo": "muscolo",
+   "parent": "Levator ani"
+  },
+  "Pyramidalis muscle": {
+   "en": "Pyramidalis muscle",
+   "it": "Muscolo piramidale",
+   "la": "Musculus pyramidalis",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Quadratus lumborum muscle": {
+   "en": "Quadratus lumborum muscle",
+   "it": "Muscolo quadrato lombare",
+   "la": "Musculus quadratus lumborum",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Rectus abdominis muscle": {
+   "en": "Rectus abdominis muscle",
+   "it": "Muscolo retto dell'addome",
+   "la": "Musculus rectus abdominis",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Rhomboid major muscle": {
+   "en": "Rhomboid major muscle",
+   "it": "Muscolo grande romboide",
+   "la": "Musculus rhomboideus major",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Rhomboid minor muscle": {
+   "en": "Rhomboid minor muscle",
+   "it": "Muscolo piccolo romboide",
+   "la": "Musculus rhomboideus minor",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Ribs": {
+   "en": "Ribs",
+   "it": "Coste",
+   "la": "Costae",
+   "tipo": "gruppo",
+   "parent": "Bones of thorax"
+  },
+  "Rotatores": {
+   "en": "Rotatores",
+   "it": "Muscoli rotatori",
+   "la": "Rotatores",
+   "tipo": "gruppo",
+   "parent": "Transversospinal muscles"
+  },
+  "Sacrum": {
+   "en": "Sacrum",
+   "it": "Osso sacro",
+   "la": "Os sacrum",
+   "tipo": "osso",
+   "parent": null
+  },
+  "Second rib": {
+   "en": "Second rib",
+   "it": "Seconda costa",
+   "la": "Costa secunda",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Semispinalis colli muscle": {
+   "en": "Semispinalis colli muscle",
+   "it": "Muscolo semispinale del collo",
+   "la": "Musculus semispinalis colli",
+   "tipo": "muscolo",
+   "parent": "Semispinalis muscles"
+  },
+  "Semispinalis muscles": {
+   "en": "Semispinalis muscles",
+   "it": "Muscolo semispinale",
+   "la": "Musculus semispinalis",
+   "tipo": "gruppo",
+   "parent": "Transversospinal muscles"
+  },
+  "Semispinalis thoracis muscle": {
+   "en": "Semispinalis thoracis muscle",
+   "it": "Muscolo semispinale del dorso",
+   "la": "Musculus semispinalis thoracis",
+   "tipo": "muscolo",
+   "parent": "Semispinalis muscles"
+  },
+  "Serratus anterior muscle": {
+   "en": "Serratus anterior muscle",
+   "it": "Muscolo dentato anteriore",
+   "la": "Musculus serratus anterior",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Serratus posterior inferior muscle": {
+   "en": "Serratus posterior inferior muscle",
+   "it": "Muscolo dentato postero-inferiore",
+   "la": "Musculus serratus posterior inferior",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Serratus posterior superior muscle": {
+   "en": "Serratus posterior superior muscle",
+   "it": "Muscolo serrato postero-superiore",
+   "la": "Musculus serratus posterior superior",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Seventh rib": {
+   "en": "Seventh rib",
+   "it": "Settima costa",
+   "la": "Septima costa",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Sixth rib": {
+   "en": "Sixth rib",
+   "it": "Sesta costa",
+   "la": "Sexta costa",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Spinalis capitis muscle": {
+   "en": "Spinalis capitis muscle",
+   "it": "Muscolo spinale dellla testa",
+   "la": "Musculus spinalis capitis",
+   "tipo": "muscolo",
+   "parent": "Spinalis muscles"
+  },
+  "Spinalis colli muscle": {
+   "en": "Spinalis colli muscle",
+   "it": "Muscolo spinale del collo",
+   "la": "Musculus spinalis colli",
+   "tipo": "muscolo",
+   "parent": "Spinalis muscles"
+  },
+  "Spinalis muscles": {
+   "en": "Spinalis muscles",
+   "it": "Muscoli spinali",
+   "la": "Musculi spinales",
+   "tipo": "gruppo",
+   "parent": "Erector spinae"
+  },
+  "Spinalis thoracis muscle": {
+   "en": "Spinalis thoracis muscle",
+   "it": "Muscolo spinale del dorso",
+   "la": "Musculus spinalis thoracis",
+   "tipo": "muscolo",
+   "parent": "Spinalis muscles"
+  },
+  "Spinotransversales muscles": {
+   "en": "Spinotransversales muscles",
+   "it": "Muscoli spinotrasversali",
+   "la": "Musculi spinotransversales",
+   "tipo": "gruppo",
+   "parent": "Epaxial muscles"
+  },
+  "Splenius capitis muscle": {
+   "en": "Splenius capitis muscle",
+   "it": "Muscolo splenio della testa",
+   "la": "Musculus splenius capitis",
+   "tipo": "muscolo",
+   "parent": "Splenius muscles"
+  },
+  "Splenius colli muscle": {
+   "en": "Splenius colli muscle",
+   "it": "Muscolo splenius del collo",
+   "la": "Musculus splenius colli",
+   "tipo": "muscolo",
+   "parent": "Splenius muscles"
+  },
+  "Splenius muscles": {
+   "en": "Splenius muscles",
+   "it": "Muscoli splenio",
+   "la": "Musculi splenii",
+   "tipo": "gruppo",
+   "parent": "Spinotransversales muscles"
+  },
+  "Sternocostal head of pectoralis major muscle": {
+   "en": "Sternocostal head of pectoralis major muscle",
+   "it": "Parte sternocostale del muscolo grande pettorale",
+   "la": "Pars sternocostalis musculi pectoralis majoris",
+   "tipo": "muscolo",
+   "parent": "Pectoralis major muscle"
+  },
+  "Sternum": {
+   "en": "Sternum",
+   "it": "Sterno",
+   "la": "Sternum",
+   "tipo": "gruppo",
+   "parent": "Bones of thorax"
+  },
+  "Subclavius muscle": {
+   "en": "Subclavius muscle",
+   "it": "Muscolo succlavio",
+   "la": "Musculus subclavius",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Tendinous arch of levator ani": {
+   "en": "Tendinous arch of levator ani",
+   "it": "Arco tendineo del muscolo elevatore dell'ano",
+   "la": "Arcus tendineus levatoris ani",
+   "tipo": "muscolo",
+   "parent": "Levator ani"
+  },
+  "Tenth rib": {
+   "en": "Tenth rib",
+   "it": "Decima costa",
+   "la": "Decima costa",
+   "tipo": "osso",
+   "parent": "False ribs"
+  },
+  "Third rib": {
+   "en": "Third rib",
+   "it": "Terza costa",
+   "la": "Tertia costa",
+   "tipo": "osso",
+   "parent": "True ribs"
+  },
+  "Thoracic vertebrae": {
+   "en": "Thoracic vertebrae",
+   "it": "Vertebre toraciche",
+   "la": "Vertebrae thoracicae",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Transverse part of trapezius muscle": {
+   "en": "Transverse part of trapezius muscle",
+   "it": "Parte trasversale del muscolo trapezio",
+   "la": "Pars transversa musculi trapezii",
+   "tipo": "muscolo",
+   "parent": "Trapezius muscle"
+  },
+  "Transversospinal muscles": {
+   "en": "Transversospinal muscles",
+   "it": "Muscoli trasversospinali",
+   "la": "Musculi transversospinales",
+   "tipo": "gruppo",
+   "parent": "Epaxial muscles"
+  },
+  "Transversus abdominis muscle": {
+   "en": "Transversus abdominis muscle",
+   "it": "Muscolo trasverso dell'addome",
+   "la": "Musculus transversus abdominis",
+   "tipo": "muscolo",
+   "parent": "Muscles of abdomen"
+  },
+  "Transversus thoracis muscle": {
+   "en": "Transversus thoracis muscle",
+   "it": "Muscolo trasverso del torace",
+   "la": "Musculus transversus thoracis",
+   "tipo": "muscolo",
+   "parent": "Muscles of thorax"
+  },
+  "Trapezius muscle": {
+   "en": "Trapezius muscle",
+   "it": "Muscolo trapezio",
+   "la": "Musculus trapezius",
+   "tipo": "gruppo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "True ribs": {
+   "en": "True ribs",
+   "it": "Coste vere",
+   "la": "Costae verae",
+   "tipo": "gruppo",
+   "parent": "Ribs"
+  },
+  "Twelfth rib": {
+   "en": "Twelfth rib",
+   "it": "Dodicesima costa",
+   "la": "Duodecima costa",
+   "tipo": "osso",
+   "parent": "Floating ribs"
+  },
+  "Ventral parts of lateral intertransversarii lumborum muscles": {
+   "en": "Ventral parts of lateral intertransversarii lumborum muscles",
+   "it": "Parti ventrali dei muscol intertrasversari laterali lombari",
+   "la": "Partes vent. musculorum intertransversariorum lat. lumborum",
+   "tipo": "muscolo",
+   "parent": "Hypaxial muscles of back"
+  },
+  "Vertebra C3": {
+   "en": "Vertebra C3",
+   "it": "Vertebra C3",
+   "la": "Vertebra cervicalis III",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C4": {
+   "en": "Vertebra C4",
+   "it": "Vertebra C4",
+   "la": "Vertebra cervicalis IV",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C5": {
+   "en": "Vertebra C5",
+   "it": "Vertebra C5",
+   "la": "Vertebra cervicalis V",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C6": {
+   "en": "Vertebra C6",
+   "it": "Vertebra C6",
+   "la": "Vertebra cervicalis VI",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C7": {
+   "en": "Vertebra C7",
+   "it": "Vertebra C7",
+   "la": "Vertebra cervicalis VII",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra L1": {
+   "en": "Vertebra L1",
+   "it": "Vertebra L1",
+   "la": "Vertebra lumborum I",
+   "tipo": "osso",
+   "parent": "Lumbar vertebrae"
+  },
+  "Vertebra L2": {
+   "en": "Vertebra L2",
+   "it": "Vertebra L2",
+   "la": "Vertebra lumborum II",
+   "tipo": "osso",
+   "parent": "Lumbar vertebrae"
+  },
+  "Vertebra L3": {
+   "en": "Vertebra L3",
+   "it": "Vertebra L3",
+   "la": "Vertebra lumborum III",
+   "tipo": "osso",
+   "parent": "Lumbar vertebrae"
+  },
+  "Vertebra L4": {
+   "en": "Vertebra L4",
+   "it": "Vertebra L4",
+   "la": "Vertebra lumborum IV",
+   "tipo": "osso",
+   "parent": "Lumbar vertebrae"
+  },
+  "Vertebra L5": {
+   "en": "Vertebra L5",
+   "it": "Vertebra L5",
+   "la": "Vertebra lumborum V",
+   "tipo": "osso",
+   "parent": "Lumbar vertebrae"
+  },
+  "Vertebra T1": {
+   "en": "Vertebra T1",
+   "it": "Vertebra T1",
+   "la": "Vertebra thoracis I",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T10": {
+   "en": "Vertebra T10",
+   "it": "Vertebra T10",
+   "la": "Vertebra thoracis X",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T11": {
+   "en": "Vertebra T11",
+   "it": "Vertebra T11",
+   "la": "Vertebra thoracis XI",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T12": {
+   "en": "Vertebra T12",
+   "it": "Vertebra T12",
+   "la": "Vertebra thoracis XII",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T2": {
+   "en": "Vertebra T2",
+   "it": "Vertebra T2",
+   "la": "Vertebra thoracis II",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T3": {
+   "en": "Vertebra T3",
+   "it": "Vertebra T3",
+   "la": "Vertebra thoracis III",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T4": {
+   "en": "Vertebra T4",
+   "it": "Vertebra T4",
+   "la": "Vertebra thoracis IV",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T5": {
+   "en": "Vertebra T5",
+   "it": "Vertebra T5",
+   "la": "Vertebra thoracis V",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T6": {
+   "en": "Vertebra T6",
+   "it": "Vertebra T6",
+   "la": "Vertebra thoracis VI",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T7": {
+   "en": "Vertebra T7",
+   "it": "Vertebra T7",
+   "la": "Vertebra thoracis VII",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T8": {
+   "en": "Vertebra T8",
+   "it": "Vertebra T8",
+   "la": "Vertebra thoracis VIII",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Vertebra T9": {
+   "en": "Vertebra T9",
+   "it": "Vertebra T9",
+   "la": "Vertebra thoracis IX",
+   "tipo": "osso",
+   "parent": "Thoracic vertebrae"
+  },
+  "Xiphoid process": {
+   "en": "Xiphoid process",
+   "it": "Processo xifoideo",
+   "la": "Processus xiphoideus",
+   "tipo": "osso",
+   "parent": "Sternum"
+  }
+ },
+ "landmarks": [
+  {
+   "id": "Atlas (C1)/(Canal for vertebral artery)",
+   "di": "Atlas (C1)",
+   "en": "(Canal for vertebral artery)",
+   "it": "(Canale dell'arteria vertebrale)",
+   "la": "(Canalis arteriae vertebralis)",
+   "pos": [
+    -0.03586,
+    1.54306,
+    -0.01331
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Anterior arch of atlas",
+   "di": "Atlas (C1)",
+   "en": "Anterior arch of atlas",
+   "it": "Arco anteriore dell'atlante",
+   "la": "Arcus anterior atlantis",
+   "pos": [
+    0.00461,
+    1.54747,
+    -0.00175
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Anterior tubercle of atlas",
+   "di": "Atlas (C1)",
+   "en": "Anterior tubercle of atlas",
+   "it": "Tubercolo anteriore dell'atlante",
+   "la": "Tuberculum anterius atlantis",
+   "pos": [
+    0.0,
+    1.53832,
+    0.00266
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Facet for dens",
+   "di": "Atlas (C1)",
+   "en": "Facet for dens",
+   "it": "Fossetta del dente",
+   "la": "Fovea dentis",
+   "pos": [
+    0.0,
+    1.53707,
+    -0.00156
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Groove for vertebral artery",
+   "di": "Atlas (C1)",
+   "en": "Groove for vertebral artery",
+   "it": "Solco dell'arteria vertebrale",
+   "la": "Sulcus arteriae vertebralis",
+   "pos": [
+    -0.01946,
+    1.53662,
+    -0.03186
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Inferior articular surface of atlas",
+   "di": "Atlas (C1)",
+   "en": "Inferior articular surface of atlas",
+   "it": "Faccetta articolare inferiore dell'atlante",
+   "la": "Facies articularis inferior atlantis",
+   "pos": [
+    0.02431,
+    1.53311,
+    -0.0147
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Lateral mass",
+   "di": "Atlas (C1)",
+   "en": "Lateral mass",
+   "it": "Massa laterale",
+   "la": "Massa lateralis atlantis",
+   "pos": [
+    0.02332,
+    1.54928,
+    -0.01522
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Posterior arch of atlas",
+   "di": "Atlas (C1)",
+   "en": "Posterior arch of atlas",
+   "it": "Arco posteriore dell'atlante",
+   "la": "Arcus posterior atlantis",
+   "pos": [
+    0.00814,
+    1.53492,
+    -0.03879
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Posterior tubercle of atlas",
+   "di": "Atlas (C1)",
+   "en": "Posterior tubercle of atlas",
+   "it": "Tubercolo posteriore dell'atlante",
+   "la": "Tuberculum posterius atlantis",
+   "pos": [
+    0.00278,
+    1.53618,
+    -0.04471
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Superior articular surface of atlas",
+   "di": "Atlas (C1)",
+   "en": "Superior articular surface of atlas",
+   "it": "Faccetta articolare superiore dell'atlante",
+   "la": "Facies articularis superior atlantis",
+   "pos": [
+    0.01729,
+    1.54853,
+    -0.01236
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Transverse ligament tubercle",
+   "di": "Atlas (C1)",
+   "en": "Transverse ligament tubercle",
+   "it": "Tubercolo del legamento trasverso",
+   "la": "Tuberculum ligamenti transversi",
+   "pos": [
+    -0.02241,
+    1.53389,
+    -0.01045
+   ]
+  },
+  {
+   "id": "Axis (C2)/Anterior articular facet of dens axis",
+   "di": "Axis (C2)",
+   "en": "Anterior articular facet of dens axis",
+   "it": "Faccetta articolare anteriore del dente dell'epistrofeo",
+   "la": "Facies articularis anterior dentis axis",
+   "pos": [
+    2e-05,
+    1.51833,
+    -0.00035
+   ]
+  },
+  {
+   "id": "Axis (C2)/Apex of dens axis",
+   "di": "Axis (C2)",
+   "en": "Apex of dens axis",
+   "it": "Apice del dente",
+   "la": "Apex dentis axis",
+   "pos": [
+    0.00031,
+    1.55124,
+    -0.01088
+   ]
+  },
+  {
+   "id": "Axis (C2)/Dens axis",
+   "di": "Axis (C2)",
+   "en": "Dens axis",
+   "it": "Dente dell'epistrofeo",
+   "la": "Dens axis",
+   "pos": [
+    2e-05,
+    1.51729,
+    -0.00138
+   ]
+  },
+  {
+   "id": "Axis (C2)/Posterior articular facet of dens axis",
+   "di": "Axis (C2)",
+   "en": "Posterior articular facet of dens axis",
+   "it": "Faccetta articolare posteriore del dente dell'epistrofeo",
+   "la": "Facies articularis posterior dentis axis",
+   "pos": [
+    -4e-05,
+    1.52169,
+    -0.04653
+   ]
+  },
+  {
+   "id": "Body of sternum/Costal notches",
+   "di": "Body of sternum",
+   "en": "Costal notches",
+   "it": "Incisure costali",
+   "la": "Incisurae costales",
+   "pos": [
+    -0.01506,
+    1.24211,
+    0.10184
+   ]
+  },
+  {
+   "id": "Body of sternum/Sternal angle",
+   "di": "Body of sternum",
+   "en": "Sternal angle",
+   "it": "Angolo sternale",
+   "la": "Angulus sterni",
+   "pos": [
+    0.0,
+    1.32661,
+    0.09493
+   ]
+  },
+  {
+   "id": "Coccyx/Apex of coccyx",
+   "di": "Coccyx",
+   "en": "Apex of coccyx",
+   "it": "Apice del coccige",
+   "la": "Apex ossis coccygis",
+   "pos": [
+    -0.00118,
+    0.8303,
+    -0.07279
+   ]
+  },
+  {
+   "id": "Coccyx/Base of coccyx",
+   "di": "Coccyx",
+   "en": "Base of coccyx",
+   "it": "Base del coccige",
+   "la": "Basis ossis coccygis",
+   "pos": [
+    0.0007,
+    0.83095,
+    -0.06995
+   ]
+  },
+  {
+   "id": "Coccyx/Coccygeal horn",
+   "di": "Coccyx",
+   "en": "Coccygeal horn",
+   "it": "Corno coccigeo",
+   "la": "Cornu coccygeum",
+   "pos": [
+    0.00327,
+    0.83233,
+    -0.07539
+   ]
+  },
+  {
+   "id": "Manubrium of sternum/Clavicular notch",
+   "di": "Manubrium of sternum",
+   "en": "Clavicular notch",
+   "it": "Incisura clavicolare",
+   "la": "Incisura clavicularis",
+   "pos": [
+    -0.0225,
+    1.36968,
+    0.05313
+   ]
+  },
+  {
+   "id": "Sacrum/Ala of sacrum",
+   "di": "Sacrum",
+   "en": "Ala of sacrum",
+   "it": "Ala del sacro",
+   "la": "Ala ossis sacri",
+   "pos": [
+    0.0405,
+    0.94185,
+    -0.02287
+   ]
+  },
+  {
+   "id": "Sacrum/Anterior sacral foramina",
+   "di": "Sacrum",
+   "en": "Anterior sacral foramina",
+   "it": "Forami sacrali anteriori",
+   "la": "Foramina sacralia anteriora",
+   "pos": [
+    -0.02065,
+    0.90395,
+    -0.0769
+   ]
+  },
+  {
+   "id": "Sacrum/Apex of sacrum",
+   "di": "Sacrum",
+   "en": "Apex of sacrum",
+   "it": "Apice del sacro",
+   "la": "Apex ossis sacri",
+   "pos": [
+    -0.01224,
+    0.87581,
+    -0.0898
+   ]
+  },
+  {
+   "id": "Sacrum/Auricular surface of sacrum",
+   "di": "Sacrum",
+   "en": "Auricular surface of sacrum",
+   "it": "Faccia auricolare del sacro",
+   "la": "Facies auricularis ossis sacri",
+   "pos": [
+    0.05602,
+    0.93507,
+    -0.0308
+   ]
+  },
+  {
+   "id": "Sacrum/Base of sacrum",
+   "di": "Sacrum",
+   "en": "Base of sacrum",
+   "it": "Base del sacro",
+   "la": "Basis ossis sacri",
+   "pos": [
+    -0.01476,
+    0.94202,
+    -0.01695
+   ]
+  },
+  {
+   "id": "Sacrum/Dorsal surface of sacrum",
+   "di": "Sacrum",
+   "en": "Dorsal surface of sacrum",
+   "it": "Faccia dorsale del sacro",
+   "la": "Facies dorsalis ossis sacri",
+   "pos": [
+    0.01385,
+    0.94291,
+    -0.06306
+   ]
+  },
+  {
+   "id": "Sacrum/Intermediate sacral crest",
+   "di": "Sacrum",
+   "en": "Intermediate sacral crest",
+   "it": "Cresta sacrale mediale",
+   "la": "Crista sacralis medialis",
+   "pos": [
+    0.01,
+    0.92821,
+    -0.07857
+   ]
+  },
+  {
+   "id": "Sacrum/Intervertebral foramina",
+   "di": "Sacrum",
+   "en": "Intervertebral foramina",
+   "it": "Forami intervertebrali",
+   "la": "Foramina intervertebralia",
+   "pos": [
+    0.00892,
+    0.91432,
+    -0.07928
+   ]
+  },
+  {
+   "id": "Sacrum/Lateral part of sacrum",
+   "di": "Sacrum",
+   "en": "Lateral part of sacrum",
+   "it": "Parte laterale del sacro",
+   "la": "Pars lateralis ossis sacri",
+   "pos": [
+    0.05732,
+    0.92769,
+    -0.01709
+   ]
+  },
+  {
+   "id": "Sacrum/Lateral sacral crest",
+   "di": "Sacrum",
+   "en": "Lateral sacral crest",
+   "it": "Cresta sacrale laterale",
+   "la": "Crista sacralis lateralis",
+   "pos": [
+    0.03759,
+    0.91824,
+    -0.07642
+   ]
+  },
+  {
+   "id": "Sacrum/Median sacral crest",
+   "di": "Sacrum",
+   "en": "Median sacral crest",
+   "it": "Cresta sacrale mediana",
+   "la": "Crista sacralis mediana",
+   "pos": [
+    -4e-05,
+    0.93508,
+    -0.07786
+   ]
+  },
+  {
+   "id": "Sacrum/Pelvic surface of sacrum",
+   "di": "Sacrum",
+   "en": "Pelvic surface of sacrum",
+   "it": "Faccia pelvica del sacro",
+   "la": "Facies pelvica ossis sacri",
+   "pos": [
+    0.00373,
+    0.92179,
+    -0.05292
+   ]
+  },
+  {
+   "id": "Sacrum/Posterior sacral foramina",
+   "di": "Sacrum",
+   "en": "Posterior sacral foramina",
+   "it": "Forami sacrali posteriori",
+   "la": "Foramina sacralia posteriora",
+   "pos": [
+    -0.0141,
+    0.91325,
+    -0.07818
+   ]
+  },
+  {
+   "id": "Sacrum/Promontory",
+   "di": "Sacrum",
+   "en": "Promontory",
+   "it": "Promontorio",
+   "la": "Promontorium",
+   "pos": [
+    -4e-05,
+    0.94594,
+    -0.00406
+   ]
+  },
+  {
+   "id": "Sacrum/Sacral canal",
+   "di": "Sacrum",
+   "en": "Sacral canal",
+   "it": "Canale sacrale",
+   "la": "Canalis sacralis",
+   "pos": [
+    -0.00105,
+    0.93392,
+    -0.07187
+   ]
+  },
+  {
+   "id": "Sacrum/Sacral hiatus",
+   "di": "Sacrum",
+   "en": "Sacral hiatus",
+   "it": "Iato sacrale",
+   "la": "Hiatus sacralis",
+   "pos": [
+    -4e-05,
+    0.94385,
+    -0.04707
+   ]
+  },
+  {
+   "id": "Sacrum/Sacral horn",
+   "di": "Sacrum",
+   "en": "Sacral horn",
+   "it": "Corno sacrale",
+   "la": "Cornu sacrale",
+   "pos": [
+    0.01075,
+    0.87501,
+    -0.09055
+   ]
+  },
+  {
+   "id": "Sacrum/Sacral tuberosity",
+   "di": "Sacrum",
+   "en": "Sacral tuberosity",
+   "it": "Tuberosità sacrale",
+   "la": "Tuberositas ossis sacri",
+   "pos": [
+    0.04656,
+    0.97458,
+    -0.04285
+   ]
+  },
+  {
+   "id": "Sacrum/Superior articular process of sacrum",
+   "di": "Sacrum",
+   "en": "Superior articular process of sacrum",
+   "it": "Processo articolare superiore del sacro",
+   "la": "Processus articularis superior ossis sacri",
+   "pos": [
+    0.02311,
+    0.98027,
+    -0.03931
+   ]
+  },
+  {
+   "id": "Sacrum/Transverse ridges",
+   "di": "Sacrum",
+   "en": "Transverse ridges",
+   "it": "Linee trasverse",
+   "la": "Lineae transversae",
+   "pos": [
+    -4e-05,
+    0.92862,
+    -0.03608
+   ]
+  },
+  {
+   "id": "Sixth rib/Angle of rib",
+   "di": "Sixth rib",
+   "en": "Angle of rib",
+   "it": "Angolo costale",
+   "la": "Angulus costae",
+   "pos": [
+    -0.08011,
+    1.30626,
+    -0.09532
+   ]
+  },
+  {
+   "id": "Sixth rib/Articular facet of tubercle of rib",
+   "di": "Sixth rib",
+   "en": "Articular facet of tubercle of rib",
+   "it": "Faccetta articolare del tubercolo costale",
+   "la": "Facies articularis tuberculi costae",
+   "pos": [
+    -0.06529,
+    1.31365,
+    -0.0954
+   ]
+  },
+  {
+   "id": "Sixth rib/Articular facets of head of rib",
+   "di": "Sixth rib",
+   "en": "Articular facets of head of rib",
+   "it": "Faccette articolari della testa della costa",
+   "la": "Facies articulares capitis costae",
+   "pos": [
+    -0.01919,
+    1.32779,
+    -0.05931
+   ]
+  },
+  {
+   "id": "Sixth rib/Body of rib",
+   "di": "Sixth rib",
+   "en": "Body of rib",
+   "it": "Corpo costale",
+   "la": "Corpus costae",
+   "pos": [
+    -0.13767,
+    1.25869,
+    -0.00855
+   ]
+  },
+  {
+   "id": "Sixth rib/Costal groove",
+   "di": "Sixth rib",
+   "en": "Costal groove",
+   "it": "Solco costale",
+   "la": "Sulcus costae",
+   "pos": [
+    -0.1004,
+    1.29946,
+    -0.08058
+   ]
+  },
+  {
+   "id": "Sixth rib/Crest of head of rib",
+   "di": "Sixth rib",
+   "en": "Crest of head of rib",
+   "it": "Cresta del capo costale",
+   "la": "Crista capitis costae",
+   "pos": [
+    -0.01915,
+    1.32785,
+    -0.05848
+   ]
+  },
+  {
+   "id": "Sixth rib/Crest of neck of rib",
+   "di": "Sixth rib",
+   "en": "Crest of neck of rib",
+   "it": "Cresta del collo costale",
+   "la": "Crista colli costae",
+   "pos": [
+    -0.05431,
+    1.33124,
+    -0.08123
+   ]
+  },
+  {
+   "id": "Sixth rib/Head of rib",
+   "di": "Sixth rib",
+   "en": "Head of rib",
+   "it": "Capo costale",
+   "la": "Caput costae",
+   "pos": [
+    -0.02456,
+    1.34271,
+    -0.06228
+   ]
+  },
+  {
+   "id": "Sixth rib/Neck of rib",
+   "di": "Sixth rib",
+   "en": "Neck of rib",
+   "it": "Collo costale",
+   "la": "Collum costae",
+   "pos": [
+    -0.05613,
+    1.32075,
+    -0.08438
+   ]
+  },
+  {
+   "id": "Sixth rib/Rib",
+   "di": "Sixth rib",
+   "en": "Rib",
+   "it": "Costa",
+   "la": "Costa",
+   "pos": [
+    -0.13433,
+    1.24995,
+    0.00876
+   ]
+  },
+  {
+   "id": "Sixth rib/Tubercle of rib",
+   "di": "Sixth rib",
+   "en": "Tubercle of rib",
+   "it": "Tubercolo costale",
+   "la": "Tuberculum costae",
+   "pos": [
+    -0.06591,
+    1.31278,
+    -0.09293
+   ]
+  },
+  {
+   "id": "Vertebra C4/Anterior tubercle of transverse process",
+   "di": "Vertebra C4",
+   "en": "Anterior tubercle of transverse process",
+   "it": "Tubercolo anteriore del processo trasverso",
+   "la": "Tuberculum anterius processus transversi",
+   "pos": [
+    -0.00657,
+    1.48707,
+    -0.00267
+   ]
+  },
+  {
+   "id": "Vertebra C4/Cervical vertebra",
+   "di": "Vertebra C4",
+   "en": "Cervical vertebra",
+   "it": "Vertebra cervicale",
+   "la": "Vertebra cervicalis",
+   "pos": [
+    0.02688,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Foramen transversarium",
+   "di": "Vertebra C4",
+   "en": "Foramen transversarium",
+   "it": "Forame trasverso",
+   "la": "Foramen transversarium",
+   "pos": [
+    -0.0255,
+    1.48865,
+    -0.00985
+   ]
+  },
+  {
+   "id": "Vertebra C4/Groove for spinal nerve",
+   "di": "Vertebra C4",
+   "en": "Groove for spinal nerve",
+   "it": "Solco del nervo spinale",
+   "la": "Sulcus nervi spinalis",
+   "pos": [
+    -0.02673,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Posterior tubercle of transverse process",
+   "di": "Vertebra C4",
+   "en": "Posterior tubercle of transverse process",
+   "it": "Tubercolo posteriore del processo trasverso",
+   "la": "Tuberculum posterius processus transversi",
+   "pos": [
+    -0.02673,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Uncinate process of vertebra",
+   "di": "Vertebra C4",
+   "en": "Uncinate process of vertebra",
+   "it": "Processo uncinato della vertebra",
+   "la": "Processus uncinatus vertebrae",
+   "pos": [
+    -0.01136,
+    1.50523,
+    -0.01163
+   ]
+  },
+  {
+   "id": "Vertebra L3/Annular epiphysis",
+   "di": "Vertebra L3",
+   "en": "Annular epiphysis",
+   "it": "Epifisi anulare",
+   "la": "Epiphysis anularis",
+   "pos": [
+    0.01914,
+    1.03539,
+    0.00996
+   ]
+  },
+  {
+   "id": "Vertebra L3/Costal part of transverse process",
+   "di": "Vertebra L3",
+   "en": "Costal part of transverse process",
+   "it": "Parte costale del processo trasverso",
+   "la": "Pars costalis processus transversi",
+   "pos": [
+    -0.02181,
+    1.0354,
+    -0.01047
+   ]
+  },
+  {
+   "id": "Vertebra L3/Inferior articular facet of vertebra",
+   "di": "Vertebra L3",
+   "en": "Inferior articular facet of vertebra",
+   "it": "Faccetta articolare inferiore della vertebra",
+   "la": "Facies articularis inferior vertebrae",
+   "pos": [
+    0.01595,
+    1.02274,
+    -0.03772
+   ]
+  },
+  {
+   "id": "Vertebra L3/Inferior vertebral notch",
+   "di": "Vertebra L3",
+   "en": "Inferior vertebral notch",
+   "it": "Incisura vertebrale inferiore",
+   "la": "Incisura inferior vertebrae",
+   "pos": [
+    -0.01737,
+    1.0232,
+    -0.03673
+   ]
+  },
+  {
+   "id": "Vertebra L3/Intervertebral foramen",
+   "di": "Vertebra L3",
+   "en": "Intervertebral foramen",
+   "it": "Forame intervertebrale",
+   "la": "Foramen intervertebrale",
+   "pos": [
+    0.01314,
+    1.04465,
+    -0.02472
+   ]
+  },
+  {
+   "id": "Vertebra L3/Intervertebral surface",
+   "di": "Vertebra L3",
+   "en": "Intervertebral surface",
+   "it": "Faccia intervertebrale",
+   "la": "Facies intervertebralis",
+   "pos": [
+    -0.00047,
+    1.0614,
+    -0.002
+   ]
+  },
+  {
+   "id": "Vertebra L3/Lamina of vertebral arch",
+   "di": "Vertebra L3",
+   "en": "Lamina of vertebral arch",
+   "it": "Lamina vertebrale",
+   "la": "Lamina arcus vertebrae",
+   "pos": [
+    0.00375,
+    1.02184,
+    -0.0595
+   ]
+  },
+  {
+   "id": "Vertebra L3/Lateral part of transverse process",
+   "di": "Vertebra L3",
+   "en": "Lateral part of transverse process",
+   "it": "Parte laterale del processo trasverso",
+   "la": "Pars lateralis processus transversi",
+   "pos": [
+    -0.03971,
+    1.04852,
+    -0.03295
+   ]
+  },
+  {
+   "id": "Vertebra L3/Pars interarticularis of vertebral arch",
+   "di": "Vertebra L3",
+   "en": "Pars interarticularis of vertebral arch",
+   "it": "Parte interarticolare dell'arco vertebrale",
+   "la": "Pars interarticularis arcus vertebrae",
+   "pos": [
+    0.01857,
+    1.02936,
+    -0.04142
+   ]
+  },
+  {
+   "id": "Vertebra L3/Pedicle of vertebral arch",
+   "di": "Vertebra L3",
+   "en": "Pedicle of vertebral arch",
+   "it": "Peduncolo vertebrale",
+   "la": "Pediculus arcus vertebrae",
+   "pos": [
+    0.02183,
+    1.0354,
+    -0.01047
+   ]
+  },
+  {
+   "id": "Vertebra L3/Spinous process",
+   "di": "Vertebra L3",
+   "en": "Spinous process",
+   "it": "Processo spinoso",
+   "la": "Processus spinosus",
+   "pos": [
+    -0.00034,
+    1.02235,
+    -0.06155
+   ]
+  },
+  {
+   "id": "Vertebra L3/Superior articular facet of vertebra",
+   "di": "Vertebra L3",
+   "en": "Superior articular facet of vertebra",
+   "it": "Faccetta articolare superiore della vertebra",
+   "la": "Facies articularis superior vertebrae",
+   "pos": [
+    -0.00148,
+    1.02686,
+    -0.06479
+   ]
+  },
+  {
+   "id": "Vertebra L3/Superior articular process of vertebra",
+   "di": "Vertebra L3",
+   "en": "Superior articular process of vertebra",
+   "it": "Processo articolare superiore della vertebra",
+   "la": "Processus articularis superior vertebrae",
+   "pos": [
+    0.0183,
+    1.06524,
+    -0.03483
+   ]
+  },
+  {
+   "id": "Vertebra L3/Superior vertebral notch",
+   "di": "Vertebra L3",
+   "en": "Superior vertebral notch",
+   "it": "Incisura vertebrale superiore",
+   "la": "Incisura superior vertebrae",
+   "pos": [
+    -0.02331,
+    1.05444,
+    -0.02196
+   ]
+  },
+  {
+   "id": "Vertebra L3/Transverse process",
+   "di": "Vertebra L3",
+   "en": "Transverse process",
+   "it": "Processo trasverso",
+   "la": "Processus transversus",
+   "pos": [
+    0.03965,
+    1.04844,
+    -0.03291
+   ]
+  },
+  {
+   "id": "Vertebra L3/Vertebra",
+   "di": "Vertebra L3",
+   "en": "Vertebra",
+   "it": "Vertebra",
+   "la": "Vertebra",
+   "pos": [
+    -0.01574,
+    1.03386,
+    0.01434
+   ]
+  },
+  {
+   "id": "Vertebra L3/Vertebral arch",
+   "di": "Vertebra L3",
+   "en": "Vertebral arch",
+   "it": "Arco vertebrale",
+   "la": "Arcus vertebrae",
+   "pos": [
+    0.0047,
+    1.02256,
+    -0.05933
+   ]
+  },
+  {
+   "id": "Vertebra L3/Vertebral body",
+   "di": "Vertebra L3",
+   "en": "Vertebral body",
+   "it": "Corpo vertebrale",
+   "la": "Corpus vertebrae",
+   "pos": [
+    0.01576,
+    1.03386,
+    0.01434
+   ]
+  },
+  {
+   "id": "Vertebra L3/Vertebral foramen",
+   "di": "Vertebra L3",
+   "en": "Vertebral foramen",
+   "it": "Forame vertebrale",
+   "la": "Foramen vertebrale",
+   "pos": [
+    -0.0138,
+    1.02394,
+    -0.03429
+   ]
+  },
+  {
+   "id": "Vertebra T1/Uncinate process of first thoracic vertebra",
+   "di": "Vertebra T1",
+   "en": "Uncinate process of first thoracic vertebra",
+   "it": "(Processo uncinato della prima vertebra toracica)",
+   "la": "(Processus uncinatus vertebrae thoracicae primae)",
+   "pos": [
+    -0.01577,
+    1.43801,
+    -0.02111
+   ]
+  },
+  {
+   "id": "Vertebra T8/Inferior costal facet",
+   "di": "Vertebra T8",
+   "en": "Inferior costal facet",
+   "it": "Fossetta costale inferiore",
+   "la": "Fovea costalis inferior",
+   "pos": [
+    0.01383,
+    1.24723,
+    -0.0732
+   ]
+  },
+  {
+   "id": "Vertebra T8/Superior costal facet",
+   "di": "Vertebra T8",
+   "en": "Superior costal facet",
+   "it": "Fossetta costale superiore",
+   "la": "Fovea costalis superior",
+   "pos": [
+    0.01774,
+    1.25068,
+    -0.07164
+   ]
+  },
+  {
+   "id": "Vertebra T8/Thoracic vertebra",
+   "di": "Vertebra T8",
+   "en": "Thoracic vertebra",
+   "it": "Vertebra toracica",
+   "la": "Vertebra thoracica",
+   "pos": [
+    -0.01799,
+    1.25584,
+    -0.05452
+   ]
+  },
+  {
+   "id": "Vertebra T8/Transverse costal facet",
+   "di": "Vertebra T8",
+   "en": "Transverse costal facet",
+   "it": "Fossetta costale del processo trasverso",
+   "la": "Fovea costalis processus transversi",
+   "pos": [
+    0.03389,
+    1.25965,
+    -0.08193
+   ]
+  }
+ ]
+}

@@ -1,0 +1,560 @@
+{
+ "nodes": {
+  "Anterior belly of digastric muscle": {
+   "en": "Anterior belly of digastric muscle",
+   "it": "Ventre anteriore del muscolo digastrico",
+   "la": "Venter anterior musculi digastrici",
+   "tipo": "muscolo",
+   "parent": "Digastric muscle"
+  },
+  "Atlas (C1)": {
+   "en": "Atlas (C1)",
+   "it": "Atlante (C1)",
+   "la": "Atlas (C1)",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Axis (C2)": {
+   "en": "Axis (C2)",
+   "it": "Epistrofeo (C2)",
+   "la": "Axis (C2)",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Cervical vertebrae": {
+   "en": "Cervical vertebrae",
+   "it": "Vertebre cervicali",
+   "la": "Vertebrae cervicales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Digastric muscle": {
+   "en": "Digastric muscle",
+   "it": "Muscolo digastrico",
+   "la": "Musculus digastricus",
+   "tipo": "gruppo",
+   "parent": "Suprahyoid muscles"
+  },
+  "Epaxial muscles": {
+   "en": "Epaxial muscles",
+   "it": "Muscoli epiassiali",
+   "la": "Musculi epaxiales",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Geniohyoid muscle": {
+   "en": "Geniohyoid muscle",
+   "it": "Muscolo genioioideo",
+   "la": "Musculus geniohyoideus",
+   "tipo": "muscolo",
+   "parent": "Suprahyoid muscles"
+  },
+  "Hyoid bone": {
+   "en": "Hyoid bone",
+   "it": "Osso ioide",
+   "la": "Os hyoideum",
+   "tipo": "osso",
+   "parent": null
+  },
+  "Infrahyoid muscles": {
+   "en": "Infrahyoid muscles",
+   "it": "Muscoli sottoioidei",
+   "la": "Musculi infrahyoidei",
+   "tipo": "gruppo",
+   "parent": "Muscles of neck"
+  },
+  "Intermediate tendon of digastric muscle": {
+   "en": "Intermediate tendon of digastric muscle",
+   "it": "Tendine intermedio del muscolo digastrico",
+   "la": "Tendo intermedius musculi digastrici",
+   "tipo": "muscolo",
+   "parent": "Digastric muscle"
+  },
+  "Longus capitis muscle": {
+   "en": "Longus capitis muscle",
+   "it": "Muscolo lungo della testa",
+   "la": "Musculus longus capitis",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Longus colli muscle": {
+   "en": "Longus colli muscle",
+   "it": "Muscolo lungo del collo",
+   "la": "Musculus longus colli",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Muscles of neck": {
+   "en": "Muscles of neck",
+   "it": "Muscoli del collo",
+   "la": "Musculi colli",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Mylohyoid muscle": {
+   "en": "Mylohyoid muscle",
+   "it": "Muscolo miloioideo",
+   "la": "Musculus mylohyoideus",
+   "tipo": "muscolo",
+   "parent": "Suprahyoid muscles"
+  },
+  "Obliquus inferior capitis muscle": {
+   "en": "Obliquus inferior capitis muscle",
+   "it": "Muscolo obliquo inferiore della testa",
+   "la": "Musculus obliquus inferior capitis",
+   "tipo": "muscolo",
+   "parent": "Suboccipital muscles"
+  },
+  "Obliquus superior capitis muscle": {
+   "en": "Obliquus superior capitis muscle",
+   "it": "Muscolo obliquo superiore della testa",
+   "la": "Musculus obliquus superior capitis",
+   "tipo": "muscolo",
+   "parent": "Suboccipital muscles"
+  },
+  "Omohyoid muscle": {
+   "en": "Omohyoid muscle",
+   "it": "Muscolo omoioideo",
+   "la": "Musculus omohyoideus",
+   "tipo": "muscolo",
+   "parent": "Infrahyoid muscles"
+  },
+  "Platysma": {
+   "en": "Platysma",
+   "it": "Platisma",
+   "la": "Platysma",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Posterior belly of digastric muscle": {
+   "en": "Posterior belly of digastric muscle",
+   "it": "Ventre posteriore del muscolo digastrico",
+   "la": "Venter posterior musculi digastrici",
+   "tipo": "muscolo",
+   "parent": "Digastric muscle"
+  },
+  "Rectus anterior capitis muscle": {
+   "en": "Rectus anterior capitis muscle",
+   "it": "Muscolo retto anteriore della testa",
+   "la": "Musculus rectus anterior capitis",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Rectus lateralis capitis muscle": {
+   "en": "Rectus lateralis capitis muscle",
+   "it": "Muscolo retto laterale della testa",
+   "la": "Musculus rectus lateralis capitis",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Rectus posterior major capitis muscle": {
+   "en": "Rectus posterior major capitis muscle",
+   "it": "Muscolo grande retto posteriore della testa",
+   "la": "Musculus rectus posterior major capitis",
+   "tipo": "muscolo",
+   "parent": "Suboccipital muscles"
+  },
+  "Rectus posterior minor capitis muscle": {
+   "en": "Rectus posterior minor capitis muscle",
+   "it": "Muscolo piccolo retto posteriore della testa",
+   "la": "Musculus rectus posterior minor capitis",
+   "tipo": "muscolo",
+   "parent": "Suboccipital muscles"
+  },
+  "Scalenus anterior muscle": {
+   "en": "Scalenus anterior muscle",
+   "it": "Muscolo scaleno anteriore",
+   "la": "Musculus scalenus anterior",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Scalenus medius muscle": {
+   "en": "Scalenus medius muscle",
+   "it": "Muscolo scaleno medio",
+   "la": "Musculus scalenus medius",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Scalenus posterior muscle": {
+   "en": "Scalenus posterior muscle",
+   "it": "Muscolo scaleno posteriore",
+   "la": "Musculus scalenus posterior",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Sternocleidomastoid muscle": {
+   "en": "Sternocleidomastoid muscle",
+   "it": "Muscolo sternocleidomastoideo",
+   "la": "Musculus sternocleidomastoideus",
+   "tipo": "muscolo",
+   "parent": "Muscles of neck"
+  },
+  "Sternohyoid muscle": {
+   "en": "Sternohyoid muscle",
+   "it": "Muscolo sternoioideo",
+   "la": "Musculus sternohyoideus",
+   "tipo": "muscolo",
+   "parent": "Infrahyoid muscles"
+  },
+  "Sternothyroid muscle": {
+   "en": "Sternothyroid muscle",
+   "it": "Muscolo sternotiroideo",
+   "la": "Musculus sternothyreoideus",
+   "tipo": "muscolo",
+   "parent": "Infrahyoid muscles"
+  },
+  "Stylohyoid muscle": {
+   "en": "Stylohyoid muscle",
+   "it": "Muscolo stiloioideo",
+   "la": "Musculus stylohyoideus",
+   "tipo": "muscolo",
+   "parent": "Suprahyoid muscles"
+  },
+  "Suboccipital muscles": {
+   "en": "Suboccipital muscles",
+   "it": "Muscoli suboccipitali",
+   "la": "Musculi suboccipitales",
+   "tipo": "gruppo",
+   "parent": "Epaxial muscles"
+  },
+  "Suprahyoid muscles": {
+   "en": "Suprahyoid muscles",
+   "it": "Muscoli sovraioidei",
+   "la": "Musculi suprahyoidei",
+   "tipo": "gruppo",
+   "parent": "Muscles of neck"
+  },
+  "Thyrohyoid muscle": {
+   "en": "Thyrohyoid muscle",
+   "it": "Muscolo tireoioideo",
+   "la": "Musculus thyreohyoideus",
+   "tipo": "muscolo",
+   "parent": "Infrahyoid muscles"
+  },
+  "Vertebra C3": {
+   "en": "Vertebra C3",
+   "it": "Vertebra C3",
+   "la": "Vertebra cervicalis III",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C4": {
+   "en": "Vertebra C4",
+   "it": "Vertebra C4",
+   "la": "Vertebra cervicalis IV",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C5": {
+   "en": "Vertebra C5",
+   "it": "Vertebra C5",
+   "la": "Vertebra cervicalis V",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C6": {
+   "en": "Vertebra C6",
+   "it": "Vertebra C6",
+   "la": "Vertebra cervicalis VI",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  },
+  "Vertebra C7": {
+   "en": "Vertebra C7",
+   "it": "Vertebra C7",
+   "la": "Vertebra cervicalis VII",
+   "tipo": "osso",
+   "parent": "Cervical vertebrae"
+  }
+ },
+ "landmarks": [
+  {
+   "id": "Atlas (C1)/(Canal for vertebral artery)",
+   "di": "Atlas (C1)",
+   "en": "(Canal for vertebral artery)",
+   "it": "(Canale dell'arteria vertebrale)",
+   "la": "(Canalis arteriae vertebralis)",
+   "pos": [
+    -0.03586,
+    1.54306,
+    -0.01331
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Anterior arch of atlas",
+   "di": "Atlas (C1)",
+   "en": "Anterior arch of atlas",
+   "it": "Arco anteriore dell'atlante",
+   "la": "Arcus anterior atlantis",
+   "pos": [
+    0.00461,
+    1.54747,
+    -0.00175
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Anterior tubercle of atlas",
+   "di": "Atlas (C1)",
+   "en": "Anterior tubercle of atlas",
+   "it": "Tubercolo anteriore dell'atlante",
+   "la": "Tuberculum anterius atlantis",
+   "pos": [
+    0.0,
+    1.53832,
+    0.00266
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Facet for dens",
+   "di": "Atlas (C1)",
+   "en": "Facet for dens",
+   "it": "Fossetta del dente",
+   "la": "Fovea dentis",
+   "pos": [
+    0.0,
+    1.53707,
+    -0.00156
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Groove for vertebral artery",
+   "di": "Atlas (C1)",
+   "en": "Groove for vertebral artery",
+   "it": "Solco dell'arteria vertebrale",
+   "la": "Sulcus arteriae vertebralis",
+   "pos": [
+    -0.01946,
+    1.53662,
+    -0.03186
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Inferior articular surface of atlas",
+   "di": "Atlas (C1)",
+   "en": "Inferior articular surface of atlas",
+   "it": "Faccetta articolare inferiore dell'atlante",
+   "la": "Facies articularis inferior atlantis",
+   "pos": [
+    0.02431,
+    1.53311,
+    -0.0147
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Lateral mass",
+   "di": "Atlas (C1)",
+   "en": "Lateral mass",
+   "it": "Massa laterale",
+   "la": "Massa lateralis atlantis",
+   "pos": [
+    0.02332,
+    1.54928,
+    -0.01522
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Posterior arch of atlas",
+   "di": "Atlas (C1)",
+   "en": "Posterior arch of atlas",
+   "it": "Arco posteriore dell'atlante",
+   "la": "Arcus posterior atlantis",
+   "pos": [
+    0.00814,
+    1.53492,
+    -0.03879
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Posterior tubercle of atlas",
+   "di": "Atlas (C1)",
+   "en": "Posterior tubercle of atlas",
+   "it": "Tubercolo posteriore dell'atlante",
+   "la": "Tuberculum posterius atlantis",
+   "pos": [
+    0.00278,
+    1.53618,
+    -0.04471
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Superior articular surface of atlas",
+   "di": "Atlas (C1)",
+   "en": "Superior articular surface of atlas",
+   "it": "Faccetta articolare superiore dell'atlante",
+   "la": "Facies articularis superior atlantis",
+   "pos": [
+    0.01729,
+    1.54853,
+    -0.01236
+   ]
+  },
+  {
+   "id": "Atlas (C1)/Transverse ligament tubercle",
+   "di": "Atlas (C1)",
+   "en": "Transverse ligament tubercle",
+   "it": "Tubercolo del legamento trasverso",
+   "la": "Tuberculum ligamenti transversi",
+   "pos": [
+    -0.02241,
+    1.53389,
+    -0.01045
+   ]
+  },
+  {
+   "id": "Axis (C2)/Anterior articular facet of dens axis",
+   "di": "Axis (C2)",
+   "en": "Anterior articular facet of dens axis",
+   "it": "Faccetta articolare anteriore del dente dell'epistrofeo",
+   "la": "Facies articularis anterior dentis axis",
+   "pos": [
+    2e-05,
+    1.51833,
+    -0.00035
+   ]
+  },
+  {
+   "id": "Axis (C2)/Apex of dens axis",
+   "di": "Axis (C2)",
+   "en": "Apex of dens axis",
+   "it": "Apice del dente",
+   "la": "Apex dentis axis",
+   "pos": [
+    0.00031,
+    1.55124,
+    -0.01088
+   ]
+  },
+  {
+   "id": "Axis (C2)/Dens axis",
+   "di": "Axis (C2)",
+   "en": "Dens axis",
+   "it": "Dente dell'epistrofeo",
+   "la": "Dens axis",
+   "pos": [
+    2e-05,
+    1.51729,
+    -0.00138
+   ]
+  },
+  {
+   "id": "Axis (C2)/Posterior articular facet of dens axis",
+   "di": "Axis (C2)",
+   "en": "Posterior articular facet of dens axis",
+   "it": "Faccetta articolare posteriore del dente dell'epistrofeo",
+   "la": "Facies articularis posterior dentis axis",
+   "pos": [
+    -4e-05,
+    1.52169,
+    -0.04653
+   ]
+  },
+  {
+   "id": "Hyoid bone/Body of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Body of hyoid bone",
+   "it": "Corpo dell'osso ioide",
+   "la": "Corpus ossis hyoidei",
+   "pos": [
+    -0.00814,
+    1.49152,
+    0.03325
+   ]
+  },
+  {
+   "id": "Hyoid bone/Greater horn of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Greater horn of hyoid bone",
+   "it": "Grande corno dell'osso ioide",
+   "la": "Cornu majus ossis hyoidei",
+   "pos": [
+    0.019,
+    1.49763,
+    0.01988
+   ]
+  },
+  {
+   "id": "Hyoid bone/Lesser horn of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Lesser horn of hyoid bone",
+   "it": "Piccolo corno dell'osso ioide",
+   "la": "Cornu minus ossis hyoidei",
+   "pos": [
+    0.01521,
+    1.50523,
+    0.03207
+   ]
+  },
+  {
+   "id": "Vertebra C4/Anterior tubercle of transverse process",
+   "di": "Vertebra C4",
+   "en": "Anterior tubercle of transverse process",
+   "it": "Tubercolo anteriore del processo trasverso",
+   "la": "Tuberculum anterius processus transversi",
+   "pos": [
+    -0.00657,
+    1.48707,
+    -0.00267
+   ]
+  },
+  {
+   "id": "Vertebra C4/Cervical vertebra",
+   "di": "Vertebra C4",
+   "en": "Cervical vertebra",
+   "it": "Vertebra cervicale",
+   "la": "Vertebra cervicalis",
+   "pos": [
+    0.02688,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Foramen transversarium",
+   "di": "Vertebra C4",
+   "en": "Foramen transversarium",
+   "it": "Forame trasverso",
+   "la": "Foramen transversarium",
+   "pos": [
+    -0.0255,
+    1.48865,
+    -0.00985
+   ]
+  },
+  {
+   "id": "Vertebra C4/Groove for spinal nerve",
+   "di": "Vertebra C4",
+   "en": "Groove for spinal nerve",
+   "it": "Solco del nervo spinale",
+   "la": "Sulcus nervi spinalis",
+   "pos": [
+    -0.02673,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Posterior tubercle of transverse process",
+   "di": "Vertebra C4",
+   "en": "Posterior tubercle of transverse process",
+   "it": "Tubercolo posteriore del processo trasverso",
+   "la": "Tuberculum posterius processus transversi",
+   "pos": [
+    -0.02673,
+    1.48876,
+    -0.01055
+   ]
+  },
+  {
+   "id": "Vertebra C4/Uncinate process of vertebra",
+   "di": "Vertebra C4",
+   "en": "Uncinate process of vertebra",
+   "it": "Processo uncinato della vertebra",
+   "la": "Processus uncinatus vertebrae",
+   "pos": [
+    -0.01136,
+    1.50523,
+    -0.01163
+   ]
+  }
+ ]
+}

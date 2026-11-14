@@ -1,0 +1,2847 @@
+{
+ "nodes": {
+  "(Adductor minimus)": {
+   "en": "(Adductor minimus)",
+   "it": "(Adduttore minimo)",
+   "la": "(Adductor minimus)",
+   "tipo": "muscolo",
+   "parent": null
+  },
+  "(Opponens digiti minimi muscle of foot)": {
+   "en": "(Opponens digiti minimi muscle of foot)",
+   "it": "(Muscolo opponente del quindo dito del piede)",
+   "la": "(Musculus opponens digiti minimi pedis)",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Abductor digiti minimi of foot": {
+   "en": "Abductor digiti minimi of foot",
+   "it": "Abduttore del quinto dito del piede",
+   "la": "Abductor digiti minimi pedis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Abductor hallucis": {
+   "en": "Abductor hallucis",
+   "it": "Abduttore dell'alluce",
+   "la": "Abductor hallucis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Adductor brevis": {
+   "en": "Adductor brevis",
+   "it": "Adduttore breve",
+   "la": "Adductor brevis",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Adductor hallucis": {
+   "en": "Adductor hallucis",
+   "it": "Adduttore dell'alluce",
+   "la": "Adductor hallucis",
+   "tipo": "gruppo",
+   "parent": "Muscles of foot"
+  },
+  "Adductor longus": {
+   "en": "Adductor longus",
+   "it": "Adduttore lungo",
+   "la": "Adductor longus",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Adductor magnus": {
+   "en": "Adductor magnus",
+   "it": "Grande adduttore",
+   "la": "Adductor magnus",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Anterior compartment of leg": {
+   "en": "Anterior compartment of leg",
+   "it": "Compartimento anteriore della gamba",
+   "la": "Compartimentum anterius cruris",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Anterior compartment of thigh": {
+   "en": "Anterior compartment of thigh",
+   "it": "Compartimento anteriore della coscia",
+   "la": "Compartimentum anterius femoris",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Bones of foot": {
+   "en": "Bones of foot",
+   "it": "Ossa del piede",
+   "la": "Ossa pedis",
+   "tipo": "gruppo",
+   "parent": "Bones of free part of lower limb"
+  },
+  "Bones of free part of lower limb": {
+   "en": "Bones of free part of lower limb",
+   "it": "Ossa della parte libera dell'arto inferiore",
+   "la": "Ossa partis liberae membri inferioris",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Bones of pelvic girdle": {
+   "en": "Bones of pelvic girdle",
+   "it": "Ossa del cingolo pelvico",
+   "la": "Ossa cinguli pelvici",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Calcaneal tendon": {
+   "en": "Calcaneal tendon",
+   "it": "Tendine calcaneare",
+   "la": "Tendo calcaneus",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of leg"
+  },
+  "Calcaneus": {
+   "en": "Calcaneus",
+   "it": "Calcagno",
+   "la": "Calcaneus",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Cuboid bone": {
+   "en": "Cuboid bone",
+   "it": "Osso cuboide",
+   "la": "Os cuboideum",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Deep gluteal muscles": {
+   "en": "Deep gluteal muscles",
+   "it": "Muscoli glutei profondi",
+   "la": "Musculi glutei profundi",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Deep part of posterior compartment of leg": {
+   "en": "Deep part of posterior compartment of leg",
+   "it": "Parte profonda del compartimento posteriore della gamba",
+   "la": "Pars profunda compartimenti posterioris cruris",
+   "tipo": "gruppo",
+   "parent": "Posterior compartment of leg"
+  },
+  "Distal phalanx of fifth finger of foot": {
+   "en": "Distal phalanx of fifth finger of foot",
+   "it": "Falange distale del quinto dito del piede",
+   "la": "Phalanx distalis quintum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Distal phalanx of first finger of foot": {
+   "en": "Distal phalanx of first finger of foot",
+   "it": "Falange distale del primo dito del piede",
+   "la": "Phalanx distalis primum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Distal phalanx of fourth finger of foot": {
+   "en": "Distal phalanx of fourth finger of foot",
+   "it": "Falange distale del quarto dito del piede",
+   "la": "Phalanx distalis quartum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Distal phalanx of second finger of foot": {
+   "en": "Distal phalanx of second finger of foot",
+   "it": "Falange distale del secondo dito del piede",
+   "la": "Phalanx distalis secundum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Distal phalanx of third finger of foot": {
+   "en": "Distal phalanx of third finger of foot",
+   "it": "Falange distale del terzo dito del piede",
+   "la": "Phalanx distalis tertium digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Dorsal interossei muscles of foot": {
+   "en": "Dorsal interossei muscles of foot",
+   "it": "Muscoli interossei dorsali del piede",
+   "la": "Musculi interossei dorsales pedis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Extensor digitorum brevis": {
+   "en": "Extensor digitorum brevis",
+   "it": "Estensore breve delle dita",
+   "la": "Extensor brevis digitorum",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Extensor digitorum longus": {
+   "en": "Extensor digitorum longus",
+   "it": "Estensore lungo delle dita",
+   "la": "Extensor longus digitorum",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of leg"
+  },
+  "Extensor hallucis brevis": {
+   "en": "Extensor hallucis brevis",
+   "it": "Estensore breve dell'alluce",
+   "la": "Extensor brevis hallucis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Extensor hallucis longus": {
+   "en": "Extensor hallucis longus",
+   "it": "Estensore lungo dell'alluce",
+   "la": "Extensor longus hallucis",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of leg"
+  },
+  "Fasciae of lower limb": {
+   "en": "Fasciae of lower limb",
+   "it": "Fasce dell'arto inferiore",
+   "la": "Fasciae membri inferiori",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Femur": {
+   "en": "Femur",
+   "it": "Femore",
+   "la": "Os femoris",
+   "tipo": "osso",
+   "parent": "Bones of free part of lower limb"
+  },
+  "Fibula": {
+   "en": "Fibula",
+   "it": "Perone",
+   "la": "Fibula",
+   "tipo": "osso",
+   "parent": "Bones of free part of lower limb"
+  },
+  "Fibularis brevis muscle": {
+   "en": "Fibularis brevis muscle",
+   "it": "Muscolo peroniero breve",
+   "la": "Musculus fibularis brevis",
+   "tipo": "muscolo",
+   "parent": "Lateral compartment of leg"
+  },
+  "Fibularis longus muscle": {
+   "en": "Fibularis longus muscle",
+   "it": "Muscolo peroniero lungo",
+   "la": "Musculus fibularis longus",
+   "tipo": "muscolo",
+   "parent": "Lateral compartment of leg"
+  },
+  "Fibularis tertius muscle": {
+   "en": "Fibularis tertius muscle",
+   "it": "Muscolo peroniero anteriore",
+   "la": "Musculus fibularis tertius",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of leg"
+  },
+  "Fifth metatarsal bone": {
+   "en": "Fifth metatarsal bone",
+   "it": "Quinto osso metatarsale",
+   "la": "Os quintum metatarsi",
+   "tipo": "osso",
+   "parent": "Metatarsal bones"
+  },
+  "First metatarsal bone": {
+   "en": "First metatarsal bone",
+   "it": "Primo osso metatarsale",
+   "la": "Os primum metatarsi",
+   "tipo": "osso",
+   "parent": "Metatarsal bones"
+  },
+  "Flexor digiti minimi of foot": {
+   "en": "Flexor digiti minimi of foot",
+   "it": "Flessore del quinto dito del piede",
+   "la": "Flexor digiti minimi pedis pedis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Flexor digitorum brevis": {
+   "en": "Flexor digitorum brevis",
+   "it": "Flessore breve delle dita",
+   "la": "Flexor brevis digitorum",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Flexor digitorum longus": {
+   "en": "Flexor digitorum longus",
+   "it": "Flessore lungo delle dita",
+   "la": "Musculus flexor digitorum longus",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of leg"
+  },
+  "Flexor hallucis brevis": {
+   "en": "Flexor hallucis brevis",
+   "it": "Flessore breve dell'alluce",
+   "la": "Flexor brevis hallucis",
+   "tipo": "gruppo",
+   "parent": "Muscles of foot"
+  },
+  "Flexor hallucis longus": {
+   "en": "Flexor hallucis longus",
+   "it": "Flessore lungo dell'alluce",
+   "la": "Flexor longus hallucis",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of leg"
+  },
+  "Flexor retinaculum of ankle": {
+   "en": "Flexor retinaculum of ankle",
+   "it": "Retinacolo dei flessori della caviglia",
+   "la": "Retinaculum flexorium tali",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Fourth metatarsal bone": {
+   "en": "Fourth metatarsal bone",
+   "it": "Quarto osso metatarsale",
+   "la": "Os quatum metatarsi",
+   "tipo": "osso",
+   "parent": "Metatarsal bones"
+  },
+  "Gluteus maximus muscle": {
+   "en": "Gluteus maximus muscle",
+   "it": "Muscolo grande gluteo",
+   "la": "Musculus gluteus maximus",
+   "tipo": "muscolo",
+   "parent": "Superficial gluteal muscles"
+  },
+  "Gluteus medius muscle": {
+   "en": "Gluteus medius muscle",
+   "it": "Muscolo medio gluteo",
+   "la": "Musculus gluteus medius",
+   "tipo": "muscolo",
+   "parent": "Superficial gluteal muscles"
+  },
+  "Gluteus minimus muscle": {
+   "en": "Gluteus minimus muscle",
+   "it": "Muscolo piccolo gluteo",
+   "la": "Musculus gluteus minimus",
+   "tipo": "muscolo",
+   "parent": "Superficial gluteal muscles"
+  },
+  "Gracilis muscle": {
+   "en": "Gracilis muscle",
+   "it": "Muscolo gracile",
+   "la": "Musculus gracilis",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Hip bone": {
+   "en": "Hip bone",
+   "it": "Osso dell'anca",
+   "la": "Os coxae",
+   "tipo": "osso",
+   "parent": "Bones of pelvic girdle"
+  },
+  "Iliacus muscle": {
+   "en": "Iliacus muscle",
+   "it": "Muscolo iliaco",
+   "la": "Musculus iliacus",
+   "tipo": "muscolo",
+   "parent": "Iliopsoas muscle"
+  },
+  "Iliopectineal arch": {
+   "en": "Iliopectineal arch",
+   "it": "Arco ileopettineo",
+   "la": "Arcus iliopectineus",
+   "tipo": "muscolo",
+   "parent": "Fasciae of lower limb"
+  },
+  "Iliopsoas muscle": {
+   "en": "Iliopsoas muscle",
+   "it": "Muscolo ileopsoas",
+   "la": "Iliopsoas",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Iliotibial tract": {
+   "en": "Iliotibial tract",
+   "it": "Tratto ileotibiale",
+   "la": "Tractus iliotibialis",
+   "tipo": "muscolo",
+   "parent": null
+  },
+  "Inferior extensor retinaculum of ankle": {
+   "en": "Inferior extensor retinaculum of ankle",
+   "it": "Retinacolo inferiore degli estensori della caviglia",
+   "la": "Retinaculum extensorium inferius tali",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Inferior fibular retinaculum": {
+   "en": "Inferior fibular retinaculum",
+   "it": "Retinacolo peroneo inferiore",
+   "la": "Retinaculum fibulare inferius",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Inferior gemellus muscle": {
+   "en": "Inferior gemellus muscle",
+   "it": "Muscolo gemello inferiore",
+   "la": "Musculus gemellus inferior",
+   "tipo": "muscolo",
+   "parent": "Deep gluteal muscles"
+  },
+  "Intermediate cuneiform bone": {
+   "en": "Intermediate cuneiform bone",
+   "it": "Osso cuneiforme intermedio",
+   "la": "Os cuneiforme intermedium",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Lateral compartment of leg": {
+   "en": "Lateral compartment of leg",
+   "it": "Compartimento laterale della gamba",
+   "la": "Compartimentum laterale cruris",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Lateral cuneiform bone": {
+   "en": "Lateral cuneiform bone",
+   "it": "Osso cuneiforme laterale",
+   "la": "Os cuneiforme laterale",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Lateral head of flexor hallucis brevis": {
+   "en": "Lateral head of flexor hallucis brevis",
+   "it": "Capo laterale del flessore breve dell'alluce",
+   "la": "Caput laterale flexoris brevis hallucis",
+   "tipo": "muscolo",
+   "parent": "Flexor hallucis brevis"
+  },
+  "Lateral head of gastrocnemius": {
+   "en": "Lateral head of gastrocnemius",
+   "it": "Capo laterale del gastrocnemio",
+   "la": "Caput laterale musculi gastrocnemii",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of leg"
+  },
+  "Lateral patellar retinaculum": {
+   "en": "Lateral patellar retinaculum",
+   "it": "Retinacolo rotuleo laterale",
+   "la": "Retinaculum laterale patellae",
+   "tipo": "altro",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Long head of biceps femoris": {
+   "en": "Long head of biceps femoris",
+   "it": "Capo lungo del bicipite femorale",
+   "la": "Caput longum musculi bicipitis femoris",
+   "tipo": "muscolo",
+   "parent": "Posterior compartment of thigh"
+  },
+  "Lumbrical muscles of foot": {
+   "en": "Lumbrical muscles of foot",
+   "it": "Muscoli lombricali del piede",
+   "la": "Musculi lumbricales pedis",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Medial compartment of thigh": {
+   "en": "Medial compartment of thigh",
+   "it": "Compartimento mediale della coscia",
+   "la": "Compartimentum mediale muscle",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Medial cuneiform bone": {
+   "en": "Medial cuneiform bone",
+   "it": "Osso cuneiforme mediale",
+   "la": "Os cuneiforme mediale",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Medial head of flexor hallucis brevis": {
+   "en": "Medial head of flexor hallucis brevis",
+   "it": "Capo mediale del flessore breve dell'alluce",
+   "la": "Caput mediale flexoris brevis hallucis",
+   "tipo": "muscolo",
+   "parent": "Flexor hallucis brevis"
+  },
+  "Medial head of gastrocnemius": {
+   "en": "Medial head of gastrocnemius",
+   "it": "Capo mediale del gastrocnemio",
+   "la": "Caput mediale musculi gastrocnemii",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of leg"
+  },
+  "Medial patellar retinaculum": {
+   "en": "Medial patellar retinaculum",
+   "it": "Retinacolo rotuleo mediale",
+   "la": "Retinaculum mediale patellae",
+   "tipo": "altro",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Metatarsal bones": {
+   "en": "Metatarsal bones",
+   "it": "Ossa metatarsali",
+   "la": "Ossa metatarsi",
+   "tipo": "gruppo",
+   "parent": "Bones of foot"
+  },
+  "Middle phalanx of fifth finger of foot": {
+   "en": "Middle phalanx of fifth finger of foot",
+   "it": "Falange media del quinto dito del piede",
+   "la": "Phalanx media quintum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Middle phalanx of fourth finger of foot": {
+   "en": "Middle phalanx of fourth finger of foot",
+   "it": "Falange media del quarto dito del piede",
+   "la": "Phalanx media quartum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Middle phalanx of second finger of foot": {
+   "en": "Middle phalanx of second finger of foot",
+   "it": "Falange media del secondo dito del piede",
+   "la": "Phalanx media secundum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Middle phalanx of third finger of foot": {
+   "en": "Middle phalanx of third finger of foot",
+   "it": "Falange media del terzo dito del piede",
+   "la": "Phalanx media tertium digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Muscles of foot": {
+   "en": "Muscles of foot",
+   "it": "Muscoli del piede",
+   "la": "Musculi pedis",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Muscles of lower limb": {
+   "en": "Muscles of lower limb",
+   "it": "Muscoli dell'arto inferiore",
+   "la": "Musculi membri inferioris",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Navicular bone": {
+   "en": "Navicular bone",
+   "it": "Osso navicolare",
+   "la": "Os naviculare",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Oblique head of adductor hallucis": {
+   "en": "Oblique head of adductor hallucis",
+   "it": "Capo obliquo dell'adduttore dell'alluce",
+   "la": "Caput obliquum adductoris hallucis",
+   "tipo": "muscolo",
+   "parent": "Adductor hallucis"
+  },
+  "Obturator externus": {
+   "en": "Obturator externus",
+   "it": "Otturatore esterno",
+   "la": "Obturator externus",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Obturator internus": {
+   "en": "Obturator internus",
+   "it": "Otturatore interno",
+   "la": "Obturator internus",
+   "tipo": "muscolo",
+   "parent": "Deep gluteal muscles"
+  },
+  "Patella": {
+   "en": "Patella",
+   "it": "Rotula",
+   "la": "Patella",
+   "tipo": "osso",
+   "parent": "Bones of free part of lower limb"
+  },
+  "Pectineus muscle": {
+   "en": "Pectineus muscle",
+   "it": "Muscolo pettineo",
+   "la": "Musculus pectineus",
+   "tipo": "muscolo",
+   "parent": "Medial compartment of thigh"
+  },
+  "Phalanges of foot": {
+   "en": "Phalanges of foot",
+   "it": "Falangi del piede",
+   "la": "Phalanges pedis",
+   "tipo": "gruppo",
+   "parent": "Bones of foot"
+  },
+  "Piriformis muscle": {
+   "en": "Piriformis muscle",
+   "it": "Muscolo piriforme",
+   "la": "Musculus piriformis",
+   "tipo": "muscolo",
+   "parent": "Deep gluteal muscles"
+  },
+  "Plantar aponeurosis": {
+   "en": "Plantar aponeurosis",
+   "it": "Aponeurosi plantare",
+   "la": "Aponeurosis plantaris",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Plantar interossei muscles": {
+   "en": "Plantar interossei muscles",
+   "it": "Muscoli interossei plantari",
+   "la": "Musculi interossei plantares",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Plantaris muscle": {
+   "en": "Plantaris muscle",
+   "it": "Muscolo plantare",
+   "la": "Musculus plantaris",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of leg"
+  },
+  "Popliteus muscle": {
+   "en": "Popliteus muscle",
+   "it": "Muscolo popliteo",
+   "la": "Musculus popliteus",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of leg"
+  },
+  "Posterior compartment of leg": {
+   "en": "Posterior compartment of leg",
+   "it": "Compartimento posteriore della gamba",
+   "la": "Compartimentum posterius cruris",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Posterior compartment of thigh": {
+   "en": "Posterior compartment of thigh",
+   "it": "Compartimento posteriore della coscia",
+   "la": "Compartimentum posterius femoris",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Proximal phalanx of fifth finger of foot": {
+   "en": "Proximal phalanx of fifth finger of foot",
+   "it": "Falange prossimale del quinto dito del piede",
+   "la": "Phalanx proximalis quintum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Proximal phalanx of first finger of foot": {
+   "en": "Proximal phalanx of first finger of foot",
+   "it": "Falange prossimale del primo dito del piede",
+   "la": "Phalanx proximalis primum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Proximal phalanx of fourth finger of foot": {
+   "en": "Proximal phalanx of fourth finger of foot",
+   "it": "Falange prossimale del quarto dito del piede",
+   "la": "Phalanx proximalis quartum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Proximal phalanx of second finger of foot": {
+   "en": "Proximal phalanx of second finger of foot",
+   "it": "Falange prossimale del secondo dito del piede",
+   "la": "Phalanx proximalis secundum digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Proximal phalanx of third finger of foot": {
+   "en": "Proximal phalanx of third finger of foot",
+   "it": "Falange prossimale del terzo dito del piede",
+   "la": "Phalanx proximalis tertium digitorum pedis",
+   "tipo": "osso",
+   "parent": "Phalanges of foot"
+  },
+  "Psoas major": {
+   "en": "Psoas major",
+   "it": "Grande psoas",
+   "la": "Psoas major",
+   "tipo": "muscolo",
+   "parent": "Iliopsoas muscle"
+  },
+  "Quadratus femoris muscle": {
+   "en": "Quadratus femoris muscle",
+   "it": "Muscolo quadrato femorale",
+   "la": "Musculus quadratus femoris",
+   "tipo": "muscolo",
+   "parent": "Deep gluteal muscles"
+  },
+  "Quadratus plantae muscle": {
+   "en": "Quadratus plantae muscle",
+   "it": "Muscolo quadrato plantare",
+   "la": "Musculus quadratus plantae",
+   "tipo": "muscolo",
+   "parent": "Muscles of foot"
+  },
+  "Rectus femoris muscle": {
+   "en": "Rectus femoris muscle",
+   "it": "Muscolo retto femorale",
+   "la": "Musculus rectus femoris",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Sartorius muscle": {
+   "en": "Sartorius muscle",
+   "it": "Muscolo sartorio",
+   "la": "Musculus sartorius",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Second metatarsal bone": {
+   "en": "Second metatarsal bone",
+   "it": "Secondo osso metatarsale",
+   "la": "Os secundum metatarsi",
+   "tipo": "osso",
+   "parent": "Metatarsal bones"
+  },
+  "Semimembranosus muscle": {
+   "en": "Semimembranosus muscle",
+   "it": "Muscolo semimembranoso",
+   "la": "Musculus semimembranosus",
+   "tipo": "muscolo",
+   "parent": "Posterior compartment of thigh"
+  },
+  "Semitendinosus muscle": {
+   "en": "Semitendinosus muscle",
+   "it": "Muscolo semitendinoso",
+   "la": "Musculus semitendinosus",
+   "tipo": "muscolo",
+   "parent": "Posterior compartment of thigh"
+  },
+  "Sesamoid bones of foot": {
+   "en": "Sesamoid bones of foot",
+   "it": "Ossa sesamoidi del piede",
+   "la": "Ossa sesamoidea pedis",
+   "tipo": "osso",
+   "parent": "Bones of foot"
+  },
+  "Short head of biceps femoris": {
+   "en": "Short head of biceps femoris",
+   "it": "Capo corto del bicipite femorale",
+   "la": "Caput breve musculi bicipitis femoris",
+   "tipo": "muscolo",
+   "parent": "Posterior compartment of thigh"
+  },
+  "Soleus muscle": {
+   "en": "Soleus muscle",
+   "it": "Muscolo soleo",
+   "la": "Musculus soleus",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of leg"
+  },
+  "Superficial gluteal muscles": {
+   "en": "Superficial gluteal muscles",
+   "it": "Muscoli glutei superficiali",
+   "la": "Musculi glutei superficiales",
+   "tipo": "gruppo",
+   "parent": "Muscles of lower limb"
+  },
+  "Superficial part of posterior compartment of leg": {
+   "en": "Superficial part of posterior compartment of leg",
+   "it": "Parte superficiale del compartimento posteriore della gamba",
+   "la": "Pars superficialis compartimenti posterioris cruris",
+   "tipo": "gruppo",
+   "parent": "Posterior compartment of leg"
+  },
+  "Superficial transverse metatarsal ligament": {
+   "en": "Superficial transverse metatarsal ligament",
+   "it": "Legamento metatarsale trasverso superficiale",
+   "la": "Ligamentum metatarseum transversum superficiale",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Superior extensor retinaculum of ankle": {
+   "en": "Superior extensor retinaculum of ankle",
+   "it": "Retinacolo superiore degli estensori della caviglia",
+   "la": "Retinaculum extensorium superius tali",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Superior fibular retinaculum": {
+   "en": "Superior fibular retinaculum",
+   "it": "Retinacolo peroneo superiore",
+   "la": "Retinaculum fibulare superius",
+   "tipo": "altro",
+   "parent": "Fasciae of lower limb"
+  },
+  "Superior gemellus muscle": {
+   "en": "Superior gemellus muscle",
+   "it": "Muscolo gemello superiore",
+   "la": "Musculus gemellus superior",
+   "tipo": "muscolo",
+   "parent": "Deep gluteal muscles"
+  },
+  "Talus": {
+   "en": "Talus",
+   "it": "Astragalo",
+   "la": "Os tali",
+   "tipo": "osso",
+   "parent": "Tarsal bones"
+  },
+  "Tarsal bones": {
+   "en": "Tarsal bones",
+   "it": "Ossa tarsali",
+   "la": "Ossa tarsi",
+   "tipo": "gruppo",
+   "parent": "Bones of foot"
+  },
+  "Tendon of extensor digitorum longus": {
+   "en": "Tendon of extensor digitorum longus",
+   "it": "Tendine del muscolo estensore lungo delle dita",
+   "la": "Tendon extensoris digitorum longi",
+   "tipo": "muscolo",
+   "parent": null
+  },
+  "Tensor fasciae latae": {
+   "en": "Tensor fasciae latae",
+   "it": "Tensore della fascia lata",
+   "la": "Tensor fasciae latae",
+   "tipo": "muscolo",
+   "parent": "Superficial gluteal muscles"
+  },
+  "Third metatarsal bone": {
+   "en": "Third metatarsal bone",
+   "it": "Terzo osso metatarsale",
+   "la": "Os tertium metatarsi",
+   "tipo": "osso",
+   "parent": "Metatarsal bones"
+  },
+  "Tibia": {
+   "en": "Tibia",
+   "it": "Tibia",
+   "la": "Tibia",
+   "tipo": "osso",
+   "parent": "Bones of free part of lower limb"
+  },
+  "Tibialis anterior muscle": {
+   "en": "Tibialis anterior muscle",
+   "it": "Muscolo tibiale anteriore",
+   "la": "Musculus tibialis anterior",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of leg"
+  },
+  "Tibialis posterior muscle": {
+   "en": "Tibialis posterior muscle",
+   "it": "Muscolo tibiale posteriore",
+   "la": "Musculus tibialis posterior",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of leg"
+  },
+  "Transverse head of adductor hallucis": {
+   "en": "Transverse head of adductor hallucis",
+   "it": "Capo trasverso dell'adduttore dell'alluce",
+   "la": "Caput transversum adductoris hallucis",
+   "tipo": "muscolo",
+   "parent": "Adductor hallucis"
+  },
+  "Vastus intermedius muscle": {
+   "en": "Vastus intermedius muscle",
+   "it": "Muscolo vasto intermedio",
+   "la": "Musculus vastus intermedius",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Vastus lateralis muscle": {
+   "en": "Vastus lateralis muscle",
+   "it": "Muscolo vasto laterale",
+   "la": "Musculus vastus lateralis",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of thigh"
+  },
+  "Vastus medialis muscle": {
+   "en": "Vastus medialis muscle",
+   "it": "Muscolo vasto mediale",
+   "la": "Musculus vastus medialis",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of thigh"
+  }
+ },
+ "landmarks": [
+  {
+   "id": "Calcaneus/Anterior process of calcaneus",
+   "di": "Calcaneus",
+   "en": "Anterior process of calcaneus",
+   "it": "Processo anteriore del calcagno",
+   "la": "Processus anterior calcanei",
+   "pos": [
+    -0.09836,
+    0.03541,
+    -0.02683
+   ]
+  },
+  {
+   "id": "Calcaneus/Articular surface for cuboid",
+   "di": "Calcaneus",
+   "en": "Articular surface for cuboid",
+   "it": "Faccia articolare per il cuboide",
+   "la": "Facies articularis cuboidea",
+   "pos": [
+    -0.0917,
+    0.0326,
+    -0.02285
+   ]
+  },
+  {
+   "id": "Calcaneus/Calcaneal sulcus",
+   "di": "Calcaneus",
+   "en": "Calcaneal sulcus",
+   "it": "Solco calcaneare",
+   "la": "Sulcus calcanei",
+   "pos": [
+    -0.07126,
+    0.05339,
+    -0.03793
+   ]
+  },
+  {
+   "id": "Calcaneus/Calcaneal tubercle",
+   "di": "Calcaneus",
+   "en": "Calcaneal tubercle",
+   "it": "Tubercolo calcaneare",
+   "la": "Tuberculum calcanei",
+   "pos": [
+    -0.08283,
+    0.02582,
+    -0.03687
+   ]
+  },
+  {
+   "id": "Calcaneus/Calcaneal tuberosity",
+   "di": "Calcaneus",
+   "en": "Calcaneal tuberosity",
+   "it": "Tuberosità calcaneare",
+   "la": "Tuber calcanei",
+   "pos": [
+    -0.06982,
+    0.01577,
+    -0.08192
+   ]
+  },
+  {
+   "id": "Calcaneus/Groove for tendon of flexor hallucis longus of calcaneus",
+   "di": "Calcaneus",
+   "en": "Groove for tendon of flexor hallucis longus of calcaneus",
+   "it": "Solco per il tendine del muscolo flessore lungo dell'alluce",
+   "la": "Sulcus tendinis flexoris longi hallucis calcanei",
+   "pos": [
+    -0.05771,
+    0.02062,
+    -0.06269
+   ]
+  },
+  {
+   "id": "Calcaneus/Lateral process of calcaneal tuberosity",
+   "di": "Calcaneus",
+   "en": "Lateral process of calcaneal tuberosity",
+   "it": "Processo laterale della tuberosità calcaneare",
+   "la": "Processus lateralis tuberis calcanei",
+   "pos": [
+    -0.08212,
+    0.01201,
+    -0.07113
+   ]
+  },
+  {
+   "id": "Calcaneus/Medial process of calcaneal tuberosity",
+   "di": "Calcaneus",
+   "en": "Medial process of calcaneal tuberosity",
+   "it": "Processo mediale della tuberosità calcaneare",
+   "la": "Processus medialis tuberis calcanei",
+   "pos": [
+    -0.0684,
+    0.01192,
+    -0.06372
+   ]
+  },
+  {
+   "id": "Calcaneus/Sustentaculum tali",
+   "di": "Calcaneus",
+   "en": "Sustentaculum tali",
+   "it": "Sustentaculum tali",
+   "la": "Sustentaculum tali",
+   "pos": [
+    -0.06275,
+    0.01645,
+    -0.05835
+   ]
+  },
+  {
+   "id": "Calcaneus/Tarsal sinus",
+   "di": "Calcaneus",
+   "en": "Tarsal sinus",
+   "it": "Seno del tarso",
+   "la": "Sinus tarsi",
+   "pos": [
+    -0.08466,
+    0.04895,
+    -0.037
+   ]
+  },
+  {
+   "id": "Cuboid bone/Groove for tendon of fibularis longus muscle of cuboid bone",
+   "di": "Cuboid bone",
+   "en": "Groove for tendon of fibularis longus muscle of cuboid bone",
+   "it": "Solco per il tendine del muscolo peroneo lungo-osso cuboide",
+   "la": "Sulcus tendinis musculi fibularis longi ossis cuboidei",
+   "pos": [
+    -0.11072,
+    0.03122,
+    -0.00961
+   ]
+  },
+  {
+   "id": "Cuboid bone/Tuberosity of cuboid bone",
+   "di": "Cuboid bone",
+   "en": "Tuberosity of cuboid bone",
+   "it": "Tuberosità del cuboide",
+   "la": "Tuberositas ossis cuboidei",
+   "pos": [
+    -0.09472,
+    0.0289,
+    -0.01621
+   ]
+  },
+  {
+   "id": "Distal phalanx of third finger of foot/Tuberosity of distal phalanx of foot",
+   "di": "Distal phalanx of third finger of foot",
+   "en": "Tuberosity of distal phalanx of foot",
+   "it": "Tuberosità della falange distale del piede",
+   "la": "Tuberositas phalangis distalis pedis",
+   "pos": [
+    -0.12042,
+    0.0118,
+    0.1301
+   ]
+  },
+  {
+   "id": "Femur/(Third trochanter)",
+   "di": "Femur",
+   "en": "(Third trochanter)",
+   "it": "(Terzo trocantere)",
+   "la": "(Trochanter tertius)",
+   "pos": [
+    -0.12306,
+    0.79701,
+    -0.03164
+   ]
+  },
+  {
+   "id": "Femur/Adductor tubercle",
+   "di": "Femur",
+   "en": "Adductor tubercle",
+   "it": "Tubercolo degli adduttori",
+   "la": "Tuberculum adductorium",
+   "pos": [
+    -0.03523,
+    0.47529,
+    -0.03287
+   ]
+  },
+  {
+   "id": "Femur/Body of femur",
+   "di": "Femur",
+   "en": "Body of femur",
+   "it": "Corpo del femore",
+   "la": "Corpus ossis femoris",
+   "pos": [
+    -0.11446,
+    0.66991,
+    0.00257
+   ]
+  },
+  {
+   "id": "Femur/Fovea for ligament of head of femur",
+   "di": "Femur",
+   "en": "Fovea for ligament of head of femur",
+   "it": "Fossetta della testa del femore",
+   "la": "Fovea capitis ossis femoris",
+   "pos": [
+    -0.06465,
+    0.8633,
+    -0.00969
+   ]
+  },
+  {
+   "id": "Femur/Gluteal tuberosity",
+   "di": "Femur",
+   "en": "Gluteal tuberosity",
+   "it": "Tuberosità glutea",
+   "la": "Tuberositas glutea",
+   "pos": [
+    -0.11523,
+    0.77499,
+    -0.02574
+   ]
+  },
+  {
+   "id": "Femur/Greater trochanter",
+   "di": "Femur",
+   "en": "Greater trochanter",
+   "it": "Grande trocantere",
+   "la": "Trochanter major",
+   "pos": [
+    -0.14555,
+    0.84322,
+    -0.01448
+   ]
+  },
+  {
+   "id": "Femur/Groove for popliteus muscle",
+   "di": "Femur",
+   "en": "Groove for popliteus muscle",
+   "it": "Solco popliteo",
+   "la": "Sulcus popliteus",
+   "pos": [
+    -0.1099,
+    0.44951,
+    -0.04383
+   ]
+  },
+  {
+   "id": "Femur/Head of femur",
+   "di": "Femur",
+   "en": "Head of femur",
+   "it": "Testa del femore",
+   "la": "Caput ossis femoris",
+   "pos": [
+    -0.07479,
+    0.88192,
+    0.00011
+   ]
+  },
+  {
+   "id": "Femur/Intercondylar fossa",
+   "di": "Femur",
+   "en": "Intercondylar fossa",
+   "it": "Fossa intercondiloidea",
+   "la": "Fossa intercondylaris",
+   "pos": [
+    -0.07527,
+    0.45639,
+    -0.036
+   ]
+  },
+  {
+   "id": "Femur/Intercondylar line",
+   "di": "Femur",
+   "en": "Intercondylar line",
+   "it": "Linea intercondiloidea",
+   "la": "Linea intercondylaris",
+   "pos": [
+    -0.07643,
+    0.46687,
+    -0.03684
+   ]
+  },
+  {
+   "id": "Femur/Intertrochanteric crest",
+   "di": "Femur",
+   "en": "Intertrochanteric crest",
+   "it": "Cresta intertrocanterica",
+   "la": "Crista intertrochanterica",
+   "pos": [
+    -0.11666,
+    0.81035,
+    -0.03577
+   ]
+  },
+  {
+   "id": "Femur/Intertrochanteric line",
+   "di": "Femur",
+   "en": "Intertrochanteric line",
+   "it": "Linea intertrocanterica",
+   "la": "Linea intertrochanterica",
+   "pos": [
+    -0.10383,
+    0.82624,
+    0.0022
+   ]
+  },
+  {
+   "id": "Femur/Lateral condyle of femur",
+   "di": "Femur",
+   "en": "Lateral condyle of femur",
+   "it": "Condilo laterale del femore",
+   "la": "Condylus lateralis femoris",
+   "pos": [
+    -0.10022,
+    0.4393,
+    -0.0473
+   ]
+  },
+  {
+   "id": "Femur/Lateral epicondyle of femur",
+   "di": "Femur",
+   "en": "Lateral epicondyle of femur",
+   "it": "Epicondilo laterale del femore",
+   "la": "Epicondylus lateralis ossis femoris",
+   "pos": [
+    -0.1156,
+    0.45927,
+    -0.02947
+   ]
+  },
+  {
+   "id": "Femur/Lateral lip of linea aspera",
+   "di": "Femur",
+   "en": "Lateral lip of linea aspera",
+   "it": "Labbro laterale della linea aspra",
+   "la": "Labium laterale lineae asperae",
+   "pos": [
+    -0.09307,
+    0.56538,
+    -0.02206
+   ]
+  },
+  {
+   "id": "Femur/Lateral supracondylar line",
+   "di": "Femur",
+   "en": "Lateral supracondylar line",
+   "it": "Linea sovracondiloidea laterale",
+   "la": "Linea supracondylaris lateralis",
+   "pos": [
+    -0.05569,
+    0.49318,
+    -0.02718
+   ]
+  },
+  {
+   "id": "Femur/Lesser trochanter",
+   "di": "Femur",
+   "en": "Lesser trochanter",
+   "it": "Piccolo trocantere",
+   "la": "Trochanter minor",
+   "pos": [
+    -0.08981,
+    0.78728,
+    -0.02568
+   ]
+  },
+  {
+   "id": "Femur/Linea aspera",
+   "di": "Femur",
+   "en": "Linea aspera",
+   "it": "Linea aspra",
+   "la": "Linea aspera",
+   "pos": [
+    -0.09684,
+    0.65801,
+    -0.01753
+   ]
+  },
+  {
+   "id": "Femur/Medial condyle of femur",
+   "di": "Femur",
+   "en": "Medial condyle of femur",
+   "it": "Condilo mediale del femore",
+   "la": "Condylus medialis ossis femoris",
+   "pos": [
+    -0.05146,
+    0.43463,
+    -0.04723
+   ]
+  },
+  {
+   "id": "Femur/Medial epicondyle of femur",
+   "di": "Femur",
+   "en": "Medial epicondyle of femur",
+   "it": "Epicondilo mediale del femore",
+   "la": "Epicondylus medialis ossis femoris",
+   "pos": [
+    -0.03365,
+    0.45182,
+    -0.03487
+   ]
+  },
+  {
+   "id": "Femur/Medial lip of linea aspera",
+   "di": "Femur",
+   "en": "Medial lip of linea aspera",
+   "it": "Labbro mediale della linea aspra",
+   "la": "Labium mediale lineae asperae",
+   "pos": [
+    -0.07845,
+    0.55743,
+    -0.01753
+   ]
+  },
+  {
+   "id": "Femur/Medial supracondylar line",
+   "di": "Femur",
+   "en": "Medial supracondylar line",
+   "it": "Linea sovracondiloidea mediale",
+   "la": "Linea supracondylaris medialis",
+   "pos": [
+    -0.10248,
+    0.49146,
+    -0.02889
+   ]
+  },
+  {
+   "id": "Femur/Neck of femur",
+   "di": "Femur",
+   "en": "Neck of femur",
+   "it": "Collo del femore",
+   "la": "Collum ossis femoris",
+   "pos": [
+    -0.083,
+    0.83384,
+    -0.00248
+   ]
+  },
+  {
+   "id": "Femur/Patellar surface of femur",
+   "di": "Femur",
+   "en": "Patellar surface of femur",
+   "it": "Faccia rotulea del femore",
+   "la": "Facies patellaris ossis femoris",
+   "pos": [
+    -0.08101,
+    0.44985,
+    -0.00412
+   ]
+  },
+  {
+   "id": "Femur/Pectineal line of femur",
+   "di": "Femur",
+   "en": "Pectineal line of femur",
+   "it": "Linea pettinea",
+   "la": "Linea pectinea",
+   "pos": [
+    -0.10256,
+    0.76658,
+    -0.02099
+   ]
+  },
+  {
+   "id": "Femur/Popliteal surface of femur",
+   "di": "Femur",
+   "en": "Popliteal surface of femur",
+   "it": "Faccia poplitea del femore",
+   "la": "Facies poplitea ossis femoris",
+   "pos": [
+    -0.08191,
+    0.50511,
+    -0.02699
+   ]
+  },
+  {
+   "id": "Femur/Quadrate tubercle",
+   "di": "Femur",
+   "en": "Quadrate tubercle",
+   "it": "Tubercolo quadrato",
+   "la": "Tuberculum quadratum",
+   "pos": [
+    -0.117,
+    0.82055,
+    -0.03855
+   ]
+  },
+  {
+   "id": "Femur/Trochanteric fossa",
+   "di": "Femur",
+   "en": "Trochanteric fossa",
+   "it": "Fossa trocanterica",
+   "la": "Fossa trochanterica",
+   "pos": [
+    -0.12442,
+    0.84879,
+    -0.01398
+   ]
+  },
+  {
+   "id": "Fibula/Anterior border of fibula",
+   "di": "Fibula",
+   "en": "Anterior border of fibula",
+   "it": "Margine anteriore del perone",
+   "la": "Margo anterior fibulae",
+   "pos": [
+    -0.10841,
+    0.33348,
+    -0.03807
+   ]
+  },
+  {
+   "id": "Fibula/Anteromedial surface of fibula",
+   "di": "Fibula",
+   "en": "Anteromedial surface of fibula",
+   "it": "Faccia anteromediale del perone",
+   "la": "Facies anteromedialis fibulae",
+   "pos": [
+    -0.09902,
+    0.18954,
+    -0.04351
+   ]
+  },
+  {
+   "id": "Fibula/Apex of head of fibula",
+   "di": "Fibula",
+   "en": "Apex of head of fibula",
+   "it": "Apice della testa del perone",
+   "la": "Apex capitis fibulae",
+   "pos": [
+    -0.11228,
+    0.41733,
+    -0.04585
+   ]
+  },
+  {
+   "id": "Fibula/Articular facet of head of fibula",
+   "di": "Fibula",
+   "en": "Articular facet of head of fibula",
+   "it": "Faccia articolare della testa del perone",
+   "la": "Facies articularis capitis fibulae",
+   "pos": [
+    -0.10239,
+    0.40456,
+    -0.0362
+   ]
+  },
+  {
+   "id": "Fibula/Articular facet of lateral malleolus",
+   "di": "Fibula",
+   "en": "Articular facet of lateral malleolus",
+   "it": "Faccia articolare del malleolo laterale",
+   "la": "Facies articularis malleoli lateralis",
+   "pos": [
+    -0.08985,
+    0.08774,
+    -0.04818
+   ]
+  },
+  {
+   "id": "Fibula/Body of fibula",
+   "di": "Fibula",
+   "en": "Body of fibula",
+   "it": "Corpo del perone",
+   "la": "Corpus fibulae",
+   "pos": [
+    -0.11229,
+    0.28964,
+    -0.04379
+   ]
+  },
+  {
+   "id": "Fibula/Head of fibula",
+   "di": "Fibula",
+   "en": "Head of fibula",
+   "it": "Testa del perone",
+   "la": "Caput fibulae",
+   "pos": [
+    -0.12466,
+    0.39883,
+    -0.04021
+   ]
+  },
+  {
+   "id": "Fibula/Interosseous crest of fibula",
+   "di": "Fibula",
+   "en": "Interosseous crest of fibula",
+   "it": "Cresta interossea del perone",
+   "la": "Crista interossea fibulae",
+   "pos": [
+    -0.09813,
+    0.21579,
+    -0.04827
+   ]
+  },
+  {
+   "id": "Fibula/Lateral malleolus",
+   "di": "Fibula",
+   "en": "Lateral malleolus",
+   "it": "Malleolo esterno",
+   "la": "Malleolus lateralis",
+   "pos": [
+    -0.10837,
+    0.06899,
+    -0.04958
+   ]
+  },
+  {
+   "id": "Fibula/Lateral surface of fibula",
+   "di": "Fibula",
+   "en": "Lateral surface of fibula",
+   "it": "Faccia laterale del perone",
+   "la": "Facies lateralis fibulae",
+   "pos": [
+    -0.11228,
+    0.27674,
+    -0.04288
+   ]
+  },
+  {
+   "id": "Fibula/Malleolar fossa",
+   "di": "Fibula",
+   "en": "Malleolar fossa",
+   "it": "Fossa del malleolo laterale",
+   "la": "Fossa malleoli lateralis",
+   "pos": [
+    -0.09649,
+    0.06692,
+    -0.05736
+   ]
+  },
+  {
+   "id": "Fibula/Malleolar groove of fibula",
+   "di": "Fibula",
+   "en": "Malleolar groove of fibula",
+   "it": "Solco malleolare del perone",
+   "la": "Sulcus malleolaris fibulae",
+   "pos": [
+    -0.09767,
+    0.06272,
+    -0.04961
+   ]
+  },
+  {
+   "id": "Fibula/Medial border of fibula",
+   "di": "Fibula",
+   "en": "Medial border of fibula",
+   "it": "Margine mediale del perone",
+   "la": "Margo medialis fibulae",
+   "pos": [
+    -0.09941,
+    0.23247,
+    -0.0466
+   ]
+  },
+  {
+   "id": "Fibula/Medial surface of fibula",
+   "di": "Fibula",
+   "en": "Medial surface of fibula",
+   "it": "Faccia mediale del perone",
+   "la": "Facies medialis fibulae",
+   "pos": [
+    -0.10368,
+    0.32244,
+    -0.04496
+   ]
+  },
+  {
+   "id": "Fibula/Neck of fibula",
+   "di": "Fibula",
+   "en": "Neck of fibula",
+   "it": "Collo del perone",
+   "la": "Collum fibulae",
+   "pos": [
+    -0.11553,
+    0.38055,
+    -0.0407
+   ]
+  },
+  {
+   "id": "Fibula/Posterior border of fibula",
+   "di": "Fibula",
+   "en": "Posterior border of fibula",
+   "it": "Margine posteriore del perone",
+   "la": "Margo posterior fibulae",
+   "pos": [
+    -0.10033,
+    0.15191,
+    -0.0568
+   ]
+  },
+  {
+   "id": "Fibula/Posterior surface of fibula",
+   "di": "Fibula",
+   "en": "Posterior surface of fibula",
+   "it": "Faccia posteriore del perone",
+   "la": "Facies posterior fibulae",
+   "pos": [
+    -0.09683,
+    0.11928,
+    -0.05802
+   ]
+  },
+  {
+   "id": "Fibula/Posteromedial surface of fibula",
+   "di": "Fibula",
+   "en": "Posteromedial surface of fibula",
+   "it": "Faccia posteromediale del perone",
+   "la": "Facies posteromedialis fibulae",
+   "pos": [
+    -0.0975,
+    0.14539,
+    -0.05176
+   ]
+  },
+  {
+   "id": "Hip bone/(Posterior obturator tubercle)",
+   "di": "Hip bone",
+   "en": "(Posterior obturator tubercle)",
+   "it": "(Tubercolo otturatorio posteriore)",
+   "la": "(Tuberculum obturatorium posterius)",
+   "pos": [
+    -0.05014,
+    0.84607,
+    -0.00893
+   ]
+  },
+  {
+   "id": "Hip bone/Acetabular fossa",
+   "di": "Hip bone",
+   "en": "Acetabular fossa",
+   "it": "Fossa dell'acetabolo",
+   "la": "Fossa acetabuli",
+   "pos": [
+    -0.0619,
+    0.86622,
+    -0.01999
+   ]
+  },
+  {
+   "id": "Hip bone/Acetabular margin",
+   "di": "Hip bone",
+   "en": "Acetabular margin",
+   "it": "Margine dell'acetabolo",
+   "la": "Margo acetabuli",
+   "pos": [
+    -0.0917,
+    0.87558,
+    -0.0271
+   ]
+  },
+  {
+   "id": "Hip bone/Acetabular notch",
+   "di": "Hip bone",
+   "en": "Acetabular notch",
+   "it": "Incisura dell'acetabolo",
+   "la": "Incisura acetabuli",
+   "pos": [
+    -0.055,
+    0.86069,
+    -0.0071
+   ]
+  },
+  {
+   "id": "Hip bone/Acetabulum",
+   "di": "Hip bone",
+   "en": "Acetabulum",
+   "it": "Acetabolo",
+   "la": "Acetabulum",
+   "pos": [
+    -0.05742,
+    0.87101,
+    -0.01497
+   ]
+  },
+  {
+   "id": "Hip bone/Ala of ilium",
+   "di": "Hip bone",
+   "en": "Ala of ilium",
+   "it": "Ala iliaca",
+   "la": "Ala ossis ilium",
+   "pos": [
+    -0.09288,
+    0.95796,
+    -0.01336
+   ]
+  },
+  {
+   "id": "Hip bone/Anterior gluteal line",
+   "di": "Hip bone",
+   "en": "Anterior gluteal line",
+   "it": "Linea glutea anteriore",
+   "la": "Linea glutea anterior",
+   "pos": [
+    -0.10411,
+    0.96876,
+    -0.01315
+   ]
+  },
+  {
+   "id": "Hip bone/Anterior inferior iliac spine",
+   "di": "Hip bone",
+   "en": "Anterior inferior iliac spine",
+   "it": "Spina iliaca antero-inferiore",
+   "la": "Spina iliaca anterior inferior",
+   "pos": [
+    -0.0938,
+    0.88859,
+    0.02369
+   ]
+  },
+  {
+   "id": "Hip bone/Anterior obturator tubercle",
+   "di": "Hip bone",
+   "en": "Anterior obturator tubercle",
+   "it": "Tubercolo otturatorio anteriore",
+   "la": "Tuberculum obturatorium anterius",
+   "pos": [
+    -0.0291,
+    0.84145,
+    0.02032
+   ]
+  },
+  {
+   "id": "Hip bone/Anterior superior iliac spine",
+   "di": "Hip bone",
+   "en": "Anterior superior iliac spine",
+   "it": "Spina iliaca antero-superiore",
+   "la": "Spina iliaca anterior superior",
+   "pos": [
+    -0.12065,
+    0.94504,
+    0.05588
+   ]
+  },
+  {
+   "id": "Hip bone/Arcuate line of ilium",
+   "di": "Hip bone",
+   "en": "Arcuate line of ilium",
+   "it": "Linea arcuata dell'ileo",
+   "la": "Linea arcuata ossis ilium",
+   "pos": [
+    -0.05533,
+    0.88727,
+    0.0041
+   ]
+  },
+  {
+   "id": "Hip bone/Auricular surface of ilium",
+   "di": "Hip bone",
+   "en": "Auricular surface of ilium",
+   "it": "Faccia auricolare dell'ileo",
+   "la": "Facies auricularis ossis ilium",
+   "pos": [
+    -0.05156,
+    0.92984,
+    -0.03489
+   ]
+  },
+  {
+   "id": "Hip bone/Body of ilium",
+   "di": "Hip bone",
+   "en": "Body of ilium",
+   "it": "Corpo dell'ileo",
+   "la": "Corpus ossis ilium",
+   "pos": [
+    -0.10013,
+    0.89868,
+    0.0041
+   ]
+  },
+  {
+   "id": "Hip bone/Body of ischium",
+   "di": "Hip bone",
+   "en": "Body of ischium",
+   "it": "Corpo dell'ischio",
+   "la": "Corpus ossis ischii",
+   "pos": [
+    -0.06494,
+    0.83373,
+    -0.02819
+   ]
+  },
+  {
+   "id": "Hip bone/Body of pubis",
+   "di": "Hip bone",
+   "en": "Body of pubis",
+   "it": "Corpo del pube",
+   "la": "Corpus ossis pubis",
+   "pos": [
+    -0.05063,
+    0.87605,
+    0.02095
+   ]
+  },
+  {
+   "id": "Hip bone/Gluteal surface of ilium",
+   "di": "Hip bone",
+   "en": "Gluteal surface of ilium",
+   "it": "Faccia glutea dell'ileo",
+   "la": "Facies glutea ossis ilium",
+   "pos": [
+    -0.08823,
+    0.93822,
+    -0.01966
+   ]
+  },
+  {
+   "id": "Hip bone/Greater sciatic foramen",
+   "di": "Hip bone",
+   "en": "Greater sciatic foramen",
+   "it": "Grande forame ischiatico",
+   "la": "Foramen ischiadicum majus",
+   "pos": [
+    -0.05863,
+    0.89331,
+    -0.03699
+   ]
+  },
+  {
+   "id": "Hip bone/Greater sciatic notch",
+   "di": "Hip bone",
+   "en": "Greater sciatic notch",
+   "it": "Grande incisura ischiatica",
+   "la": "Incisura ischiadica major",
+   "pos": [
+    -0.06221,
+    0.90915,
+    -0.03129
+   ]
+  },
+  {
+   "id": "Hip bone/Iliac crest",
+   "di": "Hip bone",
+   "en": "Iliac crest",
+   "it": "Cresta iliaca",
+   "la": "Crista iliaca",
+   "pos": [
+    -0.12479,
+    0.99867,
+    0.00619
+   ]
+  },
+  {
+   "id": "Hip bone/Iliac fossa",
+   "di": "Hip bone",
+   "en": "Iliac fossa",
+   "it": "Fossa iliaca",
+   "la": "Fossa iliaca",
+   "pos": [
+    -0.0882,
+    0.93789,
+    -0.00768
+   ]
+  },
+  {
+   "id": "Hip bone/Iliac tubercle",
+   "di": "Hip bone",
+   "en": "Iliac tubercle",
+   "it": "Tubercolo iliaco",
+   "la": "Tuberculum iliacum",
+   "pos": [
+    -0.12803,
+    0.99226,
+    -0.00575
+   ]
+  },
+  {
+   "id": "Hip bone/Iliac tuberosity",
+   "di": "Hip bone",
+   "en": "Iliac tuberosity",
+   "it": "Tuberosità iliaca",
+   "la": "Tuberositas iliaca",
+   "pos": [
+    -0.05614,
+    0.98639,
+    -0.0654
+   ]
+  },
+  {
+   "id": "Hip bone/Iliopubic eminence",
+   "di": "Hip bone",
+   "en": "Iliopubic eminence",
+   "it": "Eminenza ileopubica",
+   "la": "Eminentia iliopubica",
+   "pos": [
+    -0.07028,
+    0.88048,
+    0.02325
+   ]
+  },
+  {
+   "id": "Hip bone/Ilium",
+   "di": "Hip bone",
+   "en": "Ilium",
+   "it": "Ilio",
+   "la": "Os ilium",
+   "pos": [
+    -0.09401,
+    0.95537,
+    -0.01803
+   ]
+  },
+  {
+   "id": "Hip bone/Inferior gluteal line",
+   "di": "Hip bone",
+   "en": "Inferior gluteal line",
+   "it": "Linea glutea inferiore",
+   "la": "Linea glutea inferior",
+   "pos": [
+    -0.10187,
+    0.90446,
+    0.00458
+   ]
+  },
+  {
+   "id": "Hip bone/Inferior pubic ramus",
+   "di": "Hip bone",
+   "en": "Inferior pubic ramus",
+   "it": "Ramo inferiore del pube",
+   "la": "Ramus inferior ossis pubis",
+   "pos": [
+    -0.01896,
+    0.8242,
+    0.02218
+   ]
+  },
+  {
+   "id": "Hip bone/Inner lip of iliac crest",
+   "di": "Hip bone",
+   "en": "Inner lip of iliac crest",
+   "it": "Labbro interno della cresta iliaca",
+   "la": "Labium internum cristae iliacae",
+   "pos": [
+    -0.09988,
+    1.01128,
+    -0.02296
+   ]
+  },
+  {
+   "id": "Hip bone/Intermediate zone",
+   "di": "Hip bone",
+   "en": "Intermediate zone",
+   "it": "Linea intermedia",
+   "la": "Linea intermedia",
+   "pos": [
+    -0.10717,
+    1.01066,
+    -0.01959
+   ]
+  },
+  {
+   "id": "Hip bone/Ischial spine",
+   "di": "Hip bone",
+   "en": "Ischial spine",
+   "it": "Spina ischiatica",
+   "la": "Spina ischiadica",
+   "pos": [
+    -0.04274,
+    0.86707,
+    -0.05202
+   ]
+  },
+  {
+   "id": "Hip bone/Ischial tuberosity",
+   "di": "Hip bone",
+   "en": "Ischial tuberosity",
+   "it": "Tuberosità ischiatica",
+   "la": "Tuber ischiadicum",
+   "pos": [
+    -0.0678,
+    0.81514,
+    -0.04742
+   ]
+  },
+  {
+   "id": "Hip bone/Ischiopubic ramus",
+   "di": "Hip bone",
+   "en": "Ischiopubic ramus",
+   "it": "Ramo ischiopubico",
+   "la": "Ramus ischiopubicus",
+   "pos": [
+    -0.02831,
+    0.8077,
+    0.00118
+   ]
+  },
+  {
+   "id": "Hip bone/Ischium",
+   "di": "Hip bone",
+   "en": "Ischium",
+   "it": "Ischio",
+   "la": "Os ischii",
+   "pos": [
+    -0.05483,
+    0.80396,
+    -0.04742
+   ]
+  },
+  {
+   "id": "Hip bone/Lesser sciatic foramen",
+   "di": "Hip bone",
+   "en": "Lesser sciatic foramen",
+   "it": "Piccolo forame ischiatico",
+   "la": "Foramen ischiadicum minus",
+   "pos": [
+    -0.05123,
+    0.85348,
+    -0.0471
+   ]
+  },
+  {
+   "id": "Hip bone/Lesser sciatic notch",
+   "di": "Hip bone",
+   "en": "Lesser sciatic notch",
+   "it": "Piccola incisura ischiatica",
+   "la": "Incisura ischiadica minor",
+   "pos": [
+    -0.05404,
+    0.85343,
+    -0.04824
+   ]
+  },
+  {
+   "id": "Hip bone/Lunate surface",
+   "di": "Hip bone",
+   "en": "Lunate surface",
+   "it": "Faccia semilunare",
+   "la": "Facies lunata",
+   "pos": [
+    -0.07045,
+    0.88016,
+    -0.0119
+   ]
+  },
+  {
+   "id": "Hip bone/Obturator crest",
+   "di": "Hip bone",
+   "en": "Obturator crest",
+   "it": "Cresta otturatoria",
+   "la": "Crista obturatoria",
+   "pos": [
+    -0.05317,
+    0.84997,
+    0.01963
+   ]
+  },
+  {
+   "id": "Hip bone/Obturator foramen",
+   "di": "Hip bone",
+   "en": "Obturator foramen",
+   "it": "Forame otturatorio",
+   "la": "Foramen obturatum",
+   "pos": [
+    -0.03319,
+    0.82141,
+    -0.00314
+   ]
+  },
+  {
+   "id": "Hip bone/Obturator groove",
+   "di": "Hip bone",
+   "en": "Obturator groove",
+   "it": "Solco otturatorio",
+   "la": "Sulcus obturatorius",
+   "pos": [
+    -0.04975,
+    0.85335,
+    0.01426
+   ]
+  },
+  {
+   "id": "Hip bone/Outer lip of iliac crest",
+   "di": "Hip bone",
+   "en": "Outer lip of iliac crest",
+   "it": "Labbro esterno della cresta iliaca",
+   "la": "Labium externum cristae iliacae",
+   "pos": [
+    -0.11442,
+    1.00402,
+    -0.01499
+   ]
+  },
+  {
+   "id": "Hip bone/Pecten pubis",
+   "di": "Hip bone",
+   "en": "Pecten pubis",
+   "it": "Cresta pettinea",
+   "la": "Pecten ossis pubis",
+   "pos": [
+    -0.04881,
+    0.8708,
+    0.02616
+   ]
+  },
+  {
+   "id": "Hip bone/Posterior gluteal line",
+   "di": "Hip bone",
+   "en": "Posterior gluteal line",
+   "it": "Linea glutea posteriore",
+   "la": "Linea glutea posterior",
+   "pos": [
+    -0.06515,
+    0.95392,
+    -0.07027
+   ]
+  },
+  {
+   "id": "Hip bone/Posterior inferior iliac spine",
+   "di": "Hip bone",
+   "en": "Posterior inferior iliac spine",
+   "it": "Spina iliaca postero-inferiore",
+   "la": "Spina iliaca posterior inferior",
+   "pos": [
+    -0.04725,
+    0.91601,
+    -0.05798
+   ]
+  },
+  {
+   "id": "Hip bone/Posterior superior iliac spine",
+   "di": "Hip bone",
+   "en": "Posterior superior iliac spine",
+   "it": "Spina iliaca postero-superiore",
+   "la": "Spina iliaca posterior superior",
+   "pos": [
+    -0.03825,
+    0.94914,
+    -0.08192
+   ]
+  },
+  {
+   "id": "Hip bone/Pubic crest",
+   "di": "Hip bone",
+   "en": "Pubic crest",
+   "it": "Cresta pubica",
+   "la": "Crista pubica",
+   "pos": [
+    -0.02421,
+    0.85126,
+    0.04925
+   ]
+  },
+  {
+   "id": "Hip bone/Pubic tubercle",
+   "di": "Hip bone",
+   "en": "Pubic tubercle",
+   "it": "Tubercolo pubico",
+   "la": "Tuberculum pubicum",
+   "pos": [
+    -0.03221,
+    0.84722,
+    0.04372
+   ]
+  },
+  {
+   "id": "Hip bone/Pubis",
+   "di": "Hip bone",
+   "en": "Pubis",
+   "it": "Pube",
+   "la": "Os pubis",
+   "pos": [
+    -0.00494,
+    0.84076,
+    0.04034
+   ]
+  },
+  {
+   "id": "Hip bone/Ramus of ischium",
+   "di": "Hip bone",
+   "en": "Ramus of ischium",
+   "it": "Ramo dell'ischio",
+   "la": "Ramus ossis ischii",
+   "pos": [
+    -0.04385,
+    0.81021,
+    -0.02249
+   ]
+  },
+  {
+   "id": "Hip bone/Sacropelvic surface of ilium",
+   "di": "Hip bone",
+   "en": "Sacropelvic surface of ilium",
+   "it": "Faccia sacropelvica dell'ileo",
+   "la": "Facies sacropelvica ossis ilium",
+   "pos": [
+    -0.04677,
+    0.94809,
+    -0.05226
+   ]
+  },
+  {
+   "id": "Hip bone/Superior pubic ramus",
+   "di": "Hip bone",
+   "en": "Superior pubic ramus",
+   "it": "Ramo superiore del pube",
+   "la": "Ramus superior ossis pubis",
+   "pos": [
+    -0.03939,
+    0.86186,
+    0.03332
+   ]
+  },
+  {
+   "id": "Hip bone/Supra-acetabular groove",
+   "di": "Hip bone",
+   "en": "Supra-acetabular groove",
+   "it": "Solco sopra-acetabolare",
+   "la": "Sulcus supraacetabularis",
+   "pos": [
+    -0.09949,
+    0.8932,
+    0.00202
+   ]
+  },
+  {
+   "id": "Hip bone/Symphysial surface of pubis",
+   "di": "Hip bone",
+   "en": "Symphysial surface of pubis",
+   "it": "Faccia sinfisaria del pube",
+   "la": "Facies symphysialis ossis pubis",
+   "pos": [
+    -0.006,
+    0.84753,
+    0.0477
+   ]
+  },
+  {
+   "id": "Navicular bone/Tuberosity of navicular bone",
+   "di": "Navicular bone",
+   "en": "Tuberosity of navicular bone",
+   "it": "Tuberosità dello scafoide",
+   "la": "Tuberositas ossis navicularis",
+   "pos": [
+    -0.05513,
+    0.05095,
+    -0.00692
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of foot/Base of phalanx of foot",
+   "di": "Proximal phalanx of third finger of foot",
+   "en": "Base of phalanx of foot",
+   "it": "Base della falange del piede",
+   "la": "Basis phalangis pedis",
+   "pos": [
+    -0.1039,
+    0.01427,
+    0.07902
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of foot/Body of phalanx of foot",
+   "di": "Proximal phalanx of third finger of foot",
+   "en": "Body of phalanx of foot",
+   "it": "Corpo della falange del piede",
+   "la": "Corpus phalangis pedis",
+   "pos": [
+    -0.10539,
+    0.01348,
+    0.08115
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of foot/Head of phalanx of foot",
+   "di": "Proximal phalanx of third finger of foot",
+   "en": "Head of phalanx of foot",
+   "it": "Testa della falange del piede",
+   "la": "Caput phalangis pedis",
+   "pos": [
+    -0.11031,
+    0.01236,
+    0.10246
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of foot/Trochlea of phalanx of foot",
+   "di": "Proximal phalanx of third finger of foot",
+   "en": "Trochlea of phalanx of foot",
+   "it": "Troclea della falange del piede",
+   "la": "Trochlea phalangis pedis",
+   "pos": [
+    -0.11065,
+    0.01216,
+    0.10266
+   ]
+  },
+  {
+   "id": "Talus/Body of talus",
+   "di": "Talus",
+   "en": "Body of talus",
+   "it": "Corpo dell'astragalo",
+   "la": "Corpus ossis tali",
+   "pos": [
+    -0.05906,
+    0.0573,
+    -0.03067
+   ]
+  },
+  {
+   "id": "Talus/Facet for calcaneonavicular part of bifurcate ligament",
+   "di": "Talus",
+   "en": "Facet for calcaneonavicular part of bifurcate ligament",
+   "it": "Faccia art. per la porz. calcaneo-scafoidea del leg. bifido",
+   "la": "Facies art.. partis calcaneonavicularis ligamenti bifurcati",
+   "pos": [
+    -0.09307,
+    0.05296,
+    -0.04218
+   ]
+  },
+  {
+   "id": "Talus/Facet for plantar calcaneonavicular ligament",
+   "di": "Talus",
+   "en": "Facet for plantar calcaneonavicular ligament",
+   "it": "Faccia articolare per il leg. calcaneo-scafoideo plantare",
+   "la": "Facies articularis ligamenti calcaneonavicularis plantaris",
+   "pos": [
+    -0.05929,
+    0.05596,
+    -0.02757
+   ]
+  },
+  {
+   "id": "Talus/Groove for tendon of flexor hallucis longus of talus",
+   "di": "Talus",
+   "en": "Groove for tendon of flexor hallucis longus of talus",
+   "it": "Scanalatura-tendine-flessore lungo dell'alluce dell'astragalo",
+   "la": "Sulcus tendinis flexoris longi hallucis ossis tali",
+   "pos": [
+    -0.06929,
+    0.05883,
+    -0.06366
+   ]
+  },
+  {
+   "id": "Talus/Head of talus",
+   "di": "Talus",
+   "en": "Head of talus",
+   "it": "Testa dell'astragalo",
+   "la": "Caput ossis tali",
+   "pos": [
+    -0.06091,
+    0.05365,
+    -0.02271
+   ]
+  },
+  {
+   "id": "Talus/Lateral malleolar facet",
+   "di": "Talus",
+   "en": "Lateral malleolar facet",
+   "it": "Faccia malleolare laterale",
+   "la": "Facies malleolaris lateralis",
+   "pos": [
+    -0.0952,
+    0.05559,
+    -0.05026
+   ]
+  },
+  {
+   "id": "Talus/Lateral process of talus",
+   "di": "Talus",
+   "en": "Lateral process of talus",
+   "it": "Processo laterale dell'astragalo",
+   "la": "Processus lateralis ossis tali",
+   "pos": [
+    -0.09359,
+    0.05058,
+    -0.04471
+   ]
+  },
+  {
+   "id": "Talus/Lateral tubercle",
+   "di": "Talus",
+   "en": "Lateral tubercle",
+   "it": "Tubercolo laterale",
+   "la": "Tuberculum laterale",
+   "pos": [
+    -0.07163,
+    0.05926,
+    -0.0648
+   ]
+  },
+  {
+   "id": "Talus/Medial malleolar facet",
+   "di": "Talus",
+   "en": "Medial malleolar facet",
+   "it": "Faccia malleolare mediale",
+   "la": "Facies malleolaris medialis",
+   "pos": [
+    -0.05586,
+    0.06223,
+    -0.04272
+   ]
+  },
+  {
+   "id": "Talus/Medial tubercle",
+   "di": "Talus",
+   "en": "Medial tubercle",
+   "it": "Tubercolo mediale",
+   "la": "Tuberculum mediale",
+   "pos": [
+    -0.06372,
+    0.05694,
+    -0.05738
+   ]
+  },
+  {
+   "id": "Talus/Middle facet for calcaneus",
+   "di": "Talus",
+   "en": "Middle facet for calcaneus",
+   "it": "Faccetta articolare mediana per il calcagno",
+   "la": "Facies articularis calcanea media",
+   "pos": [
+    -0.06568,
+    0.05293,
+    -0.02594
+   ]
+  },
+  {
+   "id": "Talus/Navicular articular surface",
+   "di": "Talus",
+   "en": "Navicular articular surface",
+   "it": "Faccia articolare per lo scafoide",
+   "la": "Facies articularis navicularis",
+   "pos": [
+    -0.06838,
+    0.0539,
+    -0.01433
+   ]
+  },
+  {
+   "id": "Talus/Neck of talus",
+   "di": "Talus",
+   "en": "Neck of talus",
+   "it": "Collo dell'astragalo",
+   "la": "Collum ossis tali",
+   "pos": [
+    -0.06091,
+    0.05365,
+    -0.02271
+   ]
+  },
+  {
+   "id": "Talus/Posterior calcaneal articular facet",
+   "di": "Talus",
+   "en": "Posterior calcaneal articular facet",
+   "it": "Faccetta articolare calcaneare posteriore",
+   "la": "Facies articularis calcanea posterior",
+   "pos": [
+    -0.08865,
+    0.05025,
+    -0.04354
+   ]
+  },
+  {
+   "id": "Talus/Posterior process of talus",
+   "di": "Talus",
+   "en": "Posterior process of talus",
+   "it": "Processo posteriore dell'astragalo",
+   "la": "Processus posterior ossis tali",
+   "pos": [
+    -0.06915,
+    0.05848,
+    -0.06338
+   ]
+  },
+  {
+   "id": "Talus/Superior facet of talus",
+   "di": "Talus",
+   "en": "Superior facet of talus",
+   "it": "Faccia superiore dell'astragalo",
+   "la": "Facies superior ossis tali",
+   "pos": [
+    -0.0701,
+    0.08133,
+    -0.04691
+   ]
+  },
+  {
+   "id": "Talus/Talar sulcus",
+   "di": "Talus",
+   "en": "Talar sulcus",
+   "it": "Solco dell'astragalo",
+   "la": "Sulcus ossis tali",
+   "pos": [
+    -0.08771,
+    0.05059,
+    -0.0424
+   ]
+  },
+  {
+   "id": "Talus/Trochlea of talus",
+   "di": "Talus",
+   "en": "Trochlea of talus",
+   "it": "Troclea dell'astragalo",
+   "la": "Trochlea ossis tali",
+   "pos": [
+    -0.07399,
+    0.0832,
+    -0.04307
+   ]
+  },
+  {
+   "id": "Third metatarsal bone/Base of metatarsal bone",
+   "di": "Third metatarsal bone",
+   "en": "Base of metatarsal bone",
+   "it": "Base dell'osso metatarsale",
+   "la": "Basis ossis metatarsi",
+   "pos": [
+    -0.09204,
+    0.03852,
+    0.0168
+   ]
+  },
+  {
+   "id": "Third metatarsal bone/Body of metatarsal bone",
+   "di": "Third metatarsal bone",
+   "en": "Body of metatarsal bone",
+   "it": "Corpo dell'osso metatarsale",
+   "la": "Corpus ossis metatarsi",
+   "pos": [
+    -0.10018,
+    0.01736,
+    0.07017
+   ]
+  },
+  {
+   "id": "Third metatarsal bone/Head of metatarsal bone",
+   "di": "Third metatarsal bone",
+   "en": "Head of metatarsal bone",
+   "it": "Testa dell'osso metatarsale",
+   "la": "Caput ossis metatarsi",
+   "pos": [
+    -0.10051,
+    0.0162,
+    0.07246
+   ]
+  },
+  {
+   "id": "Tibia/Anterior border of tibia",
+   "di": "Tibia",
+   "en": "Anterior border of tibia",
+   "it": "Margine anteriore della tibia",
+   "la": "Margo anterior tibiae",
+   "pos": [
+    -0.08542,
+    0.31754,
+    -0.00112
+   ]
+  },
+  {
+   "id": "Tibia/Anterior intercondylar area",
+   "di": "Tibia",
+   "en": "Anterior intercondylar area",
+   "it": "Area intercondiloidea anteriore",
+   "la": "Area intercondylaris anterior",
+   "pos": [
+    -0.0666,
+    0.43009,
+    -0.02047
+   ]
+  },
+  {
+   "id": "Tibia/Articular facet of medial malleolus",
+   "di": "Tibia",
+   "en": "Articular facet of medial malleolus",
+   "it": "Faccia articolare del malleolo mediale",
+   "la": "Facies articularis malleoli",
+   "pos": [
+    -0.05891,
+    0.08194,
+    -0.03294
+   ]
+  },
+  {
+   "id": "Tibia/Articular surface of medial condyle",
+   "di": "Tibia",
+   "en": "Articular surface of medial condyle",
+   "it": "Faccia articolare del condilo mediale",
+   "la": "Facies articularis condyli medialis",
+   "pos": [
+    -0.05362,
+    0.42115,
+    -0.03836
+   ]
+  },
+  {
+   "id": "Tibia/Body of tibia",
+   "di": "Tibia",
+   "en": "Body of tibia",
+   "it": "Corpo della tibia",
+   "la": "Corpus tibiae",
+   "pos": [
+    -0.07353,
+    0.26235,
+    -0.01579
+   ]
+  },
+  {
+   "id": "Tibia/Fibular articular facet",
+   "di": "Tibia",
+   "en": "Fibular articular facet",
+   "it": "Faccia articolare fibulare",
+   "la": "Facies articularis fibularis",
+   "pos": [
+    -0.10552,
+    0.40579,
+    -0.03651
+   ]
+  },
+  {
+   "id": "Tibia/Fibular notch",
+   "di": "Tibia",
+   "en": "Fibular notch",
+   "it": "Incisura fibulare",
+   "la": "Incisura fibularis",
+   "pos": [
+    -0.09177,
+    0.09855,
+    -0.04339
+   ]
+  },
+  {
+   "id": "Tibia/Inferior articular surface of tibia",
+   "di": "Tibia",
+   "en": "Inferior articular surface of tibia",
+   "it": "Faccia articolare inferiore della tibia",
+   "la": "Facies articularis inferior tibiae",
+   "pos": [
+    -0.07209,
+    0.08696,
+    -0.04215
+   ]
+  },
+  {
+   "id": "Tibia/Intercondylar area",
+   "di": "Tibia",
+   "en": "Intercondylar area",
+   "it": "Area intercondiloidea",
+   "la": "Area intercondylaris",
+   "pos": [
+    -0.06986,
+    0.42933,
+    -0.03366
+   ]
+  },
+  {
+   "id": "Tibia/Intercondylar eminence",
+   "di": "Tibia",
+   "en": "Intercondylar eminence",
+   "it": "Eminenza intercondiloidea",
+   "la": "Eminentia intercondylaris",
+   "pos": [
+    -0.07034,
+    0.43014,
+    -0.03815
+   ]
+  },
+  {
+   "id": "Tibia/Interosseous border of tibia",
+   "di": "Tibia",
+   "en": "Interosseous border of tibia",
+   "it": "Margine interosseo della tibia",
+   "la": "Margo interosseus tibiae",
+   "pos": [
+    -0.08911,
+    0.28979,
+    -0.03105
+   ]
+  },
+  {
+   "id": "Tibia/Lateral condyle of tibia",
+   "di": "Tibia",
+   "en": "Lateral condyle of tibia",
+   "it": "Condilo laterale della tibia",
+   "la": "Condylus lateralis tibiae",
+   "pos": [
+    -0.11328,
+    0.42191,
+    -0.02867
+   ]
+  },
+  {
+   "id": "Tibia/Lateral intercondylar tubercle",
+   "di": "Tibia",
+   "en": "Lateral intercondylar tubercle",
+   "it": "Tubercolo intercondiloideo laterale",
+   "la": "Tuberculum intercondylare laterale",
+   "pos": [
+    -0.07876,
+    0.43149,
+    -0.0396
+   ]
+  },
+  {
+   "id": "Tibia/Lateral surface of tibia",
+   "di": "Tibia",
+   "en": "Lateral surface of tibia",
+   "it": "Faccia laterale della tibia",
+   "la": "Facies lateralis tibiae",
+   "pos": [
+    -0.09128,
+    0.27786,
+    -0.01887
+   ]
+  },
+  {
+   "id": "Tibia/Malleolar groove of tibia",
+   "di": "Tibia",
+   "en": "Malleolar groove of tibia",
+   "it": "Solco malleolare della tibia",
+   "la": "Sulcus malleolaris tibiae",
+   "pos": [
+    -0.06465,
+    0.09813,
+    -0.05419
+   ]
+  },
+  {
+   "id": "Tibia/Medial border of tibia",
+   "di": "Tibia",
+   "en": "Medial border of tibia",
+   "it": "Margine mediale della tibia",
+   "la": "Margo medialis tibiae",
+   "pos": [
+    -0.06919,
+    0.21578,
+    -0.03495
+   ]
+  },
+  {
+   "id": "Tibia/Medial condyle of tibia",
+   "di": "Tibia",
+   "en": "Medial condyle of tibia",
+   "it": "Condilo mediale della tibia",
+   "la": "Condylus medialis tibiae",
+   "pos": [
+    -0.04011,
+    0.4103,
+    -0.04287
+   ]
+  },
+  {
+   "id": "Tibia/Medial intercondylar tubercle",
+   "di": "Tibia",
+   "en": "Medial intercondylar tubercle",
+   "it": "Tubercolo intercondiloideo mediale",
+   "la": "Tuberculum intercondylare mediale",
+   "pos": [
+    -0.06652,
+    0.4315,
+    -0.04116
+   ]
+  },
+  {
+   "id": "Tibia/Medial malleolus",
+   "di": "Tibia",
+   "en": "Medial malleolus",
+   "it": "Malleolo interno",
+   "la": "Malleolus medialis",
+   "pos": [
+    -0.04604,
+    0.08958,
+    -0.03723
+   ]
+  },
+  {
+   "id": "Tibia/Medial surface of tibia",
+   "di": "Tibia",
+   "en": "Medial surface of tibia",
+   "it": "Faccia mediale della tibia",
+   "la": "Facies medialis tibiae",
+   "pos": [
+    -0.0731,
+    0.34425,
+    -0.00778
+   ]
+  },
+  {
+   "id": "Tibia/Posterior intercondylar area",
+   "di": "Tibia",
+   "en": "Posterior intercondylar area",
+   "it": "Area intercondilaroidea posteriore",
+   "la": "Area intercondylaris posterior",
+   "pos": [
+    -0.07163,
+    0.42369,
+    -0.04802
+   ]
+  },
+  {
+   "id": "Tibia/Posterior malleolus",
+   "di": "Tibia",
+   "en": "Posterior malleolus",
+   "it": "Malleolo posteriore",
+   "la": "Malleolus posterior",
+   "pos": [
+    -0.07696,
+    0.08905,
+    -0.05924
+   ]
+  },
+  {
+   "id": "Tibia/Posterior surface of tibia",
+   "di": "Tibia",
+   "en": "Posterior surface of tibia",
+   "it": "Faccia posteriore della tibia",
+   "la": "Facies posterior tibiae",
+   "pos": [
+    -0.07909,
+    0.18976,
+    -0.03808
+   ]
+  },
+  {
+   "id": "Tibia/Soleal line",
+   "di": "Tibia",
+   "en": "Soleal line",
+   "it": "Linea del muscolo soleo",
+   "la": "Linea musculi solei",
+   "pos": [
+    -0.0754,
+    0.36287,
+    -0.0381
+   ]
+  },
+  {
+   "id": "Tibia/Superior articular surface of lateral condyle",
+   "di": "Tibia",
+   "en": "Superior articular surface of lateral condyle",
+   "it": "Faccia articolare superiore del condilo laterale",
+   "la": "Facies articularis superior condyli lateralis",
+   "pos": [
+    -0.09074,
+    0.42863,
+    -0.02594
+   ]
+  },
+  {
+   "id": "Tibia/Superior articular surfaces of tibia",
+   "di": "Tibia",
+   "en": "Superior articular surfaces of tibia",
+   "it": "Facce articolari superiori della tibia",
+   "la": "Facies articulares superiores tibiae",
+   "pos": [
+    -0.07702,
+    0.42771,
+    -0.02009
+   ]
+  },
+  {
+   "id": "Tibia/Tibial plateau",
+   "di": "Tibia",
+   "en": "Tibial plateau",
+   "it": "Piatto tibiale",
+   "la": "Planum tibiae",
+   "pos": [
+    -0.03863,
+    0.41462,
+    -0.03258
+   ]
+  },
+  {
+   "id": "Tibia/Tibial tuberosity",
+   "di": "Tibia",
+   "en": "Tibial tuberosity",
+   "it": "Tuberosità della tibia",
+   "la": "Tuberositas tibiae",
+   "pos": [
+    -0.0882,
+    0.39795,
+    0.00441
+   ]
+  },
+  {
+   "id": "Tibia/Tubercle of iliotibial tract",
+   "di": "Tibia",
+   "en": "Tubercle of iliotibial tract",
+   "it": "Tubercolo del tratto ileotibiale",
+   "la": "Tuberculum tractus iliotibialis",
+   "pos": [
+    -0.09743,
+    0.39086,
+    -0.01248
+   ]
+  }
+ ]
+}

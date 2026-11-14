@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlante di anatomia 3D</title>
+<style>
+  :root { --bg:#14171c; --panel:#1d2129; --line:#323845; --text:#e8eaf0; --dim:#9aa3b5; --accent:#4da3ff; --on:#fff; }
+  @media (prefers-color-scheme: light) {
+    :root { --bg:#eef0f4; --panel:#fff; --line:#d5d9e2; --text:#1b1f27; --dim:#5b6475; --accent:#0b62d6; }
+  }
+  * { box-sizing:border-box; }
+  html,body { height:100%; margin:0; }
+  body { display:grid; grid-template-columns:300px 1fr 360px; background:var(--bg); color:var(--text);
+         font:15px/1.45 system-ui,sans-serif; }
+  aside { background:var(--panel); overflow:auto; padding:12px; border:0 solid var(--line); }
+  #left { border-right-width:1px; } #right { border-left-width:1px; }
+  #view { position:relative; min-width:0; min-height:0; }
+  #view canvas { display:block; touch-action:none; }
+  #tip { position:absolute; pointer-events:none; background:var(--panel); border:1px solid var(--line);
+         padding:2px 8px; border-radius:4px; font-size:13px; display:none; }
+  #hint { position:absolute; left:0; right:0; bottom:8px; text-align:center; color:var(--dim); font-size:12px;
+          pointer-events:none; }
+  input,button { font:inherit; color:inherit; }
+  input[type=search] { width:100%; margin:8px 0; background:var(--bg); border:1px solid var(--line);
+         border-radius:4px; padding:6px 8px; }
+  button { cursor:pointer; background:var(--bg); border:1px solid var(--line); border-radius:4px; padding:6px 8px; }
+  button:hover { border-color:var(--accent); }
+  button[aria-pressed=true] { background:var(--accent); color:var(--on); border-color:var(--accent); }
+  .bar { display:flex; gap:6px; flex-wrap:wrap; margin:8px 0; }
+  .layers { display:flex; gap:12px; font-size:14px; border:0; padding:0; margin:4px 0; }
+  ul { list-style:none; margin:0; padding:0; }
+  #tree ul { padding-left:14px; }
+  #tree .row { display:flex; align-items:flex-start; }
+  #tree button { border:0; background:none; padding:3px 6px; text-align:left; border-radius:4px; }
+  #tree .name { flex:1; }
+  #tree .tw { width:22px; padding:3px 0; text-align:center; color:var(--dim); flex:none; }
+  #tree .grp > .row .name { font-weight:600; }
+  #tree .mark .name { color:var(--dim); font-size:14px; }
+  #tree .off > .row .name { text-decoration:line-through; opacity:.55; }
+  #tree button[aria-current=true] { background:var(--accent); color:var(--on); }
+  .dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; }
+  h1 { font-size:16px; margin:0 0 6px; } h2 { font-size:20px; margin:4px 0 0; }
+  h3 { font-size:12px; text-transform:uppercase; letter-spacing:.05em; color:var(--dim); margin:14px 0 2px; }
+  .la { color:var(--dim); font-style:italic; margin:0 0 8px; }
+  .crumbs { font-size:13px; color:var(--dim); }
+  .crumbs button, .parts button { border:0; background:none; padding:1px 2px; color:var(--accent); text-align:left; }
+  .parts li { padding:1px 0; }
+  .todo { color:var(--dim); font-style:italic; }
+  #card p { margin:6px 0; }
+  footer { font-size:12px; color:var(--dim); margin-top:16px; }
+  footer a { color:inherit; }
+  @media (max-width:900px) {
+    body { grid-template-columns:1fr; grid-template-rows:auto 50vh auto; height:auto; }
+    #left { max-height:38vh; border-right-width:0; border-bottom-width:1px; }
+    #right { border-left-width:0; border-top-width:1px; }
+    #hint { display:none; }
+  }
+</style>
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<aside id="left">
+  <h1>Atlante di anatomia 3D</h1>
+  <nav id="regions" class="bar" aria-label="Regione"></nav>
+  <fieldset class="layers">
+    <legend class="crumbs">Mostra</legend>
+    <label><input type="checkbox" data-layer="osso" checked> Ossa</label>
+    <label><input type="checkbox" data-layer="muscolo" checked> Muscoli</label>
+    <label><input type="checkbox" data-layer="altro" checked> Altro</label>
+  </fieldset>
+  <input id="q" type="search" placeholder="Cerca osso, muscolo, rilievo…" aria-label="Cerca" autocomplete="off">
+  <div id="tree"></div>
+</aside>
+<main id="view">
+  <div id="tip" role="tooltip"></div>
+  <div id="hint">Trascina per ruotare · rotella per lo zoom · tasto destro per spostare · clic per selezionare · Esc per deselezionare</div>
+</main>
+<aside id="right">
+  <div id="card" aria-live="polite"></div>
+  <div class="bar">
+    <button id="hide">Nascondi</button>
+    <button id="iso">Isola</button>
+    <button id="all">Mostra tutto</button>
+  </div>
+  <footer>
+    Modelli 3D: <a href="https://www.z-anatomy.com/">Z-Anatomy</a> (CC BY-SA 4.0), derivati da
+    BodyParts3D © The Database Center for Life Science (CC BY-SA 2.1 Japan). Testi: CC BY-SA 4.0.
+  </footer>
+</aside>
+<script type="module" src="app.js"></script>
+</body>
+</html>

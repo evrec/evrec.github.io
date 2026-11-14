@@ -1,0 +1,2046 @@
+{
+ "nodes": {
+  "Bones of cranium": {
+   "en": "Bones of cranium",
+   "it": "Ossa del cranio",
+   "la": "Ossa cranii",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Bucinator": {
+   "en": "Bucinator",
+   "it": "Buccinatore",
+   "la": "Bucinator",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Corrugator supercilii": {
+   "en": "Corrugator supercilii",
+   "it": "Muscolo corrugatore del sopraccilio",
+   "la": "Musculus corrugator supercilii",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Deep part of masseter": {
+   "en": "Deep part of masseter",
+   "it": "Parte profonda del massetere",
+   "la": "Pars profunda masseteris",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Depressor anguli oris": {
+   "en": "Depressor anguli oris",
+   "it": "Muscolo depressore dell'angolo della bocca",
+   "la": "Depressor anguli oris",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Depressor labii inferioris": {
+   "en": "Depressor labii inferioris",
+   "it": "Muscolo depressore del labbro inferiore",
+   "la": "Depressor labii inferioris",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Depressor septi nasi": {
+   "en": "Depressor septi nasi",
+   "it": "Muscolo depressore del setto nasale",
+   "la": "Depressor septi nasi",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Epicranial aponeurosis": {
+   "en": "Epicranial aponeurosis",
+   "it": "Aponeurosi epicranica",
+   "la": "Galea aponeurotica",
+   "tipo": "altro",
+   "parent": "Epicranius muscle"
+  },
+  "Epicranius muscle": {
+   "en": "Epicranius muscle",
+   "it": "Muscolo epicranico",
+   "la": "Musculus epicranius",
+   "tipo": "gruppo",
+   "parent": "Superficial muscles of head"
+  },
+  "Ethmoid bone": {
+   "en": "Ethmoid bone",
+   "it": "Osso etmoide",
+   "la": "Os ethmoideum",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Facial muscles": {
+   "en": "Facial muscles",
+   "it": "Muscoli facciali",
+   "la": "Musculi faciales",
+   "tipo": "gruppo",
+   "parent": "Superficial muscles of head"
+  },
+  "Frontal bone": {
+   "en": "Frontal bone",
+   "it": "Osso frontale",
+   "la": "Os frontale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Frontalis muscle": {
+   "en": "Frontalis muscle",
+   "it": "Ventre frontale",
+   "la": "Musculus frontalis",
+   "tipo": "muscolo",
+   "parent": "Epicranius muscle"
+  },
+  "Hyoid bone": {
+   "en": "Hyoid bone",
+   "it": "Osso ioide",
+   "la": "Os hyoideum",
+   "tipo": "osso",
+   "parent": null
+  },
+  "Inferior head of lateral pterygoid muscle": {
+   "en": "Inferior head of lateral pterygoid muscle",
+   "it": "Capo inferiore del muscolo pterigoideo laterale",
+   "la": "Caput inferius musculi pterygoidei lateralis",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Inferior nasal concha bone": {
+   "en": "Inferior nasal concha bone",
+   "it": "Conca nasale inferiore",
+   "la": "Concha nasalis inferior",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Lacrimal bone": {
+   "en": "Lacrimal bone",
+   "it": "Osso lacrimale",
+   "la": "Os lacrimale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Levator anguli oris": {
+   "en": "Levator anguli oris",
+   "it": "Muscolo elevatore dell'angolo della bocca",
+   "la": "Levator anguli oris",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Levator labii superioris": {
+   "en": "Levator labii superioris",
+   "it": "Muscolo elevatore del labbro superiore",
+   "la": "Levator labii superioris",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Levator nasolabialis": {
+   "en": "Levator nasolabialis",
+   "it": "Muscolo elevatore nasolabiale",
+   "la": "Levator nasolabialis",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Mandible": {
+   "en": "Mandible",
+   "it": "Mandibola",
+   "la": "Mandibula",
+   "tipo": "osso",
+   "parent": null
+  },
+  "Masticatory muscles": {
+   "en": "Masticatory muscles",
+   "it": "Muscoli masticatori",
+   "la": "Musculi masticatorii",
+   "tipo": "gruppo",
+   "parent": "Muscles of head"
+  },
+  "Maxilla": {
+   "en": "Maxilla",
+   "it": "Mascella",
+   "la": "Maxilla",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Medial pterygoid muscle": {
+   "en": "Medial pterygoid muscle",
+   "it": "Muscolo pterigoideo mediale",
+   "la": "Musculus pterygoideus medialis",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Mentalis muscle": {
+   "en": "Mentalis muscle",
+   "it": "Muscolo mentale",
+   "la": "Musculus mentalis",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Muscles of head": {
+   "en": "Muscles of head",
+   "it": "Muscoli della testa",
+   "la": "Muculi capitis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Nasal bone": {
+   "en": "Nasal bone",
+   "it": "Osso nasale",
+   "la": "Os nasale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Nasalis muscle": {
+   "en": "Nasalis muscle",
+   "it": "Muscolo nasale",
+   "la": "Musculus nasalis",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Occipital bone": {
+   "en": "Occipital bone",
+   "it": "Osso occipitale",
+   "la": "Os occipitale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Occipitalis muscle": {
+   "en": "Occipitalis muscle",
+   "it": "Ventre occipitale",
+   "la": "Musculus occipitalis",
+   "tipo": "muscolo",
+   "parent": "Epicranius muscle"
+  },
+  "Orbicularis oris muscle": {
+   "en": "Orbicularis oris muscle",
+   "it": "Muscolo orbicolare della bocca",
+   "la": "Musculus orbicularis oris",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Orbital part of orbicularis oculi": {
+   "en": "Orbital part of orbicularis oculi",
+   "it": "Parte orbitaria del muscolo orbicolare dell'occhio",
+   "la": "Pars orbitalis musculi orbicularis oculi",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Palatine bone": {
+   "en": "Palatine bone",
+   "it": "Osso palatino",
+   "la": "Os palatinum",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Palpebral part of orbicularis oculi": {
+   "en": "Palpebral part of orbicularis oculi",
+   "it": "Porzione palpebrale dell'orbicolare dell'occhio",
+   "la": "Pars palpebralis musculi orbicularis oculi",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Parietal bone": {
+   "en": "Parietal bone",
+   "it": "Osso parietale",
+   "la": "Os parietale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Procerus muscle": {
+   "en": "Procerus muscle",
+   "it": "Muscolo procero",
+   "la": "Musculus procerus",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Risorius muscle": {
+   "en": "Risorius muscle",
+   "it": "Muscolo risorio",
+   "la": "Musculus risorius",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Sphenoid bone": {
+   "en": "Sphenoid bone",
+   "it": "Sfenoide",
+   "la": "Os sphenoideum",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Superficial muscles of head": {
+   "en": "Superficial muscles of head",
+   "it": "Muscoli superficiali della testa",
+   "la": "Musculi superficiales capitis",
+   "tipo": "gruppo",
+   "parent": "Muscles of head"
+  },
+  "Superficial part of masseter": {
+   "en": "Superficial part of masseter",
+   "it": "Parte superficiale del massetere",
+   "la": "Pars superficialis masseteris",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Superior head of lateral pterygoid muscle": {
+   "en": "Superior head of lateral pterygoid muscle",
+   "it": "Capo superiore del muscolo pterigoideo laterale",
+   "la": "Caput superius musculi pterygoidei lateralis",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Temporal bone": {
+   "en": "Temporal bone",
+   "it": "Osso temporale",
+   "la": "Os temporale",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Temporalis muscle": {
+   "en": "Temporalis muscle",
+   "it": "Muscolo temporale",
+   "la": "Musculus temporalis",
+   "tipo": "muscolo",
+   "parent": "Masticatory muscles"
+  },
+  "Temporoparietalis muscle": {
+   "en": "Temporoparietalis muscle",
+   "it": "Muscolo temporoparietale",
+   "la": "Musculus temporoparietalis",
+   "tipo": "muscolo",
+   "parent": "Epicranius muscle"
+  },
+  "Vomer": {
+   "en": "Vomer",
+   "it": "Vomere",
+   "la": "Vomer",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Zygomatic bone": {
+   "en": "Zygomatic bone",
+   "it": "Osso zigomatico",
+   "la": "Os zygomaticum",
+   "tipo": "osso",
+   "parent": "Bones of cranium"
+  },
+  "Zygomaticus major muscle": {
+   "en": "Zygomaticus major muscle",
+   "it": "Muscolo grande zigomatico",
+   "la": "Musculus zygomaticus major",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  },
+  "Zygomaticus minor muscle": {
+   "en": "Zygomaticus minor muscle",
+   "it": "Muscolo piccolo zigomatico",
+   "la": "Musculus zygomaticus minor",
+   "tipo": "muscolo",
+   "parent": "Facial muscles"
+  }
+ },
+ "landmarks": [
+  {
+   "id": "Frontal bone/(Supra-orbital notch)",
+   "di": "Frontal bone",
+   "en": "(Supra-orbital notch)",
+   "it": "(Incisura sopra-orbitaria)",
+   "la": "(Incisura supraorbitalis)",
+   "pos": [
+    0.00713,
+    1.59658,
+    0.07403
+   ]
+  },
+  {
+   "id": "Frontal bone/(Trochlear spine)",
+   "di": "Frontal bone",
+   "en": "(Trochlear spine)",
+   "it": "(Spina trocleare)",
+   "la": "(Spina trochlearis)",
+   "pos": [
+    0.01238,
+    1.59552,
+    0.06863
+   ]
+  },
+  {
+   "id": "Frontal bone/Ethmoidal notch",
+   "di": "Frontal bone",
+   "en": "Ethmoidal notch",
+   "it": "Incisura etmoidale",
+   "la": "Incisura ethmoidea",
+   "pos": [
+    -0.00455,
+    1.59261,
+    0.04993
+   ]
+  },
+  {
+   "id": "Frontal bone/External surface of squamous part of frontal bone",
+   "di": "Frontal bone",
+   "en": "External surface of squamous part of frontal bone",
+   "it": "Superficie esterna della parte squamosa dell'osso frontale",
+   "la": "Facies externa squamae frontalis",
+   "pos": [
+    0.02615,
+    1.67703,
+    0.05777
+   ]
+  },
+  {
+   "id": "Frontal bone/Foramen caecum of frontal bone",
+   "di": "Frontal bone",
+   "en": "Foramen caecum of frontal bone",
+   "it": "Forame cieco dell'osso frontale",
+   "la": "Foramen caecum ossis frontalis",
+   "pos": [
+    0.0042,
+    1.59373,
+    0.05233
+   ]
+  },
+  {
+   "id": "Frontal bone/Fossa for lacrimal gland",
+   "di": "Frontal bone",
+   "en": "Fossa for lacrimal gland",
+   "it": "Fossa della ghiandola lacrimale",
+   "la": "Fossa glandulae lacrimalis",
+   "pos": [
+    -0.0398,
+    1.6001,
+    0.05294
+   ]
+  },
+  {
+   "id": "Frontal bone/Frontal crest",
+   "di": "Frontal bone",
+   "en": "Frontal crest",
+   "it": "Cresta frontale",
+   "la": "Crista frontalis",
+   "pos": [
+    0.0024,
+    1.60545,
+    0.06928
+   ]
+  },
+  {
+   "id": "Frontal bone/Frontal eminence",
+   "di": "Frontal bone",
+   "en": "Frontal eminence",
+   "it": "Eminenza frontale",
+   "la": "Eminentia frontalis",
+   "pos": [
+    0.03121,
+    1.61701,
+    0.0796
+   ]
+  },
+  {
+   "id": "Frontal bone/Frontal part of orbital margin",
+   "di": "Frontal bone",
+   "en": "Frontal part of orbital margin",
+   "it": "Parte frontale del margine orbitale",
+   "la": "Pars frontalis marginis orbitalis",
+   "pos": [
+    0.01214,
+    1.5949,
+    0.06665
+   ]
+  },
+  {
+   "id": "Frontal bone/Glabella",
+   "di": "Frontal bone",
+   "en": "Glabella",
+   "it": "Glabella",
+   "la": "Glabella",
+   "pos": [
+    -0.00024,
+    1.59566,
+    0.08038
+   ]
+  },
+  {
+   "id": "Frontal bone/Internal surface of squamous part of frontal bone",
+   "di": "Frontal bone",
+   "en": "Internal surface of squamous part of frontal bone",
+   "it": "Superficie interna della parte squamosa dell'osso frontale",
+   "la": "Facies interna squamae frontalis",
+   "pos": [
+    0.02328,
+    1.61588,
+    0.05177
+   ]
+  },
+  {
+   "id": "Frontal bone/Nasal margin of frontal bone",
+   "di": "Frontal bone",
+   "en": "Nasal margin of frontal bone",
+   "it": "Margine nasale dell'osso frontale",
+   "la": "Margo nasalis ossis frontalis",
+   "pos": [
+    0.00024,
+    1.59566,
+    0.08038
+   ]
+  },
+  {
+   "id": "Frontal bone/Nasal part of frontal bone",
+   "di": "Frontal bone",
+   "en": "Nasal part of frontal bone",
+   "it": "Parte nasale dell'osso frontale",
+   "la": "Pars nasalis ossis frontalis",
+   "pos": [
+    -0.0119,
+    1.59491,
+    0.06721
+   ]
+  },
+  {
+   "id": "Frontal bone/Nasal spine of frontal bone",
+   "di": "Frontal bone",
+   "en": "Nasal spine of frontal bone",
+   "it": "Spina nasale dell'osso frontale",
+   "la": "Spina nasalis ossis frontalis",
+   "pos": [
+    -0.00024,
+    1.59566,
+    0.08038
+   ]
+  },
+  {
+   "id": "Frontal bone/Opening of frontal sinus",
+   "di": "Frontal bone",
+   "en": "Opening of frontal sinus",
+   "it": "Apertura del seno frontale",
+   "la": "Apertura sinus frontalis",
+   "pos": [
+    0.00067,
+    1.5955,
+    0.07865
+   ]
+  },
+  {
+   "id": "Frontal bone/Orbital part of frontal bone",
+   "di": "Frontal bone",
+   "en": "Orbital part of frontal bone",
+   "it": "Parte orbitaria dell'osso frontale",
+   "la": "Pars orbitalis ossis frontalis",
+   "pos": [
+    -0.01184,
+    1.5947,
+    0.06497
+   ]
+  },
+  {
+   "id": "Frontal bone/Orbital plate of frontal bone",
+   "di": "Frontal bone",
+   "en": "Orbital plate of frontal bone",
+   "it": "Lamina orbitaria dell'osso frontale",
+   "la": "Lamina orbitalis ossis frontalis",
+   "pos": [
+    -0.02115,
+    1.61393,
+    0.04864
+   ]
+  },
+  {
+   "id": "Frontal bone/Orbital surface of frontal bone",
+   "di": "Frontal bone",
+   "en": "Orbital surface of frontal bone",
+   "it": "Faccia orbitaria dell'osso frontale",
+   "la": "Facies orbitalis ossis frontalis",
+   "pos": [
+    -0.0398,
+    1.6001,
+    0.05294
+   ]
+  },
+  {
+   "id": "Frontal bone/Parietal margin of frontal bone",
+   "di": "Frontal bone",
+   "en": "Parietal margin of frontal bone",
+   "it": "Margine parietale dell'osso frontale",
+   "la": "Margo parietalis ossis frontalis",
+   "pos": [
+    -0.05823,
+    1.64341,
+    0.03041
+   ]
+  },
+  {
+   "id": "Frontal bone/Sphenoidal margin of frontal bone",
+   "di": "Frontal bone",
+   "en": "Sphenoidal margin of frontal bone",
+   "it": "Margine sfenoidale dell'osso frontale",
+   "la": "Margo sphenoideus ossis frontalis",
+   "pos": [
+    0.02272,
+    1.60974,
+    0.03862
+   ]
+  },
+  {
+   "id": "Frontal bone/Squamous part of frontal bone",
+   "di": "Frontal bone",
+   "en": "Squamous part of frontal bone",
+   "it": "Parte squamosa dell'osso frontale",
+   "la": "Squama frontalis",
+   "pos": [
+    -0.01443,
+    1.62405,
+    0.08651
+   ]
+  },
+  {
+   "id": "Frontal bone/Superciliary arch",
+   "di": "Frontal bone",
+   "en": "Superciliary arch",
+   "it": "Arco sopracciliare",
+   "la": "Arcus superciliaris",
+   "pos": [
+    -0.04344,
+    1.60862,
+    0.07079
+   ]
+  },
+  {
+   "id": "Frontal bone/Temporal line",
+   "di": "Frontal bone",
+   "en": "Temporal line",
+   "it": "Linea temporale",
+   "la": "Linea temporalis",
+   "pos": [
+    -0.0515,
+    1.60759,
+    0.05981
+   ]
+  },
+  {
+   "id": "Frontal bone/Temporal surface of frontal bone",
+   "di": "Frontal bone",
+   "en": "Temporal surface of frontal bone",
+   "it": "Superficie temporale dell'osso frontale",
+   "la": "Facies temporalis ossis frontalis",
+   "pos": [
+    -0.04969,
+    1.6063,
+    0.0572
+   ]
+  },
+  {
+   "id": "Frontal bone/Trochlear fovea",
+   "di": "Frontal bone",
+   "en": "Trochlear fovea",
+   "it": "Fossa trocleare",
+   "la": "Fovea trochlearis",
+   "pos": [
+    -0.0119,
+    1.59491,
+    0.06721
+   ]
+  },
+  {
+   "id": "Frontal bone/Zygomatic process of frontal bone",
+   "di": "Frontal bone",
+   "en": "Zygomatic process of frontal bone",
+   "it": "Processo zigomatico dell'osso frontale",
+   "la": "Processus zygomaticus ossis frontalis",
+   "pos": [
+    0.0515,
+    1.60759,
+    0.05981
+   ]
+  },
+  {
+   "id": "Hyoid bone/Body of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Body of hyoid bone",
+   "it": "Corpo dell'osso ioide",
+   "la": "Corpus ossis hyoidei",
+   "pos": [
+    -0.00814,
+    1.49152,
+    0.03325
+   ]
+  },
+  {
+   "id": "Hyoid bone/Greater horn of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Greater horn of hyoid bone",
+   "it": "Grande corno dell'osso ioide",
+   "la": "Cornu majus ossis hyoidei",
+   "pos": [
+    0.019,
+    1.49763,
+    0.01988
+   ]
+  },
+  {
+   "id": "Hyoid bone/Lesser horn of hyoid bone",
+   "di": "Hyoid bone",
+   "en": "Lesser horn of hyoid bone",
+   "it": "Piccolo corno dell'osso ioide",
+   "la": "Cornu minus ossis hyoidei",
+   "pos": [
+    0.01521,
+    1.50523,
+    0.03207
+   ]
+  },
+  {
+   "id": "Mandible/(Mandibular symphysis)",
+   "di": "Mandible",
+   "en": "(Mandibular symphysis)",
+   "it": "(Sinfisi mandibolare)",
+   "la": "(Symphysis mandibulae)",
+   "pos": [
+    0.0,
+    1.49783,
+    0.07909
+   ]
+  },
+  {
+   "id": "Mandible/Base of mandible",
+   "di": "Mandible",
+   "en": "Base of mandible",
+   "it": "Base della mandibola",
+   "la": "Basis mandibulae",
+   "pos": [
+    0.02348,
+    1.50178,
+    0.05548
+   ]
+  },
+  {
+   "id": "Mandible/Body of mandible",
+   "di": "Mandible",
+   "en": "Body of mandible",
+   "it": "Corpo della mandibola",
+   "la": "Corpus mandibulae",
+   "pos": [
+    0.03118,
+    1.50736,
+    0.05151
+   ]
+  },
+  {
+   "id": "Mandible/Digastric fossa",
+   "di": "Mandible",
+   "en": "Digastric fossa",
+   "it": "Fossa digastrica",
+   "la": "Fossa digastrica",
+   "pos": [
+    0.01071,
+    1.49748,
+    0.06818
+   ]
+  },
+  {
+   "id": "Mandible/Genion",
+   "di": "Mandible",
+   "en": "Genion",
+   "it": "Genion",
+   "la": "Genion",
+   "pos": [
+    -0.03902,
+    1.52214,
+    0.01654
+   ]
+  },
+  {
+   "id": "Mandible/Gnathion",
+   "di": "Mandible",
+   "en": "Gnathion",
+   "it": "Gnathion",
+   "la": "Gnathion",
+   "pos": [
+    0.00245,
+    1.49718,
+    0.078
+   ]
+  },
+  {
+   "id": "Mandible/Inferior mental spine",
+   "di": "Mandible",
+   "en": "Inferior mental spine",
+   "it": "Spina mentoniera inferiore",
+   "la": "Spina mentalis inferior",
+   "pos": [
+    0.01065,
+    1.49847,
+    0.06573
+   ]
+  },
+  {
+   "id": "Mandible/Mandibular dental arch",
+   "di": "Mandible",
+   "en": "Mandibular dental arch",
+   "it": "Arco dentale mandibolare",
+   "la": "Arcus dentalis mandibularis",
+   "pos": [
+    -0.02081,
+    1.50034,
+    0.0629
+   ]
+  },
+  {
+   "id": "Mandible/Mental foramen",
+   "di": "Mandible",
+   "en": "Mental foramen",
+   "it": "Forame mentoniero",
+   "la": "Foramen mentale",
+   "pos": [
+    -0.02161,
+    1.50041,
+    0.06176
+   ]
+  },
+  {
+   "id": "Mandible/Mental protuberance",
+   "di": "Mandible",
+   "en": "Mental protuberance",
+   "it": "Protuberanza mentoniera",
+   "la": "Protuberantia mentalis",
+   "pos": [
+    -0.00581,
+    1.4963,
+    0.0765
+   ]
+  },
+  {
+   "id": "Mandible/Mental tubercle",
+   "di": "Mandible",
+   "en": "Mental tubercle",
+   "it": "Tubercolo mentoniero",
+   "la": "Tuberculum mentale",
+   "pos": [
+    0.00581,
+    1.4963,
+    0.0765
+   ]
+  },
+  {
+   "id": "Mandible/Mylohyoid line",
+   "di": "Mandible",
+   "en": "Mylohyoid line",
+   "it": "Linea miloioidea",
+   "la": "Linea mylohyoidea",
+   "pos": [
+    0.02205,
+    1.5074,
+    0.04889
+   ]
+  },
+  {
+   "id": "Mandible/Oblique line of mandible",
+   "di": "Mandible",
+   "en": "Oblique line of mandible",
+   "it": "Linea obliqua della mandibola",
+   "la": "Linea obliqua mandibulae",
+   "pos": [
+    0.03402,
+    1.50943,
+    0.04846
+   ]
+  },
+  {
+   "id": "Mandible/Sublingual fossa",
+   "di": "Mandible",
+   "en": "Sublingual fossa",
+   "it": "Fossa sottolinguale",
+   "la": "Fovea sublingualis",
+   "pos": [
+    -0.0046,
+    1.49679,
+    0.07256
+   ]
+  },
+  {
+   "id": "Mandible/Superior mental spine",
+   "di": "Mandible",
+   "en": "Superior mental spine",
+   "it": "Spina mentoniera superiore",
+   "la": "Spina mentalis superior",
+   "pos": [
+    0.01147,
+    1.49866,
+    0.06507
+   ]
+  },
+  {
+   "id": "Maxilla/Maxillary dental arch",
+   "di": "Maxilla",
+   "en": "Maxillary dental arch",
+   "it": "Arco dentale mascellare",
+   "la": "Arcus dentalis maxillaris",
+   "pos": [
+    -0.0259,
+    1.53929,
+    0.07154
+   ]
+  },
+  {
+   "id": "Occipital bone/(External occipital crest)",
+   "di": "Occipital bone",
+   "en": "(External occipital crest)",
+   "it": "(Cresta occipitale esterna)",
+   "la": "(Crista occipitalis externa)",
+   "pos": [
+    -0.00215,
+    1.55806,
+    -0.06035
+   ]
+  },
+  {
+   "id": "Occipital bone/(Internal occipital crest)",
+   "di": "Occipital bone",
+   "en": "(Internal occipital crest)",
+   "it": "(Cresta occipitale interna)",
+   "la": "(Crista occipitalis interna)",
+   "pos": [
+    -0.0,
+    1.5618,
+    -0.05684
+   ]
+  },
+  {
+   "id": "Occipital bone/(Vermian fossa)",
+   "di": "Occipital bone",
+   "en": "(Vermian fossa)",
+   "it": "(Fossa vermiana)",
+   "la": "(Fossa vermiana)",
+   "pos": [
+    -0.0,
+    1.55788,
+    -0.04844
+   ]
+  },
+  {
+   "id": "Occipital bone/Basilar part of occipital bone",
+   "di": "Occipital bone",
+   "en": "Basilar part of occipital bone",
+   "it": "Parte basilare dell'osso occipitale",
+   "la": "Pars basilaris ossis occipitalis",
+   "pos": [
+    -0.0,
+    1.56799,
+    -0.00746
+   ]
+  },
+  {
+   "id": "Occipital bone/Cerebellar fossa",
+   "di": "Occipital bone",
+   "en": "Cerebellar fossa",
+   "it": "Fossa cerebellare",
+   "la": "Fossa cerebellaris",
+   "pos": [
+    0.01741,
+    1.56049,
+    -0.0533
+   ]
+  },
+  {
+   "id": "Occipital bone/Cerebral fossa",
+   "di": "Occipital bone",
+   "en": "Cerebral fossa",
+   "it": "Fossa cerebrale",
+   "la": "Fossa cerebralis",
+   "pos": [
+    0.02214,
+    1.57833,
+    -0.07618
+   ]
+  },
+  {
+   "id": "Occipital bone/Condylar canal",
+   "di": "Occipital bone",
+   "en": "Condylar canal",
+   "it": "Canale condiloideo",
+   "la": "Canalis condylaris",
+   "pos": [
+    -0.01827,
+    1.55107,
+    -0.02355
+   ]
+  },
+  {
+   "id": "Occipital bone/Condylar fossa",
+   "di": "Occipital bone",
+   "en": "Condylar fossa",
+   "it": "Fossa condiloidea",
+   "la": "Fossa condylaris",
+   "pos": [
+    0.01827,
+    1.5528,
+    -0.03988
+   ]
+  },
+  {
+   "id": "Occipital bone/Cruciform eminence",
+   "di": "Occipital bone",
+   "en": "Cruciform eminence",
+   "it": "Eminenza crociata",
+   "la": "Eminentia cruciformis",
+   "pos": [
+    -0.009,
+    1.57275,
+    -0.07433
+   ]
+  },
+  {
+   "id": "Occipital bone/External occipital protuberance",
+   "di": "Occipital bone",
+   "en": "External occipital protuberance",
+   "it": "Protuberanza occipitale esterna",
+   "la": "Protuberantia occipitalis externa",
+   "pos": [
+    -0.0,
+    1.57155,
+    -0.08204
+   ]
+  },
+  {
+   "id": "Occipital bone/Foramen magnum",
+   "di": "Occipital bone",
+   "en": "Foramen magnum",
+   "it": "Forame occipitale",
+   "la": "Foramen magnum",
+   "pos": [
+    0.01423,
+    1.55575,
+    -0.03476
+   ]
+  },
+  {
+   "id": "Occipital bone/Groove for marginal sinus",
+   "di": "Occipital bone",
+   "en": "Groove for marginal sinus",
+   "it": "Solco del seno marginale",
+   "la": "Sulcus sinus marginalis",
+   "pos": [
+    0.01671,
+    1.55286,
+    -0.04055
+   ]
+  },
+  {
+   "id": "Occipital bone/Groove for occipital sinus",
+   "di": "Occipital bone",
+   "en": "Groove for occipital sinus",
+   "it": "Solco del seno occipitale",
+   "la": "Sulcus sinus occipitalis",
+   "pos": [
+    -0.0,
+    1.56255,
+    -0.0585
+   ]
+  },
+  {
+   "id": "Occipital bone/Groove for transverse sinus",
+   "di": "Occipital bone",
+   "en": "Groove for transverse sinus",
+   "it": "Solco del seno trasverso",
+   "la": "Sulcus sinus transversi",
+   "pos": [
+    -0.02779,
+    1.56716,
+    -0.06553
+   ]
+  },
+  {
+   "id": "Occipital bone/Hypoglossal canal",
+   "di": "Occipital bone",
+   "en": "Hypoglossal canal",
+   "it": "Canale del nervo ipoglosso",
+   "la": "Canalis hypoglossus",
+   "pos": [
+    -0.0187,
+    1.55199,
+    -0.01323
+   ]
+  },
+  {
+   "id": "Occipital bone/Inferior nuchal line",
+   "di": "Occipital bone",
+   "en": "Inferior nuchal line",
+   "it": "Linea nucale inferiore",
+   "la": "Linea nuchalis inferior",
+   "pos": [
+    0.01999,
+    1.55788,
+    -0.06051
+   ]
+  },
+  {
+   "id": "Occipital bone/Internal occipital protuberance",
+   "di": "Occipital bone",
+   "en": "Internal occipital protuberance",
+   "it": "Protuberanza occipitale interna",
+   "la": "Protuberantia occipitalis interna",
+   "pos": [
+    -0.0,
+    1.56359,
+    -0.06064
+   ]
+  },
+  {
+   "id": "Occipital bone/Intrajugular process of occipital bone",
+   "di": "Occipital bone",
+   "en": "Intrajugular process of occipital bone",
+   "it": "Processo intragiugulare dell'osso occipitale",
+   "la": "Processus intrajugularis ossis occipitalis",
+   "pos": [
+    -0.02949,
+    1.56143,
+    -0.01435
+   ]
+  },
+  {
+   "id": "Occipital bone/Jugular notch of occipital bone",
+   "di": "Occipital bone",
+   "en": "Jugular notch of occipital bone",
+   "it": "Incisura giugulare dell'osso occipitale",
+   "la": "Incisura jugularis ossis occipitalis",
+   "pos": [
+    0.01873,
+    1.552,
+    -0.01322
+   ]
+  },
+  {
+   "id": "Occipital bone/Jugular process",
+   "di": "Occipital bone",
+   "en": "Jugular process",
+   "it": "Processo giugulare",
+   "la": "Processus jugularis",
+   "pos": [
+    0.02656,
+    1.55606,
+    -0.01353
+   ]
+  },
+  {
+   "id": "Occipital bone/Lateral part of occipital bone",
+   "di": "Occipital bone",
+   "en": "Lateral part of occipital bone",
+   "it": "Parte laterale dell'osso occipitale",
+   "la": "Pars lateralis ossis occipitalis",
+   "pos": [
+    0.02945,
+    1.56067,
+    -0.03938
+   ]
+  },
+  {
+   "id": "Occipital bone/Mastoid border of occipital bone",
+   "di": "Occipital bone",
+   "en": "Mastoid border of occipital bone",
+   "it": "Margine mastoideo dell'osso occipitale",
+   "la": "Margo mastoideus ossis occipitalis",
+   "pos": [
+    0.04149,
+    1.55841,
+    -0.0257
+   ]
+  },
+  {
+   "id": "Occipital bone/Occipital condyle",
+   "di": "Occipital bone",
+   "en": "Occipital condyle",
+   "it": "Condilo occipitale",
+   "la": "Condylus occipitalis",
+   "pos": [
+    -0.01741,
+    1.55074,
+    -0.02226
+   ]
+  },
+  {
+   "id": "Occipital bone/Occipital plane",
+   "di": "Occipital bone",
+   "en": "Occipital plane",
+   "it": "Piano occipitale",
+   "la": "Planum occipitale",
+   "pos": [
+    -0.0,
+    1.57296,
+    -0.08396
+   ]
+  },
+  {
+   "id": "Occipital bone/Pharyngeal tubercle",
+   "di": "Occipital bone",
+   "en": "Pharyngeal tubercle",
+   "it": "Tubercolo faringeo",
+   "la": "Tuberculum pharyngeum",
+   "pos": [
+    -0.01011,
+    1.55337,
+    -0.00711
+   ]
+  },
+  {
+   "id": "Occipital bone/Squamous part of occipital bone",
+   "di": "Occipital bone",
+   "en": "Squamous part of occipital bone",
+   "it": "Parte squamosa dell'osso occipitale",
+   "la": "Squama occipitalis",
+   "pos": [
+    0.01547,
+    1.58397,
+    -0.092
+   ]
+  },
+  {
+   "id": "Occipital bone/Superior nuchal line",
+   "di": "Occipital bone",
+   "en": "Superior nuchal line",
+   "it": "Linea nucale superiore",
+   "la": "Linea nuchalis superior",
+   "pos": [
+    0.02138,
+    1.56036,
+    -0.06414
+   ]
+  },
+  {
+   "id": "Occipital bone/Supreme nuchal line",
+   "di": "Occipital bone",
+   "en": "Supreme nuchal line",
+   "it": "Linea nucale suprema",
+   "la": "Linea nuchalis suprema",
+   "pos": [
+    0.02069,
+    1.56792,
+    -0.07354
+   ]
+  },
+  {
+   "id": "Parietal bone/External surface of parietal bone",
+   "di": "Parietal bone",
+   "en": "External surface of parietal bone",
+   "it": "Superficie esterna dell'osso parietale",
+   "la": "Facies externa ossis parietalis",
+   "pos": [
+    -0.07135,
+    1.64053,
+    -0.03745
+   ]
+  },
+  {
+   "id": "Parietal bone/Frontal angle of parietal bone",
+   "di": "Parietal bone",
+   "en": "Frontal angle of parietal bone",
+   "it": "Angolo frontale dell'osso parietale",
+   "la": "Angulus frontalis ossis parietalis",
+   "pos": [
+    0.00101,
+    1.69344,
+    0.02548
+   ]
+  },
+  {
+   "id": "Parietal bone/Frontal border of parietal bone",
+   "di": "Parietal bone",
+   "en": "Frontal border of parietal bone",
+   "it": "Margine frontale dell'osso parietale",
+   "la": "Margo frontalis ossis parietalis",
+   "pos": [
+    -0.05531,
+    1.62404,
+    0.03876
+   ]
+  },
+  {
+   "id": "Parietal bone/Groove for middle meningeal artery",
+   "di": "Parietal bone",
+   "en": "Groove for middle meningeal artery",
+   "it": "Solco dell'arteria meningea media",
+   "la": "Sulcus arteriae meningeae mediae",
+   "pos": [
+    -0.05788,
+    1.61433,
+    0.01634
+   ]
+  },
+  {
+   "id": "Parietal bone/Inferior temporal line",
+   "di": "Parietal bone",
+   "en": "Inferior temporal line",
+   "it": "Linea temporale inferiore",
+   "la": "Linea temporalis inferior",
+   "pos": [
+    -0.06422,
+    1.59417,
+    -0.04832
+   ]
+  },
+  {
+   "id": "Parietal bone/Internal surface of parietal bone",
+   "di": "Parietal bone",
+   "en": "Internal surface of parietal bone",
+   "it": "Superficie interna dell'osso parietale",
+   "la": "Facies interna ossis parietalis",
+   "pos": [
+    -0.059,
+    1.59871,
+    -0.04336
+   ]
+  },
+  {
+   "id": "Parietal bone/Mastoid angle of parietal bone",
+   "di": "Parietal bone",
+   "en": "Mastoid angle of parietal bone",
+   "it": "Angolo mastoideo dell'osso parietale",
+   "la": "Angulus mastoideus ossis parietalis",
+   "pos": [
+    -0.06046,
+    1.58982,
+    -0.05104
+   ]
+  },
+  {
+   "id": "Parietal bone/Occipital angle of parietal bone",
+   "di": "Parietal bone",
+   "en": "Occipital angle of parietal bone",
+   "it": "Angolo occipitale dell'osso parietale",
+   "la": "Angulus occipitalis ossis parietalis",
+   "pos": [
+    -0.00553,
+    1.64723,
+    -0.0923
+   ]
+  },
+  {
+   "id": "Parietal bone/Occipital border of parietal bone",
+   "di": "Parietal bone",
+   "en": "Occipital border of parietal bone",
+   "it": "Margine occipitale dell'osso parietale",
+   "la": "Margo occipitalis ossis parietalis",
+   "pos": [
+    -0.05531,
+    1.59501,
+    -0.0678
+   ]
+  },
+  {
+   "id": "Parietal bone/Parietal eminence",
+   "di": "Parietal bone",
+   "en": "Parietal eminence",
+   "it": "Eminenza parietale",
+   "la": "Eminentia parietalis",
+   "pos": [
+    -0.07312,
+    1.61927,
+    -0.02928
+   ]
+  },
+  {
+   "id": "Parietal bone/Parietal foramen",
+   "di": "Parietal bone",
+   "en": "Parietal foramen",
+   "it": "Forame parietale",
+   "la": "Foramen parietale",
+   "pos": [
+    -0.00751,
+    1.67009,
+    -0.08718
+   ]
+  },
+  {
+   "id": "Parietal bone/Sagittal border of parietal bone",
+   "di": "Parietal bone",
+   "en": "Sagittal border of parietal bone",
+   "it": "Margine sagittale dell'osso parietale",
+   "la": "Margo sagittalis ossis parietalis",
+   "pos": [
+    -0.00037,
+    1.69374,
+    -0.05046
+   ]
+  },
+  {
+   "id": "Parietal bone/Sphenoidal angle of parietal bone",
+   "di": "Parietal bone",
+   "en": "Sphenoidal angle of parietal bone",
+   "it": "Angolo sfenoidale dell'osso parietale",
+   "la": "Angulus sphenoideus ossis parietalis",
+   "pos": [
+    -0.05574,
+    1.61567,
+    0.03407
+   ]
+  },
+  {
+   "id": "Parietal bone/Squamosal border of parietal bone",
+   "di": "Parietal bone",
+   "en": "Squamosal border of parietal bone",
+   "it": "Margine squamoso dell'osso parietale",
+   "la": "Margo squamosus ossis parietalis",
+   "pos": [
+    -0.06562,
+    1.59262,
+    -0.03771
+   ]
+  },
+  {
+   "id": "Parietal bone/Superior temporal line",
+   "di": "Parietal bone",
+   "en": "Superior temporal line",
+   "it": "Linea temporale superiore",
+   "la": "Linea temporalis superior",
+   "pos": [
+    -0.06342,
+    1.60139,
+    -0.05593
+   ]
+  },
+  {
+   "id": "Sphenoid bone/(Middle clinoid process)",
+   "di": "Sphenoid bone",
+   "en": "(Middle clinoid process)",
+   "it": "(Processo clinoideo medio)",
+   "la": "(Processus clinoideus medius)",
+   "pos": [
+    0.00754,
+    1.59535,
+    0.01653
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Anterior clinoid process",
+   "di": "Sphenoid bone",
+   "en": "Anterior clinoid process",
+   "it": "Processo clinoideo anteriore",
+   "la": "Processus clinoideus anterior",
+   "pos": [
+    0.01436,
+    1.58731,
+    0.01238
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Body of sphenoid bone",
+   "di": "Sphenoid bone",
+   "en": "Body of sphenoid bone",
+   "it": "Corpo dell'osso sfenoide",
+   "la": "Corpus ossis sphenoidei",
+   "pos": [
+    0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Carotid sulcus",
+   "di": "Sphenoid bone",
+   "en": "Carotid sulcus",
+   "it": "Solco carotideo",
+   "la": "Sulcus carotidis",
+   "pos": [
+    0.01513,
+    1.55083,
+    0.02901
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Cerebral surface of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Cerebral surface of greater wing",
+   "it": "Faccia cerebrale della grande ala",
+   "la": "Facies cerebralis alae majoris",
+   "pos": [
+    -0.0405,
+    1.58419,
+    0.02582
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Chiasmatic sulcus",
+   "di": "Sphenoid bone",
+   "en": "Chiasmatic sulcus",
+   "it": "Solco chiasmatico",
+   "la": "Sulcus chiasmaticus",
+   "pos": [
+    2e-05,
+    1.60312,
+    0.02517
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Dorsum sellae",
+   "di": "Sphenoid bone",
+   "en": "Dorsum sellae",
+   "it": "Dorso della sella",
+   "la": "Dorsum sellae",
+   "pos": [
+    -0.00016,
+    1.58751,
+    0.00356
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Foramen ovale",
+   "di": "Sphenoid bone",
+   "en": "Foramen ovale",
+   "it": "Forame ovale",
+   "la": "Foramen ovale",
+   "pos": [
+    0.02405,
+    1.57675,
+    0.01116
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Foramen rotundum",
+   "di": "Sphenoid bone",
+   "en": "Foramen rotundum",
+   "it": "Forame rotondo",
+   "la": "Foramen rotundum",
+   "pos": [
+    -0.01262,
+    1.55644,
+    0.03727
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Foramen spinosum",
+   "di": "Sphenoid bone",
+   "en": "Foramen spinosum",
+   "it": "Forame spinoso",
+   "la": "Foramen spinosum",
+   "pos": [
+    0.03119,
+    1.57925,
+    0.00541
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Frontal margin of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Frontal margin of greater wing",
+   "it": "Margine frontale della grande ala",
+   "la": "Margo frontalis alae majoris",
+   "pos": [
+    0.03801,
+    1.61307,
+    0.04375
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Greater wing",
+   "di": "Sphenoid bone",
+   "en": "Greater wing",
+   "it": "Grande ala",
+   "la": "Ala major",
+   "pos": [
+    -0.0387,
+    1.61314,
+    0.04425
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Groove of pterygoid hamulus",
+   "di": "Sphenoid bone",
+   "en": "Groove of pterygoid hamulus",
+   "it": "Solco dell'uncino pterigoideo",
+   "la": "Sulcus hamuli pterygoidei",
+   "pos": [
+    -0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Hypophysial fossa",
+   "di": "Sphenoid bone",
+   "en": "Hypophysial fossa",
+   "it": "Fossa ipofisaria",
+   "la": "Fossa hypophysialis",
+   "pos": [
+    -8e-05,
+    1.59466,
+    0.01448
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Infratemporal surface of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Infratemporal surface of greater wing",
+   "it": "Faccia infratemporale della grande ala",
+   "la": "Facies infratemporalis alae majoris",
+   "pos": [
+    -0.02633,
+    1.55397,
+    0.03008
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Lateral pterygoid plate",
+   "di": "Sphenoid bone",
+   "en": "Lateral pterygoid plate",
+   "it": "Lamina pterigoidea laterale",
+   "la": "Lamina lateralis processus pterygoidei",
+   "pos": [
+    0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Lesser wing",
+   "di": "Sphenoid bone",
+   "en": "Lesser wing",
+   "it": "Piccola ala",
+   "la": "Ala minor",
+   "pos": [
+    -0.02381,
+    1.61029,
+    0.03686
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Limbus of sphenoid",
+   "di": "Sphenoid bone",
+   "en": "Limbus of sphenoid",
+   "it": "Limbo sfenoidale",
+   "la": "Limbus sphenoideus",
+   "pos": [
+    -1e-05,
+    1.60588,
+    0.02917
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Maxillary surface of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Maxillary surface of greater wing",
+   "it": "Faccia mascellare della grande ala",
+   "la": "Facies maxillaris alae majoris",
+   "pos": [
+    -0.01391,
+    1.55601,
+    0.0369
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Medial pterygoid plate",
+   "di": "Sphenoid bone",
+   "en": "Medial pterygoid plate",
+   "it": "Lamina pterigoidea mediale",
+   "la": "Lamina medialis processus pterygoidei",
+   "pos": [
+    0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Optic canal",
+   "di": "Sphenoid bone",
+   "en": "Optic canal",
+   "it": "Canale ottico",
+   "la": "Canalis opticus",
+   "pos": [
+    -0.01262,
+    1.55644,
+    0.03727
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Orbital surface of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Orbital surface of greater wing",
+   "it": "Faccia orbitaria della grande ala",
+   "la": "Facies orbitalis alae majoris",
+   "pos": [
+    0.02293,
+    1.55532,
+    0.03612
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Parietal margin of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Parietal margin of greater wing",
+   "it": "Margine parietale della grande ala",
+   "la": "Margo parietalis alae majoris",
+   "pos": [
+    0.04628,
+    1.5861,
+    0.0308
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Posterior clinoid process",
+   "di": "Sphenoid bone",
+   "en": "Posterior clinoid process",
+   "it": "Processo clinoideo posteriore",
+   "la": "Processus clinoideus posterior",
+   "pos": [
+    0.00697,
+    1.5792,
+    0.00804
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygoid canal",
+   "di": "Sphenoid bone",
+   "en": "Pterygoid canal",
+   "it": "Canale pterigoideo",
+   "la": "Canalis pterygoideus",
+   "pos": [
+    0.01513,
+    1.55083,
+    0.02901
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygoid fossa",
+   "di": "Sphenoid bone",
+   "en": "Pterygoid fossa",
+   "it": "Fossa pterigoidea",
+   "la": "Fossa pterygoidea",
+   "pos": [
+    -0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygoid hamulus",
+   "di": "Sphenoid bone",
+   "en": "Pterygoid hamulus",
+   "it": "Uncino pterigoideo",
+   "la": "Hamulus pterygoideus",
+   "pos": [
+    -0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygoid notch",
+   "di": "Sphenoid bone",
+   "en": "Pterygoid notch",
+   "it": "Incisura pterigoidea",
+   "la": "Incisura pterygoidea",
+   "pos": [
+    0.01352,
+    1.55103,
+    0.03194
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygoid process",
+   "di": "Sphenoid bone",
+   "en": "Pterygoid process",
+   "it": "Processo pterigoideo",
+   "la": "Processus pterygoideus",
+   "pos": [
+    -0.01289,
+    1.55635,
+    0.03719
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Pterygospinous process",
+   "di": "Sphenoid bone",
+   "en": "Pterygospinous process",
+   "it": "Apofisi pterigospinosa",
+   "la": "Processus pterygospinosus",
+   "pos": [
+    0.02633,
+    1.55414,
+    0.02965
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Scaphoid fossa",
+   "di": "Sphenoid bone",
+   "en": "Scaphoid fossa",
+   "it": "Fossa scafoidea",
+   "la": "Fossa scaphoidea",
+   "pos": [
+    0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Sella turcica",
+   "di": "Sphenoid bone",
+   "en": "Sella turcica",
+   "it": "Sella turcica",
+   "la": "Sella turcica",
+   "pos": [
+    9e-05,
+    1.59626,
+    0.01314
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Sphenoidal crest",
+   "di": "Sphenoid bone",
+   "en": "Sphenoidal crest",
+   "it": "Cresta sfenoidale",
+   "la": "Crista sphenoidea",
+   "pos": [
+    -0.01262,
+    1.55644,
+    0.03727
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Sphenoidal lingula",
+   "di": "Sphenoid bone",
+   "en": "Sphenoidal lingula",
+   "it": "Lingula sfenoidale",
+   "la": "Lingula sphenoidea",
+   "pos": [
+    -0.03049,
+    1.56721,
+    0.00855
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Sphenoidal yoke",
+   "di": "Sphenoid bone",
+   "en": "Sphenoidal yoke",
+   "it": "Giogo sfenoidale",
+   "la": "Jugum sphenoideum",
+   "pos": [
+    -4e-05,
+    1.60605,
+    0.03243
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Spine of sphenoid bone",
+   "di": "Sphenoid bone",
+   "en": "Spine of sphenoid bone",
+   "it": "Spina dell'osso sfenoide",
+   "la": "Spina ossis sphenoidei",
+   "pos": [
+    0.01513,
+    1.55083,
+    0.02901
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Squamosal margin of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Squamosal margin of greater wing",
+   "it": "Margine squamoso della grande ala",
+   "la": "Margo squamosus alae majoris",
+   "pos": [
+    0.02815,
+    1.55602,
+    0.02887
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Sulcus of auditory tube",
+   "di": "Sphenoid bone",
+   "en": "Sulcus of auditory tube",
+   "it": "Solco della tuba uditiva",
+   "la": "Sulcus tubae auditivae",
+   "pos": [
+    0.03135,
+    1.56696,
+    0.00855
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Temporal surface of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Temporal surface of greater wing",
+   "it": "Faccia temporale della grande ala",
+   "la": "Facies temporalis alae majoris",
+   "pos": [
+    -0.04524,
+    1.58477,
+    0.02966
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Tuberculum sellae",
+   "di": "Sphenoid bone",
+   "en": "Tuberculum sellae",
+   "it": "Tubercolo della sella",
+   "la": "Tuberculum sellae",
+   "pos": [
+    3e-05,
+    1.60116,
+    0.02251
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Vaginal process of sphenoid bone",
+   "di": "Sphenoid bone",
+   "en": "Vaginal process of sphenoid bone",
+   "it": "Processo vaginale dell'osso sfenoide",
+   "la": "Processus vaginalis ossis sphenoidei",
+   "pos": [
+    0.01487,
+    1.55031,
+    0.02952
+   ]
+  },
+  {
+   "id": "Sphenoid bone/Zygomatic margin of greater wing",
+   "di": "Sphenoid bone",
+   "en": "Zygomatic margin of greater wing",
+   "it": "Margine zigomatico della grande ala",
+   "la": "Margo zygomaticus alae majoris",
+   "pos": [
+    0.02772,
+    1.55515,
+    0.03007
+   ]
+  },
+  {
+   "id": "Temporal bone/Anterior surface of petrous part",
+   "di": "Temporal bone",
+   "en": "Anterior surface of petrous part",
+   "it": "Faccia anteriore della rocca petrosa",
+   "la": "Facies anterior partis petrosae",
+   "pos": [
+    -0.03987,
+    1.57705,
+    0.01874
+   ]
+  },
+  {
+   "id": "Temporal bone/Apex of petrous part",
+   "di": "Temporal bone",
+   "en": "Apex of petrous part",
+   "it": "Apice della rocca petrosa",
+   "la": "Apex partis petrosae",
+   "pos": [
+    -0.01418,
+    1.57255,
+    0.00199
+   ]
+  },
+  {
+   "id": "Temporal bone/Arcuate eminence",
+   "di": "Temporal bone",
+   "en": "Arcuate eminence",
+   "it": "Eminenza arcuata",
+   "la": "Eminentia arcuata",
+   "pos": [
+    -0.03943,
+    1.58979,
+    -0.00667
+   ]
+  },
+  {
+   "id": "Temporal bone/Mastoid notch",
+   "di": "Temporal bone",
+   "en": "Mastoid notch",
+   "it": "Incisura mastoidea",
+   "la": "Incisura mastoidea",
+   "pos": [
+    -0.04464,
+    1.55926,
+    -0.02429
+   ]
+  },
+  {
+   "id": "Temporal bone/Mastoid process",
+   "di": "Temporal bone",
+   "en": "Mastoid process",
+   "it": "Processo mastoideo",
+   "la": "Processus mastoideus",
+   "pos": [
+    -0.05624,
+    1.56172,
+    -0.01827
+   ]
+  },
+  {
+   "id": "Temporal bone/Occipital margin of temporal bone",
+   "di": "Temporal bone",
+   "en": "Occipital margin of temporal bone",
+   "it": "Margine occipitale dell'osso temporale",
+   "la": "Margo occipitalis ossis temporalis",
+   "pos": [
+    -0.04226,
+    1.55952,
+    -0.023
+   ]
+  },
+  {
+   "id": "Temporal bone/Petrous part of temporal bone",
+   "di": "Temporal bone",
+   "en": "Petrous part of temporal bone",
+   "it": "Parte petrosa dell'osso temporale",
+   "la": "Pars petrosa ossis temporalis",
+   "pos": [
+    -0.03015,
+    1.58968,
+    -0.00925
+   ]
+  },
+  {
+   "id": "Temporal bone/Posterior surface of petrous part",
+   "di": "Temporal bone",
+   "en": "Posterior surface of petrous part",
+   "it": "Faccia posteriore della rocca petrosa",
+   "la": "Facies posterior partis petrosae",
+   "pos": [
+    -0.04132,
+    1.56254,
+    -0.02859
+   ]
+  },
+  {
+   "id": "Temporal bone/Squamous part of temporal bone",
+   "di": "Temporal bone",
+   "en": "Squamous part of temporal bone",
+   "it": "Parte squamosa dell'osso temporale",
+   "la": "Pars squamosa ossis temporalis",
+   "pos": [
+    -0.06165,
+    1.56984,
+    -0.01741
+   ]
+  },
+  {
+   "id": "Temporal bone/Styloid process of temporal bone",
+   "di": "Temporal bone",
+   "en": "Styloid process of temporal bone",
+   "it": "Apofisi stiloidea dell'osso temporale",
+   "la": "Processus styloideus ossis temporalis",
+   "pos": [
+    -0.03903,
+    1.54873,
+    0.00108
+   ]
+  },
+  {
+   "id": "Temporal bone/Tegmen tympani",
+   "di": "Temporal bone",
+   "en": "Tegmen tympani",
+   "it": "Tegmen tympani",
+   "la": "Tegmen tympani",
+   "pos": [
+    -0.04206,
+    1.58731,
+    -0.00123
+   ]
+  },
+  {
+   "id": "Temporal bone/Tympanic part of temporal bone",
+   "di": "Temporal bone",
+   "en": "Tympanic part of temporal bone",
+   "it": "Parte timpanica dell'osso temporale",
+   "la": "Pars tympanica ossis temporalis",
+   "pos": [
+    -0.05753,
+    1.56239,
+    -0.01827
+   ]
+  }
+ ]
+}

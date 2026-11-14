@@ -1,0 +1,2049 @@
+{
+ "nodes": {
+  "Abductor digiti minimi of hand": {
+   "en": "Abductor digiti minimi of hand",
+   "it": "Muscolo abduttore del mignolo della mano",
+   "la": "Abductor digiti minimi manus",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Abductor pollicis brevis": {
+   "en": "Abductor pollicis brevis",
+   "it": "Muscolo abduttore breve del pollice",
+   "la": "Abductor brevis pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Abductor pollicis longus": {
+   "en": "Abductor pollicis longus",
+   "it": "Muscolo abduttore lungo del pollice",
+   "la": "Abductor longus pollicis",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of forearm"
+  },
+  "Acromial part of deltoid muscle": {
+   "en": "Acromial part of deltoid muscle",
+   "it": "Parte acromiale del muscolo deltoide",
+   "la": "Pars acromialis musculi deltoidei",
+   "tipo": "muscolo",
+   "parent": "Deltoid muscle"
+  },
+  "Anconeus muscle": {
+   "en": "Anconeus muscle",
+   "it": "Muscolo anconeo",
+   "la": "Musculus anconeus",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Anterior compartment of arm": {
+   "en": "Anterior compartment of arm",
+   "it": "Compartimento anteriore del braccio",
+   "la": "Compartimentum anterius brachii",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Anterior compartment of forearm": {
+   "en": "Anterior compartment of forearm",
+   "it": "Compartimento anteriore dell'avambraccio",
+   "la": "Compartimentum anterius antebrachii",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Biceps brachii muscle": {
+   "en": "Biceps brachii muscle",
+   "it": "Muscolo bicipite brachiale",
+   "la": "Musculus biceps brachii",
+   "tipo": "gruppo",
+   "parent": "Anterior compartment of arm"
+  },
+  "Bones of free part of upper limb": {
+   "en": "Bones of free part of upper limb",
+   "it": "Ossa della parte libera dell'arto superiore",
+   "la": "Ossa partis liberae membri superioris",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Bones of pectoral girdle": {
+   "en": "Bones of pectoral girdle",
+   "it": "Ossa del cingolo scapolare",
+   "la": "Ossa cinguli pectoralis",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Brachialis muscle": {
+   "en": "Brachialis muscle",
+   "it": "Muscolo brachiale",
+   "la": "Musculus brachialis",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of arm"
+  },
+  "Brachioradialis muscle": {
+   "en": "Brachioradialis muscle",
+   "it": "Muscolo brachioradiale",
+   "la": "Musculus brachioradialis",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Capitate bone": {
+   "en": "Capitate bone",
+   "it": "Osso capitato",
+   "la": "Os capitatum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Clavicle": {
+   "en": "Clavicle",
+   "it": "Clavicola",
+   "la": "Clavicula",
+   "tipo": "osso",
+   "parent": "Bones of pectoral girdle"
+  },
+  "Clavicular part of deltoid muscle": {
+   "en": "Clavicular part of deltoid muscle",
+   "it": "Parte clavicolare del muscolo deltoide",
+   "la": "Pars clavicularis musculi deltoidei",
+   "tipo": "muscolo",
+   "parent": "Deltoid muscle"
+  },
+  "Coracobrachialis muscle": {
+   "en": "Coracobrachialis muscle",
+   "it": "Muscolo coracobrachiale",
+   "la": "Musculus coracobrachialis",
+   "tipo": "muscolo",
+   "parent": "Anterior compartment of arm"
+  },
+  "Deep head of flexor pollicis brevis": {
+   "en": "Deep head of flexor pollicis brevis",
+   "it": "Capo profondo del muscolo flessore breve del pollice",
+   "la": "Caput profundum flexoris brevis pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Deep head of pronator teres": {
+   "en": "Deep head of pronator teres",
+   "it": "Capo ulnare del muscolo pronatore rotondo",
+   "la": "Caput profundum pronatoris teretis",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Deep part of anterior compartment of forearm": {
+   "en": "Deep part of anterior compartment of forearm",
+   "it": "Parte profonda del compartimento anteriore dell'avambraccio",
+   "la": "Pars profunda compartimenti anterioris antebrachii",
+   "tipo": "gruppo",
+   "parent": "Anterior compartment of forearm"
+  },
+  "Deep part of posterior compartment of forearm": {
+   "en": "Deep part of posterior compartment of forearm",
+   "it": "Parte profonda del compartimento posteriore dell'avambraccio",
+   "la": "Pars profunda compartimenti posterioris antebrachii",
+   "tipo": "gruppo",
+   "parent": "Posterior compartment of forearm"
+  },
+  "Deltoid muscle": {
+   "en": "Deltoid muscle",
+   "it": "Muscolo deltoide",
+   "la": "Musculus deltoideus",
+   "tipo": "gruppo",
+   "parent": "Scapulohumeral muscles"
+  },
+  "Distal phalanx of fifth finger of hand": {
+   "en": "Distal phalanx of fifth finger of hand",
+   "it": "Falange distale del quinto dito della mano",
+   "la": "Phalanx distalis quintum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Distal phalanx of first finger of hand": {
+   "en": "Distal phalanx of first finger of hand",
+   "it": "Falange distale del primo dito della mano",
+   "la": "Phalanx distalis primum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Distal phalanx of fourth finger of hand": {
+   "en": "Distal phalanx of fourth finger of hand",
+   "it": "Falange distale del quarto dito della mano",
+   "la": "Phalanx distalis quartum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Distal phalanx of second finger of hand": {
+   "en": "Distal phalanx of second finger of hand",
+   "it": "Falange distale del secondo dito della mano",
+   "la": "Phalanx distalis secundum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Distal phalanx of third finger of hand": {
+   "en": "Distal phalanx of third finger of hand",
+   "it": "Falange distale del terzo dito della mano",
+   "la": "Phalanx distalis tertium digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Dorsal interossei muscles of hand": {
+   "en": "Dorsal interossei muscles of hand",
+   "it": "Muscoli interossei dorsali della mano",
+   "la": "Musculi interossei dorsales manus",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Extensor carpi radialis brevis": {
+   "en": "Extensor carpi radialis brevis",
+   "it": "Muscolo estensore radiale breve del carpo",
+   "la": "Extensor radialis brevis carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Extensor carpi radialis longus": {
+   "en": "Extensor carpi radialis longus",
+   "it": "Muscolo estensore radiale lungo del carpo",
+   "la": "Extensor radialis longus carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Extensor digiti minimi": {
+   "en": "Extensor digiti minimi",
+   "it": "Muscolo estensore del mignolo",
+   "la": "Extensor digiti minimi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Extensor digitorum": {
+   "en": "Extensor digitorum",
+   "it": "Muscolo estensore comune delle dita",
+   "la": "Extensor digitorum",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Extensor indicis": {
+   "en": "Extensor indicis",
+   "it": "Muscolo estensore dell'indice",
+   "la": "Extensor indicis",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of forearm"
+  },
+  "Extensor pollicis brevis": {
+   "en": "Extensor pollicis brevis",
+   "it": "Muscolo estensore breve del pollice",
+   "la": "Extensor brevis pollicis",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of forearm"
+  },
+  "Extensor pollicis longus": {
+   "en": "Extensor pollicis longus",
+   "it": "Muscolo estensore lungo del pollice",
+   "la": "Extensor longus pollicis",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of forearm"
+  },
+  "Extensor retinaculum of wrist": {
+   "en": "Extensor retinaculum of wrist",
+   "it": "Retinacolo degli estensori del carpo",
+   "la": "Retinaculum extensorium carpi",
+   "tipo": "altro",
+   "parent": null
+  },
+  "Fasciae of upper limb": {
+   "en": "Fasciae of upper limb",
+   "it": "Fasce dell'arto superiore",
+   "la": "Fasciae membri superiori",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Fifth metacarpal bone": {
+   "en": "Fifth metacarpal bone",
+   "it": "Quinto osso metacarpale",
+   "la": "Os quintum metacarpi",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "First metacarpal bone": {
+   "en": "First metacarpal bone",
+   "it": "Primo osso metacarpale",
+   "la": "Os primum metarcapi",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Flexor carpi radialis": {
+   "en": "Flexor carpi radialis",
+   "it": "Muscolo flessore radiale del carpo",
+   "la": "Flexor radialis carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Flexor digiti minimi of hand": {
+   "en": "Flexor digiti minimi of hand",
+   "it": "Muscolo flessore del mignolo della mano",
+   "la": "Flexor digiti minimi manus",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Flexor digitorum profundus": {
+   "en": "Flexor digitorum profundus",
+   "it": "Muscolo flessore profondo delle dita",
+   "la": "Flexor profundus digitorum",
+   "tipo": "muscolo",
+   "parent": "Deep part of anterior compartment of forearm"
+  },
+  "Flexor pollicis longus": {
+   "en": "Flexor pollicis longus",
+   "it": "Muscolo flessore lungo del pollice",
+   "la": "Flexor longus pollicis",
+   "tipo": "muscolo",
+   "parent": "Deep part of anterior compartment of forearm"
+  },
+  "Flexor retinaculum of wrist": {
+   "en": "Flexor retinaculum of wrist",
+   "it": "Retinacolo dei muscoli flessori del polso",
+   "la": "Retinaculum flexorium carpi",
+   "tipo": "altro",
+   "parent": "Fasciae of upper limb"
+  },
+  "Fourth metacarpal bone": {
+   "en": "Fourth metacarpal bone",
+   "it": "Quarto osso metacarpale",
+   "la": "Os quartum metacarpi",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Hamate bone": {
+   "en": "Hamate bone",
+   "it": "Osso uncinato",
+   "la": "Os hamatum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Humeral head of extensor carpi ulnaris": {
+   "en": "Humeral head of extensor carpi ulnaris",
+   "it": "Capo omerale del muscolo estensore ulnare del carpo",
+   "la": "Caput humerale extensoris ulnaris carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Humeral head of flexor carpi ulnaris": {
+   "en": "Humeral head of flexor carpi ulnaris",
+   "it": "Capo omerale del muscolo flessore ulnare del carpo",
+   "la": "Caput humerale flexoris ulnaris carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Humero-ulnar head of flexor digitorum superficialis": {
+   "en": "Humero-ulnar head of flexor digitorum superficialis",
+   "it": "Capo omero-ulnare del m. flessore superficiale delle dita",
+   "la": "Caput humeroulnare flexoris superficialis digitorum",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Humerus": {
+   "en": "Humerus",
+   "it": "Omero",
+   "la": "Humerus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Infraspinatus muscle": {
+   "en": "Infraspinatus muscle",
+   "it": "Muscolo infraspinato",
+   "la": "Musculus infraspinatus",
+   "tipo": "muscolo",
+   "parent": "Rotator cuff muscles"
+  },
+  "Lateral head of triceps brachii": {
+   "en": "Lateral head of triceps brachii",
+   "it": "Capo laterale del muscolo tricipite brachiale",
+   "la": "Caput laterale musculi tricipitis brachii",
+   "tipo": "muscolo",
+   "parent": "Triceps brachii muscle"
+  },
+  "Long head of biceps brachii": {
+   "en": "Long head of biceps brachii",
+   "it": "Capo lungo del muscolo bicipite brachiale",
+   "la": "Caput longum musculi bicipitis brachii",
+   "tipo": "muscolo",
+   "parent": "Biceps brachii muscle"
+  },
+  "Long head of triceps brachii": {
+   "en": "Long head of triceps brachii",
+   "it": "Capo lungo del muscolo tricipite brachiale",
+   "la": "Caput longum musculi tricipitis brachii",
+   "tipo": "muscolo",
+   "parent": "Triceps brachii muscle"
+  },
+  "Lumbrical muscles of hand": {
+   "en": "Lumbrical muscles of hand",
+   "it": "Muscoli lombricali della mano",
+   "la": "Musculi lumbricales manus",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Lunate bone": {
+   "en": "Lunate bone",
+   "it": "Osso semilunare",
+   "la": "Os lunatum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Medial head of triceps brachii": {
+   "en": "Medial head of triceps brachii",
+   "it": "Capo mediale del muscolo tricipite brachiale",
+   "la": "Caput mediale musculi tricipitis caput brachii",
+   "tipo": "muscolo",
+   "parent": "Triceps brachii muscle"
+  },
+  "Middle phalanx of fifth finger of hand": {
+   "en": "Middle phalanx of fifth finger of hand",
+   "it": "Falange media del quinto dito della mano",
+   "la": "Phalanx media quintum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Middle phalanx of fourth finger of hand": {
+   "en": "Middle phalanx of fourth finger of hand",
+   "it": "Falange media del quarto dito della mano",
+   "la": "Phalanx media quartum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Middle phalanx of second finger of hand": {
+   "en": "Middle phalanx of second finger of hand",
+   "it": "Falange media del secondo dito della mano",
+   "la": "Phalanx media scundum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Middle phalanx of third finger of hand": {
+   "en": "Middle phalanx of third finger of hand",
+   "it": "Falange media del terzo dito della mano",
+   "la": "Phalanx media tertium digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Muscles of hand": {
+   "en": "Muscles of hand",
+   "it": "Muscoli della mano",
+   "la": "Musculi manus",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Muscles of upper limb": {
+   "en": "Muscles of upper limb",
+   "it": "Muscoli dell'arto superiore",
+   "la": "Musculi membri superiori",
+   "tipo": "gruppo",
+   "parent": null
+  },
+  "Oblique head of adductor pollicis": {
+   "en": "Oblique head of adductor pollicis",
+   "it": "Capo obliquo del muscolo adduttore del pollice",
+   "la": "Caput obliquum adductoris pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Opponens digiti minimi muscle of hand": {
+   "en": "Opponens digiti minimi muscle of hand",
+   "it": "Muscolo opponente del mignolo della mano",
+   "la": "Musculus opponens digiti minimi manus",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Opponens pollicis muscle": {
+   "en": "Opponens pollicis muscle",
+   "it": "Muscolo opponente del pollice",
+   "la": "Musculus opponens pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Palmar aponeurosis": {
+   "en": "Palmar aponeurosis",
+   "it": "Aponeurosi palmare",
+   "la": "Aponeurosis palmaris",
+   "tipo": "altro",
+   "parent": "Fasciae of upper limb"
+  },
+  "Palmar interossei muscles": {
+   "en": "Palmar interossei muscles",
+   "it": "Muscoli interossei palmari",
+   "la": "Musculi interossei palmares",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Palmaris longus muscle": {
+   "en": "Palmaris longus muscle",
+   "it": "Muscolo palmare lungo",
+   "la": "Musculus palmaris longus",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Pisiform bone": {
+   "en": "Pisiform bone",
+   "it": "Osso pisiforme",
+   "la": "Os pisiforme",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Posterior compartment of arm": {
+   "en": "Posterior compartment of arm",
+   "it": "Compartimento posteriore del braccio",
+   "la": "Compartimentum posterius brachii",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Posterior compartment of forearm": {
+   "en": "Posterior compartment of forearm",
+   "it": "Compartimento posteriore dell'avambraccio",
+   "la": "Compartimentum posterius antebrachii",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Pronator quadratus": {
+   "en": "Pronator quadratus",
+   "it": "Muscolo pronatore quadrato",
+   "la": "Pronator quadratus",
+   "tipo": "muscolo",
+   "parent": "Deep part of anterior compartment of forearm"
+  },
+  "Proximal phalanx of fifth finger of hand": {
+   "en": "Proximal phalanx of fifth finger of hand",
+   "it": "Falange prossimale del quinto dito della mano",
+   "la": "Phalanx proximalis quintum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Proximal phalanx of first finger of hand": {
+   "en": "Proximal phalanx of first finger of hand",
+   "it": "Falange prossimale del primo dito della mano",
+   "la": "Phalanx proximalis primum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Proximal phalanx of fourth finger of hand": {
+   "en": "Proximal phalanx of fourth finger of hand",
+   "it": "Falange prossimale del quarto dito della mano",
+   "la": "Phalanx proximalis quartum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Proximal phalanx of second finger of hand": {
+   "en": "Proximal phalanx of second finger of hand",
+   "it": "Falange prossimale del secondo dito della mano",
+   "la": "Phalanx proximalis secundum digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Proximal phalanx of third finger of hand": {
+   "en": "Proximal phalanx of third finger of hand",
+   "it": "Falange prossimale del terzo dito della mano",
+   "la": "Phalanx proximalis tertium digitorum manus",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Radial head of flexor digitorum superficialis": {
+   "en": "Radial head of flexor digitorum superficialis",
+   "it": "Capo radiale del muscolo flessore superficiale delle dita",
+   "la": "Caput radiale flexoris superficialis digitorum",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Radius": {
+   "en": "Radius",
+   "it": "Radio",
+   "la": "Radius",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Rotator cuff muscles": {
+   "en": "Rotator cuff muscles",
+   "it": "Muscoli della cuffia dei rotatori",
+   "la": "Musculi cuffiae musculotendineae",
+   "tipo": "gruppo",
+   "parent": "Scapulohumeral muscles"
+  },
+  "Scaphoid bone": {
+   "en": "Scaphoid bone",
+   "it": "Osso scafoide",
+   "la": "Os scaphoideum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Scapula": {
+   "en": "Scapula",
+   "it": "Scapola",
+   "la": "Scapula",
+   "tipo": "osso",
+   "parent": "Bones of pectoral girdle"
+  },
+  "Scapular spinal part of deltoid muscle": {
+   "en": "Scapular spinal part of deltoid muscle",
+   "it": "Parte spinale del muscolo deltoide",
+   "la": "Pars spinalis scapularis musculi deltoidei",
+   "tipo": "muscolo",
+   "parent": "Deltoid muscle"
+  },
+  "Scapulohumeral muscles": {
+   "en": "Scapulohumeral muscles",
+   "it": "Muscoli scapolo-omerali",
+   "la": "Musculi scapulohumerales",
+   "tipo": "gruppo",
+   "parent": "Muscles of upper limb"
+  },
+  "Second metacarpal bone": {
+   "en": "Second metacarpal bone",
+   "it": "Secondo osso metacarpale",
+   "la": "Os secundum metacarpi",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Short head of biceps brachii": {
+   "en": "Short head of biceps brachii",
+   "it": "Capo breve del muscolo bicipite brachiale",
+   "la": "Caput breve musculi bicipitis brachii",
+   "tipo": "muscolo",
+   "parent": "Biceps brachii muscle"
+  },
+  "Subscapularis muscle": {
+   "en": "Subscapularis muscle",
+   "it": "Muscolo sottoscapolare",
+   "la": "Musculus subscapularis",
+   "tipo": "muscolo",
+   "parent": "Rotator cuff muscles"
+  },
+  "Superficial head of flexor pollicis brevis": {
+   "en": "Superficial head of flexor pollicis brevis",
+   "it": "Capo superficiale del muscolo flessore breve del pollice",
+   "la": "Caput superficiale flexoris brevis pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Superficial head of pronator teres": {
+   "en": "Superficial head of pronator teres",
+   "it": "Capo omerale del muscolo pronatore rotondo",
+   "la": "Caput superficiale pronatoris teretis",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  },
+  "Superficial part of anterior compartment of forearm": {
+   "en": "Superficial part of anterior compartment of forearm",
+   "it": "Parte superficiale del compartimento ant. dell'avambraccio",
+   "la": "Pars superficialis compartimenti anterioris antebrachii",
+   "tipo": "gruppo",
+   "parent": "Anterior compartment of forearm"
+  },
+  "Superficial part of posterior compartment of forearm": {
+   "en": "Superficial part of posterior compartment of forearm",
+   "it": "Parte superficiale del compartimento post. dell'avambraccio",
+   "la": "Pars superficialis compartimenti posterioris antebrachii",
+   "tipo": "gruppo",
+   "parent": "Posterior compartment of forearm"
+  },
+  "Superficial transverse metacarpal ligament": {
+   "en": "Superficial transverse metacarpal ligament",
+   "it": "Legamento metacarpale superficiale trasverso",
+   "la": "Ligamentum metacarpeum transversum superficiale",
+   "tipo": "altro",
+   "parent": "Fasciae of upper limb"
+  },
+  "Supinator": {
+   "en": "Supinator",
+   "it": "Muscolo supinatore",
+   "la": "Supinator",
+   "tipo": "muscolo",
+   "parent": "Deep part of posterior compartment of forearm"
+  },
+  "Supraspinatus muscle": {
+   "en": "Supraspinatus muscle",
+   "it": "Muscolo sovraspinato",
+   "la": "Musculus supraspinatus",
+   "tipo": "muscolo",
+   "parent": "Rotator cuff muscles"
+  },
+  "Teres major muscle": {
+   "en": "Teres major muscle",
+   "it": "Muscolo grande rotondo",
+   "la": "Musculus teres major",
+   "tipo": "muscolo",
+   "parent": "Scapulohumeral muscles"
+  },
+  "Teres minor muscle": {
+   "en": "Teres minor muscle",
+   "it": "Muscolo piccolo rotondo",
+   "la": "Musculus teres minor",
+   "tipo": "muscolo",
+   "parent": "Rotator cuff muscles"
+  },
+  "Third metacarpal bone": {
+   "en": "Third metacarpal bone",
+   "it": "Terzo osso metacarpale",
+   "la": "Os tertium metacarpi",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Transverse head of adductor pollicis": {
+   "en": "Transverse head of adductor pollicis",
+   "it": "Capo trasverso del muscolo adduttore del pollice",
+   "la": "Caput transversum adductoris pollicis",
+   "tipo": "muscolo",
+   "parent": "Muscles of hand"
+  },
+  "Trapezium bone": {
+   "en": "Trapezium bone",
+   "it": "Osso trapezio",
+   "la": "Os trapezium",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Trapezoid bone": {
+   "en": "Trapezoid bone",
+   "it": "Osso trapezoide",
+   "la": "Os trapezoideum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Triceps brachii muscle": {
+   "en": "Triceps brachii muscle",
+   "it": "Muscolo tricipite brachiale",
+   "la": "Musculus triceps brachii",
+   "tipo": "gruppo",
+   "parent": "Posterior compartment of arm"
+  },
+  "Triquetrum bone": {
+   "en": "Triquetrum bone",
+   "it": "Osso piramidale",
+   "la": "Os triquetrum",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Ulna": {
+   "en": "Ulna",
+   "it": "Ulna",
+   "la": "Ulna",
+   "tipo": "osso",
+   "parent": "Bones of free part of upper limb"
+  },
+  "Ulnar head of extensor carpi ulnaris": {
+   "en": "Ulnar head of extensor carpi ulnaris",
+   "it": "Capo ulnare del muscolo estensore ulnare del carpo",
+   "la": "Caput ulnare extensoris ulnaris carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of posterior compartment of forearm"
+  },
+  "Ulnar head of flexor carpi ulnaris": {
+   "en": "Ulnar head of flexor carpi ulnaris",
+   "it": "Capo ulnare del muscolo flessore ulnare del carpo",
+   "la": "Caput ulnare flexoris ulnaris carpi",
+   "tipo": "muscolo",
+   "parent": "Superficial part of anterior compartment of forearm"
+  }
+ },
+ "landmarks": [
+  {
+   "id": "Clavicle/Acromial end",
+   "di": "Clavicle",
+   "en": "Acromial end",
+   "it": "Estremità acromiale",
+   "la": "Extremitas acromialis",
+   "pos": [
+    -0.14291,
+    1.42293,
+    -0.04216
+   ]
+  },
+  {
+   "id": "Clavicle/Acromial facet",
+   "di": "Clavicle",
+   "en": "Acromial facet",
+   "it": "Faccia articolare acromiale",
+   "la": "Facies articularis acromialis",
+   "pos": [
+    -0.14765,
+    1.41136,
+    -0.04231
+   ]
+  },
+  {
+   "id": "Clavicle/Body of clavicle",
+   "di": "Clavicle",
+   "en": "Body of clavicle",
+   "it": "Corpo della clavicola",
+   "la": "Corpus claviculae",
+   "pos": [
+    -0.07845,
+    1.41518,
+    0.01422
+   ]
+  },
+  {
+   "id": "Clavicle/Conoid tubercle",
+   "di": "Clavicle",
+   "en": "Conoid tubercle",
+   "it": "Tubercolo conoide",
+   "la": "Tuberculum conoideum",
+   "pos": [
+    -0.10042,
+    1.41036,
+    -0.02399
+   ]
+  },
+  {
+   "id": "Clavicle/Groove for subclavius muscle",
+   "di": "Clavicle",
+   "en": "Groove for subclavius muscle",
+   "it": "Solco del muscolo succlavio",
+   "la": "Sulcus musculi subclavii",
+   "pos": [
+    -0.08235,
+    1.40279,
+    0.01876
+   ]
+  },
+  {
+   "id": "Clavicle/Impression for costoclavicular ligament",
+   "di": "Clavicle",
+   "en": "Impression for costoclavicular ligament",
+   "it": "Impressione del legamento costoclavicolare",
+   "la": "Impressio ligamenti costoclavicularis",
+   "pos": [
+    -0.01659,
+    1.38916,
+    0.03533
+   ]
+  },
+  {
+   "id": "Clavicle/Sternal articular surface",
+   "di": "Clavicle",
+   "en": "Sternal articular surface",
+   "it": "Faccia articolare sternale",
+   "la": "Facies articularis sternalis",
+   "pos": [
+    -0.01485,
+    1.38938,
+    0.03415
+   ]
+  },
+  {
+   "id": "Clavicle/Sternal end",
+   "di": "Clavicle",
+   "en": "Sternal end",
+   "it": "Estremità sternale",
+   "la": "Extremitas sternalis",
+   "pos": [
+    -0.02916,
+    1.41488,
+    0.04159
+   ]
+  },
+  {
+   "id": "Clavicle/Trapezoid line",
+   "di": "Clavicle",
+   "en": "Trapezoid line",
+   "it": "Linea trapezoidale",
+   "la": "Linea trapezoidea",
+   "pos": [
+    -0.11144,
+    1.40882,
+    -0.03948
+   ]
+  },
+  {
+   "id": "Clavicle/Tuberosity for coracoclavicular ligament",
+   "di": "Clavicle",
+   "en": "Tuberosity for coracoclavicular ligament",
+   "it": "Tuberosità del legamento coracoclavicolare",
+   "la": "Tuberositas ligamenti coracoclavicularis",
+   "pos": [
+    -0.11144,
+    1.40882,
+    -0.03948
+   ]
+  },
+  {
+   "id": "Distal phalanx of third finger of hand/Tuberosity of distal phalanx of hand",
+   "di": "Distal phalanx of third finger of hand",
+   "en": "Tuberosity of distal phalanx of hand",
+   "it": "Tuberosità della falange distale della mano",
+   "la": "Tuberositas phalangis distalis manus",
+   "pos": [
+    -0.2875,
+    0.69869,
+    0.09524
+   ]
+  },
+  {
+   "id": "Hamate bone/Hook of hamate bone",
+   "di": "Hamate bone",
+   "en": "Hook of hamate bone",
+   "it": "Uncino dell'osso uncinato",
+   "la": "Hamulus ossis hamati",
+   "pos": [
+    -0.25434,
+    0.83718,
+    0.03177
+   ]
+  },
+  {
+   "id": "Humerus/Anatomical neck of humerus",
+   "di": "Humerus",
+   "en": "Anatomical neck of humerus",
+   "it": "Collo anatomico dell'omero",
+   "la": "Collum anatomicum humeri",
+   "pos": [
+    -0.14882,
+    1.37034,
+    -0.02065
+   ]
+  },
+  {
+   "id": "Humerus/Anterior border of humerus",
+   "di": "Humerus",
+   "en": "Anterior border of humerus",
+   "it": "Margine anteriore dell'omero",
+   "la": "Margo anterior humeri",
+   "pos": [
+    -0.20853,
+    1.23028,
+    -0.02455
+   ]
+  },
+  {
+   "id": "Humerus/Anterolateral surface of humerus",
+   "di": "Humerus",
+   "en": "Anterolateral surface of humerus",
+   "it": "Faccia anterolaterale dell'omero",
+   "la": "Facies anterolateralis humeri",
+   "pos": [
+    -0.2168,
+    1.18748,
+    -0.03943
+   ]
+  },
+  {
+   "id": "Humerus/Anteromedial surface of humerus",
+   "di": "Humerus",
+   "en": "Anteromedial surface of humerus",
+   "it": "Faccia anteromediale dell'omero",
+   "la": "Facies anteromedialis humeri",
+   "pos": [
+    -0.20468,
+    1.18747,
+    -0.0323
+   ]
+  },
+  {
+   "id": "Humerus/Body of humerus",
+   "di": "Humerus",
+   "en": "Body of humerus",
+   "it": "Corpo dell'omero",
+   "la": "Corpus humeri",
+   "pos": [
+    -0.19318,
+    1.26516,
+    -0.0255
+   ]
+  },
+  {
+   "id": "Humerus/Capitulum of humerus",
+   "di": "Humerus",
+   "en": "Capitulum of humerus",
+   "it": "Capitello omerale",
+   "la": "Capitulum humeri",
+   "pos": [
+    -0.24012,
+    1.10435,
+    -0.02684
+   ]
+  },
+  {
+   "id": "Humerus/Condyle of humerus",
+   "di": "Humerus",
+   "en": "Condyle of humerus",
+   "it": "Condilo omerale",
+   "la": "Condylus humeri",
+   "pos": [
+    -0.21943,
+    1.09491,
+    -0.03557
+   ]
+  },
+  {
+   "id": "Humerus/Coronoid fossa",
+   "di": "Humerus",
+   "en": "Coronoid fossa",
+   "it": "Fossa coronoidea",
+   "la": "Fossa coronoidea",
+   "pos": [
+    -0.21604,
+    1.11509,
+    -0.03466
+   ]
+  },
+  {
+   "id": "Humerus/Crest of greater tubercle",
+   "di": "Humerus",
+   "en": "Crest of greater tubercle",
+   "it": "Cresta della grande tuberosità",
+   "la": "Crista tuberculi majoris",
+   "pos": [
+    -0.18675,
+    1.37132,
+    -0.0137
+   ]
+  },
+  {
+   "id": "Humerus/Crest of lesser tubercle",
+   "di": "Humerus",
+   "en": "Crest of lesser tubercle",
+   "it": "Cresta della piccola tuberosità",
+   "la": "Crista tuberculi minoris",
+   "pos": [
+    -0.17735,
+    1.36412,
+    -0.01127
+   ]
+  },
+  {
+   "id": "Humerus/Deltoid tuberosity",
+   "di": "Humerus",
+   "en": "Deltoid tuberosity",
+   "it": "Tuberosità deltoidea",
+   "la": "Tuberositas deltoidea",
+   "pos": [
+    -0.20846,
+    1.28442,
+    -0.03403
+   ]
+  },
+  {
+   "id": "Humerus/Greater tubercle",
+   "di": "Humerus",
+   "en": "Greater tubercle",
+   "it": "Grande tuberosità",
+   "la": "Tuberculum majus",
+   "pos": [
+    -0.19249,
+    1.39786,
+    -0.02495
+   ]
+  },
+  {
+   "id": "Humerus/Groove for ulnar nerve",
+   "di": "Humerus",
+   "en": "Groove for ulnar nerve",
+   "it": "Solco del nervo ulnare",
+   "la": "Sulcus nervi ulnaris",
+   "pos": [
+    -0.20247,
+    1.09603,
+    -0.0377
+   ]
+  },
+  {
+   "id": "Humerus/Head of humerus",
+   "di": "Humerus",
+   "en": "Head of humerus",
+   "it": "Testa dell'omero",
+   "la": "Caput humeri",
+   "pos": [
+    -0.17097,
+    1.40101,
+    -0.0157
+   ]
+  },
+  {
+   "id": "Humerus/Intertubercular sulcus",
+   "di": "Humerus",
+   "en": "Intertubercular sulcus",
+   "it": "Solco bicipitale",
+   "la": "Sulcus intertubercularis",
+   "pos": [
+    -0.18188,
+    1.38321,
+    -0.01195
+   ]
+  },
+  {
+   "id": "Humerus/Lateral border of humerus",
+   "di": "Humerus",
+   "en": "Lateral border of humerus",
+   "it": "Margine laterale dell'omero",
+   "la": "Margo lateralis humeri",
+   "pos": [
+    -0.21343,
+    1.2197,
+    -0.04349
+   ]
+  },
+  {
+   "id": "Humerus/Lateral epicondyle of humerus",
+   "di": "Humerus",
+   "en": "Lateral epicondyle of humerus",
+   "it": "Epicondilo laterale dell'omero",
+   "la": "Epicondylus lateralis humeri",
+   "pos": [
+    -0.24869,
+    1.11291,
+    -0.04388
+   ]
+  },
+  {
+   "id": "Humerus/Lateral supracondylar ridge",
+   "di": "Humerus",
+   "en": "Lateral supracondylar ridge",
+   "it": "Cresta sopracondiloidea",
+   "la": "Crista supracondylaris lateralis crista",
+   "pos": [
+    -0.23926,
+    1.13575,
+    -0.05051
+   ]
+  },
+  {
+   "id": "Humerus/Lesser tubercle",
+   "di": "Humerus",
+   "en": "Lesser tubercle",
+   "it": "Piccola tuberosità",
+   "la": "Tuberculum minus",
+   "pos": [
+    -0.16707,
+    1.38461,
+    -0.00347
+   ]
+  },
+  {
+   "id": "Humerus/Medial border of humerus",
+   "di": "Humerus",
+   "en": "Medial border of humerus",
+   "it": "Margine mediale dell'omero",
+   "la": "Margo medialis humeri",
+   "pos": [
+    -0.19312,
+    1.23298,
+    -0.03327
+   ]
+  },
+  {
+   "id": "Humerus/Medial epicondyle of humerus",
+   "di": "Humerus",
+   "en": "Medial epicondyle of humerus",
+   "it": "Epicondilo mediale dell'omero",
+   "la": "Epicondylus medialis humeri",
+   "pos": [
+    -0.18404,
+    1.10977,
+    -0.03612
+   ]
+  },
+  {
+   "id": "Humerus/Medial supracondylar ridge",
+   "di": "Humerus",
+   "en": "Medial supracondylar ridge",
+   "it": "Cresta sopratrocleare",
+   "la": "Crista supracondylaris medialis crista",
+   "pos": [
+    -0.19404,
+    1.12255,
+    -0.03667
+   ]
+  },
+  {
+   "id": "Humerus/Olecranon fossa",
+   "di": "Humerus",
+   "en": "Olecranon fossa",
+   "it": "Fossa olecranica",
+   "la": "Fossa olecrani",
+   "pos": [
+    -0.21704,
+    1.11175,
+    -0.03942
+   ]
+  },
+  {
+   "id": "Humerus/Posterior surface of humerus",
+   "di": "Humerus",
+   "en": "Posterior surface of humerus",
+   "it": "Faccia posteriore dell'omero",
+   "la": "Facies posterior humeri",
+   "pos": [
+    -0.21019,
+    1.19124,
+    -0.05009
+   ]
+  },
+  {
+   "id": "Humerus/Radial fossa",
+   "di": "Humerus",
+   "en": "Radial fossa",
+   "it": "Fossa radiale",
+   "la": "Fossa radialis",
+   "pos": [
+    -0.23007,
+    1.11884,
+    -0.03646
+   ]
+  },
+  {
+   "id": "Humerus/Radial groove",
+   "di": "Humerus",
+   "en": "Radial groove",
+   "it": "Solco del nervo radiale",
+   "la": "Sulcus nervi radialis",
+   "pos": [
+    -0.20953,
+    1.2574,
+    -0.04015
+   ]
+  },
+  {
+   "id": "Humerus/Surgical neck of humerus",
+   "di": "Humerus",
+   "en": "Surgical neck of humerus",
+   "it": "Collo chirurgico dell'omero",
+   "la": "Collum chirurgicum humeri",
+   "pos": [
+    -0.1714,
+    1.35566,
+    -0.01536
+   ]
+  },
+  {
+   "id": "Humerus/Trochlea of humerus",
+   "di": "Humerus",
+   "en": "Trochlea of humerus",
+   "it": "Troclea omerale",
+   "la": "Trochlea humeri",
+   "pos": [
+    -0.24084,
+    1.09838,
+    -0.03015
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of hand/Base of phalanx of hand",
+   "di": "Proximal phalanx of third finger of hand",
+   "en": "Base of phalanx of hand",
+   "it": "Base della falange della mano",
+   "la": "Basis phalangis manus",
+   "pos": [
+    -0.27549,
+    0.73592,
+    0.05733
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of hand/Body of phalanx of hand",
+   "di": "Proximal phalanx of third finger of hand",
+   "en": "Body of phalanx of hand",
+   "it": "Corpo della falange della mano",
+   "la": "Corpus phalangis manus",
+   "pos": [
+    -0.27627,
+    0.73132,
+    0.06083
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of hand/Head of phalanx of hand",
+   "di": "Proximal phalanx of third finger of hand",
+   "en": "Head of phalanx of hand",
+   "it": "Testa della falange della mano",
+   "la": "Caput phalangis manus",
+   "pos": [
+    -0.27627,
+    0.73132,
+    0.06083
+   ]
+  },
+  {
+   "id": "Proximal phalanx of third finger of hand/Trochlea of phalanx of hand",
+   "di": "Proximal phalanx of third finger of hand",
+   "en": "Trochlea of phalanx of hand",
+   "it": "Troclea della falange della mano",
+   "la": "Trochlea phalangis manus",
+   "pos": [
+    -0.277,
+    0.7319,
+    0.06335
+   ]
+  },
+  {
+   "id": "Radius/Anterior border of radius",
+   "di": "Radius",
+   "en": "Anterior border of radius",
+   "it": "Margine anteriore del radio",
+   "la": "Margo anterior radii",
+   "pos": [
+    -0.24918,
+    1.03557,
+    -0.01247
+   ]
+  },
+  {
+   "id": "Radius/Anterior surface of radius",
+   "di": "Radius",
+   "en": "Anterior surface of radius",
+   "it": "Faccia anteriore del radio",
+   "la": "Facies anterior radii",
+   "pos": [
+    -0.26411,
+    0.91852,
+    0.00201
+   ]
+  },
+  {
+   "id": "Radius/Articular circumference of head of radius",
+   "di": "Radius",
+   "en": "Articular circumference of head of radius",
+   "it": "Circonferenza articolare della testa del radio",
+   "la": "Circumferentia articularis capitis radii",
+   "pos": [
+    -0.2496,
+    1.08629,
+    -0.02928
+   ]
+  },
+  {
+   "id": "Radius/Articular facet of head of radius",
+   "di": "Radius",
+   "en": "Articular facet of head of radius",
+   "it": "Fossetta articolare della testa del radio",
+   "la": "Fovea articularis capitis radii",
+   "pos": [
+    -0.23769,
+    1.09087,
+    -0.03334
+   ]
+  },
+  {
+   "id": "Radius/Body of radius",
+   "di": "Radius",
+   "en": "Body of radius",
+   "it": "Corpo del radio",
+   "la": "Corpus radii",
+   "pos": [
+    -0.26616,
+    0.96323,
+    -0.01041
+   ]
+  },
+  {
+   "id": "Radius/Carpal articular surface",
+   "di": "Radius",
+   "en": "Carpal articular surface",
+   "it": "Faccia articolare carpale",
+   "la": "Facies articularis carpea",
+   "pos": [
+    -0.26979,
+    0.86211,
+    0.01438
+   ]
+  },
+  {
+   "id": "Radius/Dorsal radial tubercle",
+   "di": "Radius",
+   "en": "Dorsal radial tubercle",
+   "it": "Tubercolo dorsale del radio",
+   "la": "Tuberculum dorsale radii",
+   "pos": [
+    -0.27475,
+    0.86265,
+    0.00327
+   ]
+  },
+  {
+   "id": "Radius/Grooves for extensor tendons",
+   "di": "Radius",
+   "en": "Grooves for extensor tendons",
+   "it": "Solchi per i tendini estensori",
+   "la": "Sulci tendinum extensorum",
+   "pos": [
+    -0.26768,
+    0.86503,
+    0.00582
+   ]
+  },
+  {
+   "id": "Radius/Head of radius",
+   "di": "Radius",
+   "en": "Head of radius",
+   "it": "Testa del radio",
+   "la": "Caput radii",
+   "pos": [
+    -0.2287,
+    1.08267,
+    -0.03081
+   ]
+  },
+  {
+   "id": "Radius/Interosseous border of radius",
+   "di": "Radius",
+   "en": "Interosseous border of radius",
+   "it": "Margine interosseo del radio",
+   "la": "Margo interosseus radii",
+   "pos": [
+    -0.25041,
+    0.9652,
+    -0.01111
+   ]
+  },
+  {
+   "id": "Radius/Lateral surface of radius",
+   "di": "Radius",
+   "en": "Lateral surface of radius",
+   "it": "Faccia laterale del radio",
+   "la": "Facies lateralis radii",
+   "pos": [
+    -0.26402,
+    0.98228,
+    -0.0148
+   ]
+  },
+  {
+   "id": "Radius/Neck of radius",
+   "di": "Radius",
+   "en": "Neck of radius",
+   "it": "Collo del radio",
+   "la": "Collum radii",
+   "pos": [
+    -0.24633,
+    1.07481,
+    -0.02533
+   ]
+  },
+  {
+   "id": "Radius/Posterior border of radius",
+   "di": "Radius",
+   "en": "Posterior border of radius",
+   "it": "Margine posteriore del radio",
+   "la": "Margo posterior radii",
+   "pos": [
+    -0.2689,
+    0.89297,
+    -0.00254
+   ]
+  },
+  {
+   "id": "Radius/Posterior surface of radius",
+   "di": "Radius",
+   "en": "Posterior surface of radius",
+   "it": "Faccia posteriore del radio",
+   "la": "Facies posterior radii",
+   "pos": [
+    -0.25309,
+    0.9942,
+    -0.02253
+   ]
+  },
+  {
+   "id": "Radius/Pronator tuberosity",
+   "di": "Radius",
+   "en": "Pronator tuberosity",
+   "it": "Tuberosità pronatoria",
+   "la": "Tuberositas pronatoria",
+   "pos": [
+    -0.26265,
+    0.98976,
+    -0.01751
+   ]
+  },
+  {
+   "id": "Radius/Radial styloid process",
+   "di": "Radius",
+   "en": "Radial styloid process",
+   "it": "Processo stiloideo del radio",
+   "la": "Processus styloideus radii",
+   "pos": [
+    -0.28575,
+    0.85665,
+    0.01641
+   ]
+  },
+  {
+   "id": "Radius/Radial tuberosity",
+   "di": "Radius",
+   "en": "Radial tuberosity",
+   "it": "Tubercolo bicipitale del radio",
+   "la": "Tuberositas radii",
+   "pos": [
+    -0.24315,
+    1.06172,
+    -0.0116
+   ]
+  },
+  {
+   "id": "Radius/Suprastyloid crest",
+   "di": "Radius",
+   "en": "Suprastyloid crest",
+   "it": "Cresta soprastiloidea",
+   "la": "Crista suprastyloidea",
+   "pos": [
+    -0.28621,
+    0.87362,
+    0.01757
+   ]
+  },
+  {
+   "id": "Radius/Ulnar notch",
+   "di": "Radius",
+   "en": "Ulnar notch",
+   "it": "Incisura ulnare",
+   "la": "Incisura ulnaris",
+   "pos": [
+    -0.25771,
+    0.86864,
+    0.01169
+   ]
+  },
+  {
+   "id": "Scaphoid bone/Tubercle of scaphoid bone",
+   "di": "Scaphoid bone",
+   "en": "Tubercle of scaphoid bone",
+   "it": "Tubercolo del osso scafoide",
+   "la": "Tuberculum ossis scaphoidei",
+   "pos": [
+    -0.27496,
+    0.84685,
+    0.02224
+   ]
+  },
+  {
+   "id": "Scapula/Acromial angle",
+   "di": "Scapula",
+   "en": "Acromial angle",
+   "it": "Angolo acromiale",
+   "la": "Angulus acromii",
+   "pos": [
+    -0.16997,
+    1.40065,
+    -0.06576
+   ]
+  },
+  {
+   "id": "Scapula/Acromion",
+   "di": "Scapula",
+   "en": "Acromion",
+   "it": "Acromion",
+   "la": "Acromion",
+   "pos": [
+    -0.1617,
+    1.41496,
+    -0.04732
+   ]
+  },
+  {
+   "id": "Scapula/Clavicular facet",
+   "di": "Scapula",
+   "en": "Clavicular facet",
+   "it": "Faccia articolare clavicolare",
+   "la": "Facies articularis clavicularis",
+   "pos": [
+    -0.1507,
+    1.41424,
+    -0.03733
+   ]
+  },
+  {
+   "id": "Scapula/Coracoid process",
+   "di": "Scapula",
+   "en": "Coracoid process",
+   "it": "Processo coracoideo",
+   "la": "Processus coracoideus",
+   "pos": [
+    -0.13848,
+    1.39068,
+    0.00042
+   ]
+  },
+  {
+   "id": "Scapula/Costal surface of scapula",
+   "di": "Scapula",
+   "en": "Costal surface of scapula",
+   "it": "Faccia costale della scapola",
+   "la": "Facies costalis scapulae",
+   "pos": [
+    -0.09023,
+    1.34725,
+    -0.08722
+   ]
+  },
+  {
+   "id": "Scapula/Deltoid tubercle",
+   "di": "Scapula",
+   "en": "Deltoid tubercle",
+   "it": "Tubercolo deltoide",
+   "la": "Tuberculum deltoideum",
+   "pos": [
+    -0.06512,
+    1.37296,
+    -0.10093
+   ]
+  },
+  {
+   "id": "Scapula/Glenoid fossa",
+   "di": "Scapula",
+   "en": "Glenoid fossa",
+   "it": "Fossa glenoidea",
+   "la": "Fossa glenoidea",
+   "pos": [
+    -0.14545,
+    1.37463,
+    -0.03663
+   ]
+  },
+  {
+   "id": "Scapula/Glenoid process of scapula",
+   "di": "Scapula",
+   "en": "Glenoid process of scapula",
+   "it": "Processo glenoideo della scapola",
+   "la": "Processus glenoideus scapulae",
+   "pos": [
+    -0.15619,
+    1.36813,
+    -0.04631
+   ]
+  },
+  {
+   "id": "Scapula/Inferior angle of scapula",
+   "di": "Scapula",
+   "en": "Inferior angle of scapula",
+   "it": "Angolo inferiore della scapola",
+   "la": "Angulus inferior scapulae",
+   "pos": [
+    -0.09458,
+    1.25512,
+    -0.10256
+   ]
+  },
+  {
+   "id": "Scapula/Infraglenoid tubercle",
+   "di": "Scapula",
+   "en": "Infraglenoid tubercle",
+   "it": "Tuberosità infraglenoidea",
+   "la": "Tuberculum infraglenoideum",
+   "pos": [
+    -0.15536,
+    1.36346,
+    -0.04361
+   ]
+  },
+  {
+   "id": "Scapula/Infraspinous fossa",
+   "di": "Scapula",
+   "en": "Infraspinous fossa",
+   "it": "Fossa sottospinata",
+   "la": "Fossa infraspinata",
+   "pos": [
+    -0.09662,
+    1.33021,
+    -0.09206
+   ]
+  },
+  {
+   "id": "Scapula/Lateral angle of scapula",
+   "di": "Scapula",
+   "en": "Lateral angle of scapula",
+   "it": "Angolo laterale della scapola",
+   "la": "Angulus lateralis scapulae",
+   "pos": [
+    -0.14015,
+    1.37403,
+    -0.02468
+   ]
+  },
+  {
+   "id": "Scapula/Lateral border of scapula",
+   "di": "Scapula",
+   "en": "Lateral border of scapula",
+   "it": "Margine laterale della scapola",
+   "la": "Margo lateralis scapulae",
+   "pos": [
+    -0.13041,
+    1.32678,
+    -0.06434
+   ]
+  },
+  {
+   "id": "Scapula/Medial border of scapula",
+   "di": "Scapula",
+   "en": "Medial border of scapula",
+   "it": "Margine mediale della scapola",
+   "la": "Margo medialis scapulae",
+   "pos": [
+    -0.06256,
+    1.32864,
+    -0.10665
+   ]
+  },
+  {
+   "id": "Scapula/Neck of scapula",
+   "di": "Scapula",
+   "en": "Neck of scapula",
+   "it": "Collo della scapola",
+   "la": "Collum scapulae",
+   "pos": [
+    -0.14842,
+    1.35516,
+    -0.04514
+   ]
+  },
+  {
+   "id": "Scapula/Posterior surface of scapula",
+   "di": "Scapula",
+   "en": "Posterior surface of scapula",
+   "it": "Faccia posteriore della scapola",
+   "la": "Facies posterior scapulae",
+   "pos": [
+    -0.10151,
+    1.34847,
+    -0.08377
+   ]
+  },
+  {
+   "id": "Scapula/Scapular notch",
+   "di": "Scapula",
+   "en": "Scapular notch",
+   "it": "Incisura scapolare",
+   "la": "Incisura scapulae",
+   "pos": [
+    -0.11508,
+    1.38677,
+    -0.05095
+   ]
+  },
+  {
+   "id": "Scapula/Spine of scapula",
+   "di": "Scapula",
+   "en": "Spine of scapula",
+   "it": "Spina della scapola",
+   "la": "Spina scapulae",
+   "pos": [
+    -0.11312,
+    1.38774,
+    -0.09203
+   ]
+  },
+  {
+   "id": "Scapula/Spinoglenoid notch",
+   "di": "Scapula",
+   "en": "Spinoglenoid notch",
+   "it": "Incisura spinoglenoidea",
+   "la": "Incisura spinoglenoidea",
+   "pos": [
+    -0.14071,
+    1.38421,
+    -0.05919
+   ]
+  },
+  {
+   "id": "Scapula/Subscapular fossa",
+   "di": "Scapula",
+   "en": "Subscapular fossa",
+   "it": "Fossa sottoscapolare",
+   "la": "Fossa subscapularis",
+   "pos": [
+    -0.09524,
+    1.33708,
+    -0.08766
+   ]
+  },
+  {
+   "id": "Scapula/Superior angle of scapula",
+   "di": "Scapula",
+   "en": "Superior angle of scapula",
+   "it": "Angolo superiore della scapola",
+   "la": "Angulus superior scapulae",
+   "pos": [
+    -0.08253,
+    1.4097,
+    -0.0765
+   ]
+  },
+  {
+   "id": "Scapula/Superior border of scapula",
+   "di": "Scapula",
+   "en": "Superior border of scapula",
+   "it": "Margine superiore della scapola",
+   "la": "Margo superior scapulae",
+   "pos": [
+    -0.09703,
+    1.3982,
+    -0.05983
+   ]
+  },
+  {
+   "id": "Scapula/Supraglenoid tubercle",
+   "di": "Scapula",
+   "en": "Supraglenoid tubercle",
+   "it": "Tuberosità sovraglenoidea",
+   "la": "Tuberculum supraglenoideum",
+   "pos": [
+    -0.14359,
+    1.39525,
+    -0.03059
+   ]
+  },
+  {
+   "id": "Scapula/Supraspinous fossa",
+   "di": "Scapula",
+   "en": "Supraspinous fossa",
+   "it": "Fossa sovraspinata",
+   "la": "Fossa supraspinata",
+   "pos": [
+    -0.10459,
+    1.38081,
+    -0.07183
+   ]
+  },
+  {
+   "id": "Third metacarpal bone/Body of metacarpal bone",
+   "di": "Third metacarpal bone",
+   "en": "Body of metacarpal bone",
+   "it": "Corpo dell'osso metacarpale",
+   "la": "Corpus ossis metacarpi",
+   "pos": [
+    -0.26726,
+    0.77501,
+    0.03069
+   ]
+  },
+  {
+   "id": "Third metacarpal bone/Head of metacarpal bone",
+   "di": "Third metacarpal bone",
+   "en": "Head of metacarpal bone",
+   "it": "Testa dell'osso metacarpale",
+   "la": "Caput ossis metacarpi",
+   "pos": [
+    -0.26949,
+    0.76974,
+    0.03625
+   ]
+  },
+  {
+   "id": "Third metacarpal bone/Metacarpal base",
+   "di": "Third metacarpal bone",
+   "en": "Metacarpal base",
+   "it": "Base dell'osso metacarpale",
+   "la": "Basis ossis metacarpi",
+   "pos": [
+    -0.26731,
+    0.77554,
+    0.03058
+   ]
+  },
+  {
+   "id": "Third metacarpal bone/Styloid process of third metacarpal bone",
+   "di": "Third metacarpal bone",
+   "en": "Styloid process of third metacarpal bone",
+   "it": "Processo stiloideo del terzo osso metacarpale",
+   "la": "Processus styloideus ossis tertii metacarpi",
+   "pos": [
+    -0.27184,
+    0.80238,
+    0.01845
+   ]
+  },
+  {
+   "id": "Trapezium bone/Tubercle of trapezium bone",
+   "di": "Trapezium bone",
+   "en": "Tubercle of trapezium bone",
+   "it": "Tubercolo dell'osso trapezio",
+   "la": "Tuberculum ossis trapezii",
+   "pos": [
+    -0.28295,
+    0.83611,
+    0.02662
+   ]
+  },
+  {
+   "id": "Ulna/Anterior border of ulna",
+   "di": "Ulna",
+   "en": "Anterior border of ulna",
+   "it": "Margine anteriore dell'ulna",
+   "la": "Margo anterior ulnae",
+   "pos": [
+    -0.22934,
+    1.027,
+    -0.02672
+   ]
+  },
+  {
+   "id": "Ulna/Articular circumference of head of ulna",
+   "di": "Ulna",
+   "en": "Articular circumference of head of ulna",
+   "it": "Circonferenza articolare della testa dell'ulna",
+   "la": "Circumferentia articularis capitis ulnae",
+   "pos": [
+    -0.25142,
+    0.87055,
+    0.02139
+   ]
+  },
+  {
+   "id": "Ulna/Body of ulna",
+   "di": "Ulna",
+   "en": "Body of ulna",
+   "it": "Corpo dell'ulna",
+   "la": "Corpus ulnae",
+   "pos": [
+    -0.22684,
+    0.99955,
+    -0.02151
+   ]
+  },
+  {
+   "id": "Ulna/Coronoid process of ulna",
+   "di": "Ulna",
+   "en": "Coronoid process of ulna",
+   "it": "Processo coronoideo dell'ulna",
+   "la": "Processus coronoideus ulnae",
+   "pos": [
+    -0.21927,
+    1.09204,
+    -0.02292
+   ]
+  },
+  {
+   "id": "Ulna/Head of ulna",
+   "di": "Ulna",
+   "en": "Head of ulna",
+   "it": "Testa dell'ulna",
+   "la": "Caput ulnae",
+   "pos": [
+    -0.23924,
+    0.87057,
+    0.01302
+   ]
+  },
+  {
+   "id": "Ulna/Interosseous border of ulna",
+   "di": "Ulna",
+   "en": "Interosseous border of ulna",
+   "it": "Margine interosseo dell'ulna",
+   "la": "Margo interosseus ulnae",
+   "pos": [
+    -0.2398,
+    0.96739,
+    -0.01037
+   ]
+  },
+  {
+   "id": "Ulna/Medial surface of ulna",
+   "di": "Ulna",
+   "en": "Medial surface of ulna",
+   "it": "Faccia mediale dell'ulna",
+   "la": "Facies medialis ulnae",
+   "pos": [
+    -0.22269,
+    1.03294,
+    -0.0382
+   ]
+  },
+  {
+   "id": "Ulna/Olecranon",
+   "di": "Ulna",
+   "en": "Olecranon",
+   "it": "Olecrano",
+   "la": "Olecranon",
+   "pos": [
+    -0.21468,
+    1.10515,
+    -0.05532
+   ]
+  },
+  {
+   "id": "Ulna/Posterior border of ulna",
+   "di": "Ulna",
+   "en": "Posterior border of ulna",
+   "it": "Margine posteriore dell'ulna",
+   "la": "Margo posterior ulnae",
+   "pos": [
+    -0.23931,
+    0.90022,
+    -0.00157
+   ]
+  },
+  {
+   "id": "Ulna/Posterior surface of ulna",
+   "di": "Ulna",
+   "en": "Posterior surface of ulna",
+   "it": "Faccia posteriore dell'ulna",
+   "la": "Facies posterior ulnae",
+   "pos": [
+    -0.23357,
+    0.94096,
+    -0.01349
+   ]
+  },
+  {
+   "id": "Ulna/Radial notch",
+   "di": "Ulna",
+   "en": "Radial notch",
+   "it": "Incisura radiale",
+   "la": "Incisura radialis",
+   "pos": [
+    -0.22647,
+    1.08336,
+    -0.03675
+   ]
+  },
+  {
+   "id": "Ulna/Sublime tubercle",
+   "di": "Ulna",
+   "en": "Sublime tubercle",
+   "it": "Tubercolo sublime",
+   "la": "Tuberculum sublime",
+   "pos": [
+    -0.20597,
+    1.08023,
+    -0.03041
+   ]
+  },
+  {
+   "id": "Ulna/Supinator crest",
+   "di": "Ulna",
+   "en": "Supinator crest",
+   "it": "Cresta del muscolo supinatore",
+   "la": "Crista supinatoria",
+   "pos": [
+    -0.23218,
+    1.05911,
+    -0.03877
+   ]
+  },
+  {
+   "id": "Ulna/Trochlear notch",
+   "di": "Ulna",
+   "en": "Trochlear notch",
+   "it": "Incisura trocleare",
+   "la": "Incisura trochlearis",
+   "pos": [
+    -0.21755,
+    1.09128,
+    -0.04173
+   ]
+  },
+  {
+   "id": "Ulna/Tuberosity of ulna",
+   "di": "Ulna",
+   "en": "Tuberosity of ulna",
+   "it": "Tuberosità ulnare",
+   "la": "Tuberositas ulnae",
+   "pos": [
+    -0.22326,
+    1.06435,
+    -0.0299
+   ]
+  },
+  {
+   "id": "Ulna/Ulnar styloid process",
+   "di": "Ulna",
+   "en": "Ulnar styloid process",
+   "it": "Processo stiloideo ulnare",
+   "la": "Processus styloideus ulnae",
+   "pos": [
+    -0.24353,
+    0.85592,
+    0.0117
+   ]
+  }
+ ]
+}

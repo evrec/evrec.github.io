@@ -1,0 +1,465 @@
+{
+ "structures": {
+  "g:scheletro": {
+   "it": "Scheletro del collo",
+   "tipo": "gruppo",
+   "ord": 1,
+   "testo": "È formato dalle sette vertebre cervicali e dall'osso ioide, sospeso davanti alla colonna all'altezza di C3. Le vertebre sono descritte con la colonna vertebrale, l'osso ioide con lo splancnocranio."
+  },
+  "Muscles of neck": {
+   "it": "Muscoli del collo",
+   "ord": 2,
+   "testo": "Si dividono in muscoli anteriori (sopraioidei, sottoioidei e prevertebrali), laterali (platisma, sternocleidomastoideo e scaleni) e posteriori o suboccipitali."
+  },
+  "g:anteriori": {
+   "it": "Muscoli anteriori del collo",
+   "tipo": "gruppo",
+   "parent": "Muscles of neck",
+   "ord": 1,
+   "testo": "Comprendono i muscoli sopraioidei, tra osso ioide e cranio, i sottoioidei, tra osso ioide e torace, e i prevertebrali, applicati sulla faccia anteriore della colonna cervicale."
+  },
+  "Suprahyoid muscles": {
+   "it": "Muscoli sopraioidei",
+   "parent": "g:anteriori",
+   "ord": 1,
+   "testo": "Quattro muscoli che uniscono l'osso ioide alla mandibola e alla base del cranio: miloioideo, digastrico, stiloioideo e genioioideo. Formano il pavimento della bocca; sollevano l'osso ioide nella deglutizione e, a ioide fisso, abbassano la mandibola."
+  },
+  "Mylohyoid muscle": {
+   "it": "Muscolo miloioideo",
+   "ord": 1,
+   "testo": "Lamina muscolare che con quella opposta forma il pavimento della cavità orale.",
+   "campi": {
+    "Inserzione prossimale": "Linea miloioidea della mandibola.",
+    "Inserzione distale": "Rafe mediano e corpo dell'osso ioide.",
+    "Innervazione": "Nervo miloioideo, dal nervo mandibolare (V3).",
+    "Azione": "Solleva il pavimento della bocca e l'osso ioide; a ioide fisso abbassa la mandibola."
+   }
+  },
+  "Digastric muscle": {
+   "it": "Muscolo digastrico",
+   "ord": 2,
+   "testo": "È formato da due ventri, anteriore e posteriore, uniti da un tendine intermedio che un'ansa fibrosa fissa all'osso ioide. I due ventri hanno origine embriologica e innervazione diverse.",
+   "campi": {
+    "Inserzione prossimale": "Ventre posteriore: incisura mastoidea del temporale.",
+    "Inserzione distale": "Ventre anteriore: fossa digastrica della mandibola.",
+    "Innervazione": "Ventre posteriore: nervo faciale (VII). Ventre anteriore: nervo miloioideo (V3).",
+    "Azione": "Solleva l'osso ioide; a ioide fisso abbassa la mandibola."
+   }
+  },
+  "Posterior belly of digastric muscle": {
+   "it": "Ventre posteriore del muscolo digastrico",
+   "ord": 1,
+   "testo": "Il più lungo. Dall'incisura mastoidea scende in avanti verso l'osso ioide. È innervato dal nervo faciale."
+  },
+  "Intermediate tendon of digastric muscle": {
+   "it": "Tendine intermedio del muscolo digastrico",
+   "ord": 2,
+   "testo": "Tendine cilindrico che unisce i due ventri. Attraversa il muscolo stiloioideo ed è trattenuto sull'osso ioide da un'ansa fibrosa."
+  },
+  "Anterior belly of digastric muscle": {
+   "it": "Ventre anteriore del muscolo digastrico",
+   "ord": 3,
+   "testo": "Dal tendine intermedio sale alla fossa digastrica della mandibola, sotto il miloioideo. È innervato dal nervo miloioideo."
+  },
+  "Stylohyoid muscle": {
+   "it": "Muscolo stiloioideo",
+   "ord": 3,
+   "testo": "Muscolo sottile che affianca il ventre posteriore del digastrico; il suo tendine si sdoppia per lasciar passare il tendine intermedio.",
+   "campi": {
+    "Inserzione prossimale": "Processo stiloideo del temporale.",
+    "Inserzione distale": "Corpo dell'osso ioide, vicino al grande corno.",
+    "Innervazione": "Nervo faciale (VII).",
+    "Azione": "Tira l'osso ioide in alto e indietro."
+   }
+  },
+  "Geniohyoid muscle": {
+   "it": "Muscolo genioioideo",
+   "ord": 4,
+   "testo": "Muscolo cilindrico posto sopra il miloioideo, ai lati della linea mediana.",
+   "campi": {
+    "Inserzione prossimale": "Spina mentale inferiore della mandibola.",
+    "Inserzione distale": "Corpo dell'osso ioide.",
+    "Innervazione": "Fibre di C1 che decorrono con il nervo ipoglosso.",
+    "Azione": "Tira l'osso ioide in alto e in avanti; a ioide fisso abbassa la mandibola."
+   }
+  },
+  "Infrahyoid muscles": {
+   "it": "Muscoli sottoioidei",
+   "parent": "g:anteriori",
+   "ord": 2,
+   "testo": "Quattro muscoli nastriformi disposti su due piani: in superficie sternoioideo e omoioideo, in profondità sternotiroideo e tiroioideo. Abbassano l'osso ioide e la laringe e fissano lo ioide quando agiscono i sopraioidei. Li innerva l'ansa cervicale."
+  },
+  "Sternohyoid muscle": {
+   "it": "Muscolo sternoioideo",
+   "ord": 1,
+   "testo": "Il più mediale dei sottoioidei.",
+   "campi": {
+    "Inserzione prossimale": "Faccia posteriore del manubrio dello sterno ed estremità sternale della clavicola.",
+    "Inserzione distale": "Corpo dell'osso ioide.",
+    "Innervazione": "Ansa cervicale (C1-C3).",
+    "Azione": "Abbassa l'osso ioide."
+   }
+  },
+  "Omohyoid muscle": {
+   "it": "Muscolo omoioideo",
+   "ord": 2,
+   "testo": "Il più laterale dei sottoioidei. Ha due ventri, inferiore e superiore, uniti da un tendine intermedio che la fascia cervicale media àncora alla clavicola.",
+   "campi": {
+    "Inserzione prossimale": "Margine superiore della scapola, vicino all'incisura.",
+    "Inserzione distale": "Corpo dell'osso ioide.",
+    "Innervazione": "Ansa cervicale (C1-C3).",
+    "Azione": "Abbassa l'osso ioide e tende la fascia cervicale media."
+   }
+  },
+  "Sternothyroid muscle": {
+   "it": "Muscolo sternotiroideo",
+   "ord": 3,
+   "testo": "Posto in profondità allo sternoioideo, davanti alla ghiandola tiroide.",
+   "campi": {
+    "Inserzione prossimale": "Faccia posteriore del manubrio e prima cartilagine costale.",
+    "Inserzione distale": "Linea obliqua della cartilagine tiroidea.",
+    "Innervazione": "Ansa cervicale (C1-C3).",
+    "Azione": "Abbassa la laringe."
+   }
+  },
+  "Thyrohyoid muscle": {
+   "it": "Muscolo tiroioideo",
+   "ord": 4,
+   "testo": "Corto muscolo che prosegue in alto la direzione dello sternotiroideo.",
+   "campi": {
+    "Inserzione prossimale": "Linea obliqua della cartilagine tiroidea.",
+    "Inserzione distale": "Corpo e grande corno dell'osso ioide.",
+    "Innervazione": "Fibre di C1 che decorrono con il nervo ipoglosso.",
+    "Azione": "Abbassa l'osso ioide; a ioide fisso solleva la laringe."
+   }
+  },
+  "g:prevertebrali": {
+   "it": "Muscoli prevertebrali",
+   "tipo": "gruppo",
+   "parent": "g:anteriori",
+   "ord": 3,
+   "testo": "Muscoli profondi applicati sulla faccia anteriore della colonna cervicale, coperti dalla fascia cervicale profonda: retto anteriore della testa, lungo del collo, lungo della testa e retto laterale della testa. Flettono la testa e il collo; li innervano rami anteriori dei nervi cervicali."
+  },
+  "Rectus anterior capitis muscle": {
+   "it": "Muscolo retto anteriore della testa",
+   "parent": "g:prevertebrali",
+   "ord": 1,
+   "testo": "Piccolo muscolo teso tra atlante e occipitale.",
+   "campi": {
+    "Inserzione prossimale": "Massa laterale dell'atlante.",
+    "Inserzione distale": "Parte basilare dell'occipitale.",
+    "Innervazione": "Rami anteriori di C1-C2.",
+    "Azione": "Flette la testa."
+   }
+  },
+  "Longus colli muscle": {
+   "it": "Muscolo lungo del collo",
+   "parent": "g:prevertebrali",
+   "ord": 2,
+   "testo": "Si estende dall'atlante alla terza vertebra toracica. È divisibile in tre parti: verticale, obliqua superiore e obliqua inferiore.",
+   "campi": {
+    "Inserzione prossimale": "Corpi delle ultime vertebre cervicali e delle prime tre toraciche; processi trasversi da C3 a C5.",
+    "Inserzione distale": "Corpi da C2 a C4, tubercolo anteriore dell'atlante, processi trasversi di C5 e C6.",
+    "Innervazione": "Rami anteriori da C2 a C6.",
+    "Azione": "Flette il collo; da un solo lato lo inclina."
+   }
+  },
+  "Longus capitis muscle": {
+   "it": "Muscolo lungo della testa",
+   "parent": "g:prevertebrali",
+   "ord": 3,
+   "testo": "Posto davanti alla parte alta del lungo del collo.",
+   "campi": {
+    "Inserzione prossimale": "Tubercoli anteriori dei processi trasversi da C3 a C6.",
+    "Inserzione distale": "Parte basilare dell'occipitale.",
+    "Innervazione": "Rami anteriori da C1 a C3.",
+    "Azione": "Flette la testa."
+   }
+  },
+  "Rectus lateralis capitis muscle": {
+   "it": "Muscolo retto laterale della testa",
+   "parent": "g:prevertebrali",
+   "ord": 4,
+   "testo": "Piccolo muscolo teso tra atlante e occipitale, lateralmente al retto anteriore.",
+   "campi": {
+    "Inserzione prossimale": "Processo trasverso dell'atlante.",
+    "Inserzione distale": "Processo giugulare dell'occipitale.",
+    "Innervazione": "Rami anteriori di C1-C2.",
+    "Azione": "Inclina la testa dal proprio lato."
+   }
+  },
+  "g:laterali": {
+   "it": "Muscoli laterali del collo",
+   "tipo": "gruppo",
+   "parent": "Muscles of neck",
+   "ord": 2,
+   "testo": "Dalla superficie alla profondità: platisma, sternocleidomastoideo e muscoli scaleni."
+  },
+  "Platysma": {
+   "it": "Muscolo platisma",
+   "parent": "g:laterali",
+   "ord": 1,
+   "testo": "Sottile lamina muscolare cutanea, subito sotto la pelle del collo; appartiene ai muscoli mimici.",
+   "campi": {
+    "Inserzione prossimale": "Fascia che riveste il grande pettorale e il deltoide.",
+    "Inserzione distale": "Base della mandibola e cute della parte inferiore della faccia.",
+    "Innervazione": "Nervo faciale (VII), ramo del collo.",
+    "Azione": "Tende la cute del collo; abbassa l'angolo della bocca e la mandibola."
+   }
+  },
+  "Sternocleidomastoid muscle": {
+   "it": "Muscolo sternocleidomastoideo",
+   "parent": "g:laterali",
+   "ord": 2,
+   "testo": "Robusto muscolo che attraversa obliquamente la faccia laterale del collo, dove forma un rilievo ben visibile. Divide il collo in regione anteriore e regione laterale.",
+   "campi": {
+    "Inserzione prossimale": "Capo sternale: manubrio dello sterno. Capo clavicolare: terzo mediale della clavicola.",
+    "Inserzione distale": "Processo mastoideo e parte laterale della linea nucale superiore.",
+    "Innervazione": "Nervo accessorio (XI) e rami del plesso cervicale (C2-C3).",
+    "Azione": "Da un solo lato inclina la testa dallo stesso lato e la ruota verso il lato opposto. Da entrambi i lati flette il collo; a testa fissa solleva sterno e clavicole (inspiratorio ausiliario).",
+    "Nota clinica": "La sua retrazione provoca il torcicollo."
+   }
+  },
+  "g:scaleni": {
+   "it": "Muscoli scaleni",
+   "tipo": "gruppo",
+   "parent": "g:laterali",
+   "ord": 3,
+   "testo": "Tre muscoli, anteriore, medio e posteriore, tesi dai processi trasversi delle vertebre cervicali alle prime due coste. Tra scaleno anteriore e medio passano l'arteria succlavia e i tronchi del plesso brachiale. Elevano le prime coste (inspiratori) e inclinano il collo; li innervano rami anteriori dei nervi cervicali."
+  },
+  "Scalenus anterior muscle": {
+   "it": "Muscolo scaleno anteriore",
+   "parent": "g:scaleni",
+   "ord": 1,
+   "testo": "Davanti a esso passano la vena succlavia e il nervo frenico; dietro, l'arteria succlavia e il plesso brachiale.",
+   "campi": {
+    "Inserzione prossimale": "Tubercoli anteriori dei processi trasversi da C3 a C6.",
+    "Inserzione distale": "Tubercolo del muscolo scaleno anteriore, sulla prima costa.",
+    "Innervazione": "Rami anteriori da C4 a C6.",
+    "Azione": "Eleva la prima costa; inclina e flette il collo."
+   }
+  },
+  "Scalenus medius muscle": {
+   "it": "Muscolo scaleno medio",
+   "parent": "g:scaleni",
+   "ord": 2,
+   "testo": "Il più grande e lungo dei tre.",
+   "campi": {
+    "Inserzione prossimale": "Processi trasversi da C2 a C7.",
+    "Inserzione distale": "Faccia superiore della prima costa, dietro il solco dell'arteria succlavia.",
+    "Innervazione": "Rami anteriori da C3 a C8.",
+    "Azione": "Eleva la prima costa; inclina il collo."
+   }
+  },
+  "Scalenus posterior muscle": {
+   "it": "Muscolo scaleno posteriore",
+   "parent": "g:scaleni",
+   "ord": 3,
+   "testo": "Il più piccolo e profondo, spesso unito al medio.",
+   "campi": {
+    "Inserzione prossimale": "Tubercoli posteriori dei processi trasversi da C4 a C6.",
+    "Inserzione distale": "Faccia esterna della seconda costa.",
+    "Innervazione": "Rami anteriori da C6 a C8.",
+    "Azione": "Eleva la seconda costa; inclina il collo."
+   }
+  },
+  "Suboccipital muscles": {
+   "it": "Muscoli posteriori del collo (suboccipitali)",
+   "parent": "Muscles of neck",
+   "ord": 3,
+   "testo": "Quattro piccoli muscoli profondi tra occipitale, atlante ed epistrofeo: piccolo e grande retto posteriore della testa, obliquo superiore e obliquo inferiore. Grande retto e i due obliqui delimitano il triangolo suboccipitale, in cui decorrono l'arteria vertebrale e il nervo suboccipitale. Regolano i movimenti fini della testa; li innerva il nervo suboccipitale, ramo posteriore di C1."
+  },
+  "Rectus posterior minor capitis muscle": {
+   "it": "Muscolo piccolo retto posteriore della testa",
+   "ord": 1,
+   "testo": "Il più mediale e profondo.",
+   "campi": {
+    "Inserzione prossimale": "Tubercolo posteriore dell'atlante.",
+    "Inserzione distale": "Parte mediale della linea nucale inferiore.",
+    "Innervazione": "Nervo suboccipitale (C1).",
+    "Azione": "Estende la testa."
+   }
+  },
+  "Rectus posterior major capitis muscle": {
+   "it": "Muscolo grande retto posteriore della testa",
+   "ord": 2,
+   "testo": "Posto lateralmente al piccolo retto.",
+   "campi": {
+    "Inserzione prossimale": "Processo spinoso dell'epistrofeo.",
+    "Inserzione distale": "Parte laterale della linea nucale inferiore.",
+    "Innervazione": "Nervo suboccipitale (C1).",
+    "Azione": "Estende la testa e la ruota dallo stesso lato."
+   }
+  },
+  "Obliquus superior capitis muscle": {
+   "it": "Muscolo obliquo superiore della testa",
+   "ord": 3,
+   "testo": "Forma il lato superolaterale del triangolo suboccipitale.",
+   "campi": {
+    "Inserzione prossimale": "Processo trasverso dell'atlante.",
+    "Inserzione distale": "Osso occipitale, tra le linee nucali superiore e inferiore.",
+    "Innervazione": "Nervo suboccipitale (C1).",
+    "Azione": "Estende la testa e la inclina dal proprio lato."
+   }
+  },
+  "Obliquus inferior capitis muscle": {
+   "it": "Muscolo obliquo inferiore della testa",
+   "ord": 4,
+   "testo": "Forma il lato inferiore del triangolo suboccipitale; è l'unico del gruppo che non raggiunge il cranio.",
+   "campi": {
+    "Inserzione prossimale": "Processo spinoso dell'epistrofeo.",
+    "Inserzione distale": "Processo trasverso dell'atlante.",
+    "Innervazione": "Nervo suboccipitale (C1).",
+    "Azione": "Ruota l'atlante, e con esso la testa, dallo stesso lato."
+   }
+  },
+  "Cervical vertebrae": {
+   "it": "Vertebre cervicali",
+   "parent": "g:scheletro",
+   "ord": 1,
+   "testo": "Sette vertebre, le più piccole e mobili. Caratteri comuni da C3 a C6: corpo piccolo con processi uncinati, foro vertebrale ampio e triangolare, processo spinoso corto e bifido, processi trasversi attraversati dal foro trasversario. Atlante (C1) ed epistrofeo (C2) sono atipici; C7 ha un lungo processo spinoso."
+  },
+  "Atlas (C1)": {
+   "it": "Atlante (C1)",
+   "ord": 1,
+   "testo": "Prima vertebra cervicale: sostiene il cranio. È priva di corpo e di processo spinoso e ha forma di anello, con due masse laterali unite da un arco anteriore e uno posteriore.",
+   "campi": {
+    "Articolazioni": "In alto con i condili dell'occipitale (atlantoccipitale, per i movimenti del sì); in basso con l'epistrofeo e, sull'arco anteriore, con il suo dente (atlantoassiale, per la rotazione)."
+   }
+  },
+  "Axis (C2)": {
+   "it": "Epistrofeo (C2)",
+   "ord": 2,
+   "testo": "Seconda vertebra cervicale. Dal corpo si solleva il dente, perno attorno al quale ruotano l'atlante e il capo. Ha un processo spinoso robusto e bifido."
+  },
+  "Vertebra C3": {
+   "it": "Terza vertebra cervicale (C3)",
+   "ord": 3,
+   "testo": "Prima vertebra cervicale tipica: corpo piccolo, processo spinoso corto e bifido, foro trasversario per l'arteria vertebrale."
+  },
+  "Vertebra C4": {
+   "it": "Quarta vertebra cervicale (C4)",
+   "ord": 4,
+   "testo": "Vertebra cervicale tipica. Nel modello porta le etichette dei caratteri propri delle vertebre cervicali: processo uncinato, foro trasversario, tubercoli del processo trasverso."
+  },
+  "Vertebra C5": {
+   "it": "Quinta vertebra cervicale (C5)",
+   "ord": 5,
+   "testo": "Vertebra cervicale tipica, al centro della lordosi cervicale."
+  },
+  "Vertebra C6": {
+   "it": "Sesta vertebra cervicale (C6)",
+   "ord": 6,
+   "testo": "Vertebra cervicale tipica. Il tubercolo anteriore del suo processo trasverso è molto sviluppato (tubercolo carotico): contro di esso si può comprimere l'arteria carotide comune."
+  },
+  "Vertebra C7": {
+   "it": "Settima vertebra cervicale (C7, vertebra prominente)",
+   "ord": 7,
+   "testo": "Vertebra di passaggio verso il tratto toracico. Ha un processo spinoso lungo, non bifido e ben palpabile alla base del collo. Il foro trasversario è piccolo e di solito non contiene l'arteria vertebrale."
+  },
+  "Hyoid bone": {
+   "it": "Osso ioide",
+   "parent": "g:scheletro",
+   "ord": 2,
+   "testo": "Osso impari a forma di U, sospeso nel collo sopra la laringe, all'altezza di C3. Non si articola con altre ossa: è tenuto in sede da muscoli e legamenti. Dà attacco ai muscoli sopraioidei e sottoioidei e alla lingua."
+  }
+ },
+ "landmarks": {
+  "Atlas (C1)/Anterior arch of atlas": {
+   "it": "Arco anteriore dell'atlante",
+   "testo": "Breve arco che unisce in avanti le due masse laterali. Porta davanti il tubercolo anteriore e dietro la faccetta per il dente dell'epistrofeo."
+  },
+  "Atlas (C1)/Anterior tubercle of atlas": {
+   "it": "Tubercolo anteriore",
+   "testo": "Rilievo mediano sulla faccia anteriore dell'arco anteriore. Dà attacco al legamento longitudinale anteriore e al muscolo lungo del collo."
+  },
+  "Atlas (C1)/Facet for dens": {
+   "it": "Faccetta articolare per il dente",
+   "testo": "Piccola superficie ovale sulla faccia posteriore dell'arco anteriore. Si articola con il dente dell'epistrofeo."
+  },
+  "Atlas (C1)/Lateral mass": {
+   "it": "Massa laterale",
+   "testo": "Ciascuna delle due parti spesse dell'atlante, che trasmettono il peso del capo. Porta le facce articolari superiore e inferiore e, lateralmente, il processo trasverso."
+  },
+  "Atlas (C1)/Superior articular surface of atlas": {
+   "it": "Faccia articolare superiore",
+   "testo": "Superficie concava e allungata, a forma di suola. Accoglie il condilo dell'occipitale."
+  },
+  "Atlas (C1)/Inferior articular surface of atlas": {
+   "it": "Faccia articolare inferiore",
+   "testo": "Superficie quasi piana e circolare. Si articola con il processo articolare superiore dell'epistrofeo."
+  },
+  "Atlas (C1)/Transverse ligament tubercle": {
+   "it": "Tubercolo per il legamento trasverso",
+   "testo": "Rilievo sulla faccia mediale della massa laterale. Vi si fissa il legamento trasverso dell'atlante, che trattiene il dente contro l'arco anteriore."
+  },
+  "Atlas (C1)/Posterior arch of atlas": {
+   "it": "Arco posteriore dell'atlante",
+   "testo": "Arco più lungo che unisce indietro le masse laterali. Sulla faccia superiore porta il solco per l'arteria vertebrale."
+  },
+  "Atlas (C1)/Posterior tubercle of atlas": {
+   "it": "Tubercolo posteriore",
+   "testo": "Piccolo rilievo mediano dell'arco posteriore, rudimento del processo spinoso. Dà attacco al legamento nucale."
+  },
+  "Atlas (C1)/Groove for vertebral artery": {
+   "it": "Solco per l'arteria vertebrale",
+   "testo": "Solco sulla faccia superiore dell'arco posteriore, dietro la massa laterale. Vi decorrono l'arteria vertebrale e il primo nervo cervicale."
+  },
+  "Atlas (C1)/(Canal for vertebral artery)": {
+   "it": "Canale per l'arteria vertebrale",
+   "testo": "Variante in cui un ponte osseo chiude a canale il solco per l'arteria vertebrale."
+  },
+  "Axis (C2)/Dens axis": {
+   "it": "Dente dell'epistrofeo",
+   "testo": "Robusto processo che si solleva dal corpo; rappresenta il corpo dell'atlante fuso con l'epistrofeo. È il perno della rotazione del capo."
+  },
+  "Axis (C2)/Apex of dens axis": {
+   "it": "Apice del dente",
+   "testo": "Estremità superiore del dente. Dà attacco al legamento dell'apice e ai legamenti alari, diretti all'occipitale."
+  },
+  "Axis (C2)/Anterior articular facet of dens axis": {
+   "it": "Faccia articolare anteriore del dente",
+   "testo": "Superficie ovale sulla faccia anteriore del dente. Si articola con l'arco anteriore dell'atlante."
+  },
+  "Axis (C2)/Posterior articular facet of dens axis": {
+   "it": "Faccia articolare posteriore del dente",
+   "testo": "Superficie sulla faccia posteriore del dente, su cui scorre il legamento trasverso dell'atlante."
+  },
+  "Vertebra C4/Cervical vertebra": {
+   "it": "Vertebra cervicale",
+   "testo": "Vertebra del tratto cervicale. Si riconosce per il corpo piccolo, il foro trasversario e il processo spinoso bifido."
+  },
+  "Vertebra C4/Uncinate process of vertebra": {
+   "it": "Processo uncinato",
+   "testo": "Rilievo che sporge verso l'alto dal margine laterale della faccia superiore del corpo. Si articola con il corpo soprastante (articolazione uncovertebrale)."
+  },
+  "Vertebra C4/Foramen transversarium": {
+   "it": "Foro trasversario",
+   "testo": "Foro alla base del processo trasverso, proprio delle vertebre cervicali. Da C6 a C1 dà passaggio all'arteria e alle vene vertebrali."
+  },
+  "Vertebra C4/Anterior tubercle of transverse process": {
+   "it": "Tubercolo anteriore del processo trasverso",
+   "testo": "Estremità anteriore del processo trasverso. Dà attacco ai muscoli scaleno anteriore e lungo del collo."
+  },
+  "Vertebra C4/Posterior tubercle of transverse process": {
+   "it": "Tubercolo posteriore del processo trasverso",
+   "testo": "Estremità posteriore del processo trasverso. Dà attacco ai muscoli scaleni medio e posteriore e all'elevatore della scapola."
+  },
+  "Vertebra C4/Groove for spinal nerve": {
+   "it": "Solco per il nervo spinale",
+   "testo": "Doccia sulla faccia superiore del processo trasverso, tra i due tubercoli. Vi decorre il ramo anteriore del nervo spinale."
+  },
+  "Hyoid bone/Body of hyoid bone": {
+   "it": "Corpo dell'osso ioide",
+   "testo": "Parte mediana, a lamina quadrilatera convessa in avanti. Dà attacco ai muscoli genioioideo, miloioideo, sternoioideo e omoioideo."
+  },
+  "Hyoid bone/Greater horn of hyoid bone": {
+   "it": "Grande corno",
+   "testo": "Lungo processo che prolunga indietro e in alto l'estremità del corpo. Dà attacco al muscolo ioglosso e alla membrana tiroioidea."
+  },
+  "Hyoid bone/Lesser horn of hyoid bone": {
+   "it": "Piccolo corno",
+   "testo": "Piccolo processo conico alla giunzione tra corpo e grande corno. Vi si fissa il legamento stiloioideo."
+  }
+ }
+}

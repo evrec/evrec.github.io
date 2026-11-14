@@ -1,0 +1,22 @@
+[
+ {
+  "id": "testa",
+  "nome": "Testa"
+ },
+ {
+  "id": "collo",
+  "nome": "Collo"
+ },
+ {
+  "id": "tronco",
+  "nome": "Tronco"
+ },
+ {
+  "id": "arto-superiore",
+  "nome": "Arto superiore"
+ },
+ {
+  "id": "arto-inferiore",
+  "nome": "Arto inferiore"
+ }
+]
